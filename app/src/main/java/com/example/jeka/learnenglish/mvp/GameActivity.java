@@ -23,7 +23,6 @@ public class GameActivity extends AppCompatActivity implements MyRecyclerViewAda
     private GamePresenter presenter;
     MyRecyclerViewAdapter adapter;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -42,10 +41,7 @@ public class GameActivity extends AppCompatActivity implements MyRecyclerViewAda
         presenter = new GamePresenter(gameModel);
         presenter.attachView(this);
 
-
-
         loadData();
-
         //ButterKnife.bind(this);
     }
 

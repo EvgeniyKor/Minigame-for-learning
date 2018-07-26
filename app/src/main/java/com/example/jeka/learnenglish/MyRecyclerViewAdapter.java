@@ -23,7 +23,6 @@ import butterknife.ButterKnife;
 
 public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAdapter.ViewHolder> {
 
-
     private ItemClickListener mClickListener;
     private List<Word> mData;
 
@@ -31,11 +30,8 @@ public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAd
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         View view = LayoutInflater.from(
                 parent.getContext()).inflate(R.layout.item, parent, false);
-
         return new ViewHolder(view);
     }
-
-
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
@@ -65,7 +61,6 @@ public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAd
 
     }
 
-
     @Override
     public int getItemCount() {
         return mData.size();
@@ -94,8 +89,6 @@ public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAd
             ButterKnife.bind(this, itemView);
             itemView.setOnClickListener(this);
         }
-
-
 
         @Override
         public void onClick(View v) {

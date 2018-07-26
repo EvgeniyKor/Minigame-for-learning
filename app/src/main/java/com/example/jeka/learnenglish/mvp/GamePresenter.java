@@ -23,7 +23,6 @@ public class GamePresenter {
     }
 
     public void loadWords(){
-
         gameModel.loadWords(new GameModel.LoadWordCallback() {
             @Override
             public void onLoad(List<Word> words) {

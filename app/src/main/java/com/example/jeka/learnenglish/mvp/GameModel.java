@@ -15,22 +15,14 @@ class GameModel {
 
     private List<Word> data;
     private JSONHelper jsonHelper;
-    //private List<Doublet> doublets;
+
 
     private int amountItems = 15;
 
     GameModel(JSONHelper jsonHelper) {
         this.jsonHelper = jsonHelper;
-        //this.doublets = jsonHelper.importFromJSON();
     }
 
-    public void setAmountItems(int amountItems) {
-        this.amountItems = amountItems;
-    }
-
-    public int getAmountItems() {
-        return amountItems;
-    }
 
     private void setData(List<Word> data) {
         this.data = data;
@@ -48,7 +40,6 @@ class GameModel {
         } else {
             return false;
         }
-
     }
 
     private void shuffle(List<Word> words){
