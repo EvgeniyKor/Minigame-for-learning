@@ -1,0 +1,12818 @@
+[
+  {
+    "text": "и",
+    "answer": "and"
+  },
+  {
+    "text": "в",
+    "answer": "in"
+  },
+  {
+    "text": "не",
+    "answer": "not"
+  },
+  {
+    "text": "на",
+    "answer": "on"
+  },
+  {
+    "text": "я",
+    "answer": "I"
+  },
+  {
+    "text": "быть",
+    "answer": "be"
+  },
+  {
+    "text": "он",
+    "answer": "he"
+  },
+  {
+    "text": "с",
+    "answer": "with"
+  },
+  {
+    "text": "что",
+    "answer": "what"
+  },
+  {
+    "text": "а",
+    "answer": "and"
+  },
+  {
+    "text": "по",
+    "answer": "on"
+  },
+  {
+    "text": "это",
+    "answer": "it"
+  },
+  {
+    "text": "она",
+    "answer": "she"
+  },
+  {
+    "text": "этот",
+    "answer": "this"
+  },
+  {
+    "text": "к",
+    "answer": "to"
+  },
+  {
+    "text": "но",
+    "answer": "but"
+  },
+  {
+    "text": "они",
+    "answer": "they"
+  },
+  {
+    "text": "мы",
+    "answer": "we"
+  },
+  {
+    "text": "как",
+    "answer": "as"
+  },
+  {
+    "text": "из",
+    "answer": "of"
+  },
+  {
+    "text": "у",
+    "answer": "in"
+  },
+  {
+    "text": "который",
+    "answer": "which"
+  },
+  {
+    "text": "то",
+    "answer": "that"
+  },
+  {
+    "text": "за",
+    "answer": "for"
+  },
+  {
+    "text": "свой",
+    "answer": "its"
+  },
+  {
+    "text": "что",
+    "answer": "what"
+  },
+  {
+    "text": "весь",
+    "answer": "all"
+  },
+  {
+    "text": "год",
+    "answer": "year"
+  },
+  {
+    "text": "от",
+    "answer": "from"
+  },
+  {
+    "text": "так",
+    "answer": "so"
+  },
+  {
+    "text": "о",
+    "answer": "about"
+  },
+  {
+    "text": "для",
+    "answer": "for"
+  },
+  {
+    "text": "ты",
+    "answer": "you"
+  },
+  {
+    "text": "все",
+    "answer": "all"
+  },
+  {
+    "text": "тот",
+    "answer": "that"
+  },
+  {
+    "text": "вы",
+    "answer": "you"
+  },
+  {
+    "text": "человек",
+    "answer": "man"
+  },
+  {
+    "text": "такой",
+    "answer": "such"
+  },
+  {
+    "text": "его",
+    "answer": "his"
+  },
+  {
+    "text": "сказать",
+    "answer": "say"
+  },
+  {
+    "text": "или",
+    "answer": "or"
+  },
+  {
+    "text": "еще",
+    "answer": "still"
+  },
+  {
+    "text": "себя",
+    "answer": "himself"
+  },
+  {
+    "text": "один",
+    "answer": "single"
+  },
+  {
+    "text": "как",
+    "answer": "as"
+  },
+  {
+    "text": "уже",
+    "answer": "already"
+  },
+  {
+    "text": "до",
+    "answer": "to"
+  },
+  {
+    "text": "время",
+    "answer": "time"
+  },
+  {
+    "text": "если",
+    "answer": "if"
+  },
+  {
+    "text": "сам",
+    "answer": "himself"
+  },
+  {
+    "text": "когда",
+    "answer": "when"
+  },
+  {
+    "text": "другой",
+    "answer": "other"
+  },
+  {
+    "text": "говорить",
+    "answer": "say"
+  },
+  {
+    "text": "наш",
+    "answer": "our"
+  },
+  {
+    "text": "мой",
+    "answer": "my"
+  },
+  {
+    "text": "знать",
+    "answer": "know"
+  },
+  {
+    "text": "при",
+    "answer": "at"
+  },
+  {
+    "text": "чтобы",
+    "answer": "that"
+  },
+  {
+    "text": "дело",
+    "answer": "case"
+  },
+  {
+    "text": "жизнь",
+    "answer": "life"
+  },
+  {
+    "text": "кто",
+    "answer": "who"
+  },
+  {
+    "text": "первый",
+    "answer": "first"
+  },
+  {
+    "text": "очень",
+    "answer": "very"
+  },
+  {
+    "text": "два",
+    "answer": "two"
+  },
+  {
+    "text": "день",
+    "answer": "day"
+  },
+  {
+    "text": "ее",
+    "answer": "its"
+  },
+  {
+    "text": "новый",
+    "answer": "new"
+  },
+  {
+    "text": "рука",
+    "answer": "hand"
+  },
+  {
+    "text": "даже",
+    "answer": "even"
+  },
+  {
+    "text": "во",
+    "answer": "in"
+  },
+  {
+    "text": "со",
+    "answer": "with"
+  },
+  {
+    "text": "раз",
+    "answer": "time"
+  },
+  {
+    "text": "где",
+    "answer": "where"
+  },
+  {
+    "text": "там",
+    "answer": "there"
+  },
+  {
+    "text": "под",
+    "answer": "under"
+  },
+  {
+    "text": "какой",
+    "answer": "what"
+  },
+  {
+    "text": "после",
+    "answer": "after"
+  },
+  {
+    "text": "их",
+    "answer": "their"
+  },
+  {
+    "text": "работа",
+    "answer": "working"
+  },
+  {
+    "text": "без",
+    "answer": "without"
+  },
+  {
+    "text": "самый",
+    "answer": "very"
+  },
+  {
+    "text": "потом",
+    "answer": "then"
+  },
+  {
+    "text": "хотеть",
+    "answer": "want"
+  },
+  {
+    "text": "слово",
+    "answer": "word"
+  },
+  {
+    "text": "идти",
+    "answer": "go"
+  },
+  {
+    "text": "большой",
+    "answer": "large"
+  },
+  {
+    "text": "должен",
+    "answer": "should"
+  },
+  {
+    "text": "место",
+    "answer": "place"
+  },
+  {
+    "text": "иметь",
+    "answer": "have"
+  },
+  {
+    "text": "ничто",
+    "answer": "nothing"
+  },
+  {
+    "text": "то",
+    "answer": "then"
+  },
+  {
+    "text": "сейчас",
+    "answer": "now"
+  },
+  {
+    "text": "тут",
+    "answer": "here"
+  },
+  {
+    "text": "лицо",
+    "answer": "face"
+  },
+  {
+    "text": "каждый",
+    "answer": "each"
+  },
+  {
+    "text": "друг",
+    "answer": "friend"
+  },
+  {
+    "text": "не-а",
+    "answer": "nope"
+  },
+  {
+    "text": "теперь",
+    "answer": "now"
+  },
+  {
+    "text": "ни",
+    "answer": "not"
+  },
+  {
+    "text": "глаз",
+    "answer": "eye"
+  },
+  {
+    "text": "тоже",
+    "answer": "also"
+  },
+  {
+    "text": "тогда",
+    "answer": "then"
+  },
+  {
+    "text": "видеть",
+    "answer": "see"
+  },
+  {
+    "text": "вопрос",
+    "answer": "question"
+  },
+  {
+    "text": "через",
+    "answer": "through"
+  },
+  {
+    "text": "да",
+    "answer": "and, but"
+  },
+  {
+    "text": "здесь",
+    "answer": "here"
+  },
+  {
+    "text": "дом",
+    "answer": "house"
+  },
+  {
+    "text": "да",
+    "answer": "yes"
+  },
+  {
+    "text": "потому",
+    "answer": "therefore"
+  },
+  {
+    "text": "сторона",
+    "answer": "side"
+  },
+  {
+    "text": "какой-то",
+    "answer": "one"
+  },
+  {
+    "text": "думать",
+    "answer": "think"
+  },
+  {
+    "text": "сделать",
+    "answer": "do"
+  },
+  {
+    "text": "страна",
+    "answer": "country"
+  },
+  {
+    "text": "жить",
+    "answer": "live"
+  },
+  {
+    "text": "чем",
+    "answer": "than"
+  },
+  {
+    "text": "мир",
+    "answer": "world"
+  },
+  {
+    "text": "об",
+    "answer": "about"
+  },
+  {
+    "text": "последний",
+    "answer": "last"
+  },
+  {
+    "text": "случай",
+    "answer": "happening"
+  },
+  {
+    "text": "голова",
+    "answer": "head"
+  },
+  {
+    "text": "более",
+    "answer": "more"
+  },
+  {
+    "text": "делать",
+    "answer": "do"
+  },
+  {
+    "text": "что-то",
+    "answer": "something"
+  },
+  {
+    "text": "смотреть",
+    "answer": "look"
+  },
+  {
+    "text": "ребенок",
+    "answer": "child"
+  },
+  {
+    "text": "просто",
+    "answer": "just"
+  },
+  {
+    "text": "конечно",
+    "answer": "of course"
+  },
+  {
+    "text": "сила",
+    "answer": "force"
+  },
+  {
+    "text": "конец",
+    "answer": "end"
+  },
+  {
+    "text": "перед",
+    "answer": "before"
+  },
+  {
+    "text": "вид",
+    "answer": "view"
+  },
+  {
+    "text": "система",
+    "answer": "system"
+  },
+  {
+    "text": "всегда",
+    "answer": "always"
+  },
+  {
+    "text": "работать",
+    "answer": "work"
+  },
+  {
+    "text": "между",
+    "answer": "between"
+  },
+  {
+    "text": "три",
+    "answer": "three"
+  },
+  {
+    "text": "нет",
+    "answer": "no"
+  },
+  {
+    "text": "пойти",
+    "answer": "go"
+  },
+  {
+    "text": "часть",
+    "answer": "part"
+  },
+  {
+    "text": "спросить",
+    "answer": "ask"
+  },
+  {
+    "text": "город",
+    "answer": "city"
+  },
+  {
+    "text": "дать",
+    "answer": "give"
+  },
+  {
+    "text": "также",
+    "answer": "also"
+  },
+  {
+    "text": "никто",
+    "answer": "no one"
+  },
+  {
+    "text": "получить",
+    "answer": "get"
+  },
+  {
+    "text": "отношение",
+    "answer": "ratio"
+  },
+  {
+    "text": "второй",
+    "answer": "second"
+  },
+  {
+    "text": "ваш",
+    "answer": "your"
+  },
+  {
+    "text": "хотя",
+    "answer": "although"
+  },
+  {
+    "text": "ни",
+    "answer": "nor"
+  },
+  {
+    "text": "сидеть",
+    "answer": "sit"
+  },
+  {
+    "text": "над",
+    "answer": "over"
+  },
+  {
+    "text": "женщина",
+    "answer": "woman"
+  },
+  {
+    "text": "оказаться",
+    "answer": "turn up"
+  },
+  {
+    "text": "русский",
+    "answer": "Russian"
+  },
+  {
+    "text": "один",
+    "answer": "one"
+  },
+  {
+    "text": "взять",
+    "answer": "take"
+  },
+  {
+    "text": "прийти",
+    "answer": "come"
+  },
+  {
+    "text": "являться",
+    "answer": "appear"
+  },
+  {
+    "text": "деньги",
+    "answer": "money"
+  },
+  {
+    "text": "почему",
+    "answer": "why"
+  },
+  {
+    "text": "вдруг",
+    "answer": "suddenly"
+  },
+  {
+    "text": "любить",
+    "answer": "love"
+  },
+  {
+    "text": "стоить",
+    "answer": "cost"
+  },
+  {
+    "text": "почти",
+    "answer": "almost"
+  },
+  {
+    "text": "земля",
+    "answer": "earth"
+  },
+  {
+    "text": "общий",
+    "answer": "general"
+  },
+  {
+    "text": "ведь",
+    "answer": "after all"
+  },
+  {
+    "text": "машина",
+    "answer": "machine"
+  },
+  {
+    "text": "однако",
+    "answer": "but"
+  },
+  {
+    "text": "сразу",
+    "answer": "at once"
+  },
+  {
+    "text": "хорошо",
+    "answer": "good"
+  },
+  {
+    "text": "вода",
+    "answer": "water"
+  },
+  {
+    "text": "отец",
+    "answer": "father"
+  },
+  {
+    "text": "высокий",
+    "answer": "high"
+  },
+  {
+    "text": "остаться",
+    "answer": "stay"
+  },
+  {
+    "text": "много",
+    "answer": "many"
+  },
+  {
+    "text": "проблема",
+    "answer": "problem"
+  },
+  {
+    "text": "начать",
+    "answer": "start off"
+  },
+  {
+    "text": "хороший",
+    "answer": "good"
+  },
+  {
+    "text": "час",
+    "answer": "hour"
+  },
+  {
+    "text": "это",
+    "answer": "it"
+  },
+  {
+    "text": "сегодня",
+    "answer": "today"
+  },
+  {
+    "text": "право",
+    "answer": "right"
+  },
+  {
+    "text": "совсем",
+    "answer": "quite"
+  },
+  {
+    "text": "нога",
+    "answer": "leg"
+  },
+  {
+    "text": "считать",
+    "answer": "think"
+  },
+  {
+    "text": "главный",
+    "answer": "main"
+  },
+  {
+    "text": "решение",
+    "answer": "decision"
+  },
+  {
+    "text": "увидеть",
+    "answer": "see"
+  },
+  {
+    "text": "дверь",
+    "answer": "door"
+  },
+  {
+    "text": "казаться",
+    "answer": "seem"
+  },
+  {
+    "text": "образ",
+    "answer": "form"
+  },
+  {
+    "text": "писать",
+    "answer": "write"
+  },
+  {
+    "text": "история",
+    "answer": "history"
+  },
+  {
+    "text": "лучший",
+    "answer": "best"
+  },
+  {
+    "text": "власть",
+    "answer": "power"
+  },
+  {
+    "text": "закон",
+    "answer": "law"
+  },
+  {
+    "text": "все",
+    "answer": "all"
+  },
+  {
+    "text": "война",
+    "answer": "war"
+  },
+  {
+    "text": "бог",
+    "answer": "god"
+  },
+  {
+    "text": "голос",
+    "answer": "vote"
+  },
+  {
+    "text": "найти",
+    "answer": "to find"
+  },
+  {
+    "text": "поэтому",
+    "answer": "therefore"
+  },
+  {
+    "text": "стоять",
+    "answer": "stand"
+  },
+  {
+    "text": "тысяча",
+    "answer": "thousand"
+  },
+  {
+    "text": "больше",
+    "answer": "more"
+  },
+  {
+    "text": "вместе",
+    "answer": "together"
+  },
+  {
+    "text": "маленький",
+    "answer": "small"
+  },
+  {
+    "text": "книга",
+    "answer": "book"
+  },
+  {
+    "text": "некоторый",
+    "answer": "some"
+  },
+  {
+    "text": "решить",
+    "answer": "decide"
+  },
+  {
+    "text": "любой",
+    "answer": "either"
+  },
+  {
+    "text": "результат",
+    "answer": "result"
+  },
+  {
+    "text": "ночь",
+    "answer": "night"
+  },
+  {
+    "text": "стол",
+    "answer": "table"
+  },
+  {
+    "text": "никогда",
+    "answer": "never"
+  },
+  {
+    "text": "имя",
+    "answer": "name"
+  },
+  {
+    "text": "область",
+    "answer": "region"
+  },
+  {
+    "text": "молодой",
+    "answer": "young"
+  },
+  {
+    "text": "пройти",
+    "answer": "pass the"
+  },
+  {
+    "text": "статья",
+    "answer": "article"
+  },
+  {
+    "text": "оно",
+    "answer": "it"
+  },
+  {
+    "text": "число",
+    "answer": "number"
+  },
+  {
+    "text": "компания",
+    "answer": "company"
+  },
+  {
+    "text": "про",
+    "answer": "against"
+  },
+  {
+    "text": "полный",
+    "answer": "full"
+  },
+  {
+    "text": "принять",
+    "answer": "accept"
+  },
+  {
+    "text": "народ",
+    "answer": "people"
+  },
+  {
+    "text": "никакой",
+    "answer": "no"
+  },
+  {
+    "text": "советский",
+    "answer": "Soviet"
+  },
+  {
+    "text": "жена",
+    "answer": "wife"
+  },
+  {
+    "text": "настоящий",
+    "answer": "present"
+  },
+  {
+    "text": "всякий",
+    "answer": "any"
+  },
+  {
+    "text": "группа",
+    "answer": "group"
+  },
+  {
+    "text": "процесс",
+    "answer": "process"
+  },
+  {
+    "text": "суд",
+    "answer": "court"
+  },
+  {
+    "text": "давать",
+    "answer": "give"
+  },
+  {
+    "text": "ответить",
+    "answer": "answer"
+  },
+  {
+    "text": "старый",
+    "answer": "old"
+  },
+  {
+    "text": "условие",
+    "answer": "condition"
+  },
+  {
+    "text": "твой",
+    "answer": "your"
+  },
+  {
+    "text": "пока",
+    "answer": "while"
+  },
+  {
+    "text": "средство",
+    "answer": "means"
+  },
+  {
+    "text": "помнить",
+    "answer": "remember"
+  },
+  {
+    "text": "начало",
+    "answer": "start"
+  },
+  {
+    "text": "ждать",
+    "answer": "wait"
+  },
+  {
+    "text": "свет",
+    "answer": "shine"
+  },
+  {
+    "text": "пора",
+    "answer": "time"
+  },
+  {
+    "text": "путь",
+    "answer": "way"
+  },
+  {
+    "text": "душа",
+    "answer": "soul"
+  },
+  {
+    "text": "куда",
+    "answer": "where"
+  },
+  {
+    "text": "должен",
+    "answer": "must"
+  },
+  {
+    "text": "разный",
+    "answer": "different"
+  },
+  {
+    "text": "нужный",
+    "answer": "necessary"
+  },
+  {
+    "text": "уровень",
+    "answer": "level"
+  },
+  {
+    "text": "иной",
+    "answer": "other"
+  },
+  {
+    "text": "форма",
+    "answer": "form"
+  },
+  {
+    "text": "связь",
+    "answer": "relations"
+  },
+  {
+    "text": "уж",
+    "answer": "well"
+  },
+  {
+    "text": "минута",
+    "answer": "minute"
+  },
+  {
+    "text": "кроме",
+    "answer": "except"
+  },
+  {
+    "text": "опять",
+    "answer": "again"
+  },
+  {
+    "text": "многий",
+    "answer": "many"
+  },
+  {
+    "text": "белый",
+    "answer": "white"
+  },
+  {
+    "text": "улица",
+    "answer": "street"
+  },
+  {
+    "text": "черный",
+    "answer": "black"
+  },
+  {
+    "text": "написать",
+    "answer": "write"
+  },
+  {
+    "text": "вечер",
+    "answer": "evening"
+  },
+  {
+    "text": "снова",
+    "answer": "again"
+  },
+  {
+    "text": "основной",
+    "answer": "main"
+  },
+  {
+    "text": "качество",
+    "answer": "quality"
+  },
+  {
+    "text": "мысль",
+    "answer": "think"
+  },
+  {
+    "text": "дорога",
+    "answer": "road"
+  },
+  {
+    "text": "мать",
+    "answer": "mother"
+  },
+  {
+    "text": "действие",
+    "answer": "act"
+  },
+  {
+    "text": "месяц",
+    "answer": "month"
+  },
+  {
+    "text": "язык",
+    "answer": "language"
+  },
+  {
+    "text": "любовь",
+    "answer": "love"
+  },
+  {
+    "text": "взгляд",
+    "answer": "sight"
+  },
+  {
+    "text": "мама",
+    "answer": "mother"
+  },
+  {
+    "text": "играть",
+    "answer": "play"
+  },
+  {
+    "text": "далекий",
+    "answer": "far"
+  },
+  {
+    "text": "лежать",
+    "answer": "lie"
+  },
+  {
+    "text": "нельзя",
+    "answer": "must not"
+  },
+  {
+    "text": "век",
+    "answer": "century"
+  },
+  {
+    "text": "школа",
+    "answer": "school"
+  },
+  {
+    "text": "подумать",
+    "answer": "bethink"
+  },
+  {
+    "text": "цель",
+    "answer": "goal"
+  },
+  {
+    "text": "среди",
+    "answer": "among"
+  },
+  {
+    "text": "общество",
+    "answer": "society"
+  },
+  {
+    "text": "кто-то",
+    "answer": "someone"
+  },
+  {
+    "text": "вернуться",
+    "answer": "return"
+  },
+  {
+    "text": "президент",
+    "answer": "president"
+  },
+  {
+    "text": "комната",
+    "answer": "room"
+  },
+  {
+    "text": "порядок",
+    "answer": "order"
+  },
+  {
+    "text": "момент",
+    "answer": "moment"
+  },
+  {
+    "text": "театр",
+    "answer": "theater"
+  },
+  {
+    "text": "следовать",
+    "answer": "follow"
+  },
+  {
+    "text": "читать",
+    "answer": "read"
+  },
+  {
+    "text": "письмо",
+    "answer": "letter"
+  },
+  {
+    "text": "подобный",
+    "answer": "like"
+  },
+  {
+    "text": "следующий",
+    "answer": "following"
+  },
+  {
+    "text": "утро",
+    "answer": "morning"
+  },
+  {
+    "text": "особенно",
+    "answer": "special"
+  },
+  {
+    "text": "помощь",
+    "answer": "help"
+  },
+  {
+    "text": "ситуация",
+    "answer": "situation"
+  },
+  {
+    "text": "роль",
+    "answer": "role"
+  },
+  {
+    "text": "бывать",
+    "answer": "be"
+  },
+  {
+    "text": "ходить",
+    "answer": "walk"
+  },
+  {
+    "text": "рубль",
+    "answer": "ruble"
+  },
+  {
+    "text": "начинать",
+    "answer": "start off"
+  },
+  {
+    "text": "смысл",
+    "answer": "meaning"
+  },
+  {
+    "text": "состояние",
+    "answer": "condition"
+  },
+  {
+    "text": "называть",
+    "answer": "call"
+  },
+  {
+    "text": "рядом",
+    "answer": "next"
+  },
+  {
+    "text": "квартира",
+    "answer": "apartment"
+  },
+  {
+    "text": "назад",
+    "answer": "back"
+  },
+  {
+    "text": "равный",
+    "answer": "equal"
+  },
+  {
+    "text": "орган",
+    "answer": "organ"
+  },
+  {
+    "text": "внимание",
+    "answer": "attention"
+  },
+  {
+    "text": "тело",
+    "answer": "body"
+  },
+  {
+    "text": "труд",
+    "answer": "work"
+  },
+  {
+    "text": "прийтись",
+    "answer": "come"
+  },
+  {
+    "text": "хотеться",
+    "answer": "want"
+  },
+  {
+    "text": "сын",
+    "answer": "son"
+  },
+  {
+    "text": "мера",
+    "answer": "measure"
+  },
+  {
+    "text": "пять",
+    "answer": "five"
+  },
+  {
+    "text": "смерть",
+    "answer": "death"
+  },
+  {
+    "text": "живой",
+    "answer": "live"
+  },
+  {
+    "text": "рынок",
+    "answer": "market"
+  },
+  {
+    "text": "программа",
+    "answer": "program"
+  },
+  {
+    "text": "задача",
+    "answer": "problem"
+  },
+  {
+    "text": "известный",
+    "answer": "known"
+  },
+  {
+    "text": "окно",
+    "answer": "window"
+  },
+  {
+    "text": "вести",
+    "answer": "lead"
+  },
+  {
+    "text": "военный",
+    "answer": "military"
+  },
+  {
+    "text": "показать",
+    "answer": "show"
+  },
+  {
+    "text": "важный",
+    "answer": "important"
+  },
+  {
+    "text": "семья",
+    "answer": "family"
+  },
+  {
+    "text": "великий",
+    "answer": "great"
+  },
+  {
+    "text": "простой",
+    "answer": "plain"
+  },
+  {
+    "text": "значит",
+    "answer": "so"
+  },
+  {
+    "text": "третий",
+    "answer": "third"
+  },
+  {
+    "text": "сколько",
+    "answer": "how many"
+  },
+  {
+    "text": "огромный",
+    "answer": "huge"
+  },
+  {
+    "text": "давно",
+    "answer": "long"
+  },
+  {
+    "text": "положение",
+    "answer": "position"
+  },
+  {
+    "text": "поставить",
+    "answer": "screw"
+  },
+  {
+    "text": "бояться",
+    "answer": "fear"
+  },
+  {
+    "text": "наконец",
+    "answer": "at last"
+  },
+  {
+    "text": "центр",
+    "answer": "center"
+  },
+  {
+    "text": "ответ",
+    "answer": "answer"
+  },
+  {
+    "text": "муж",
+    "answer": "husband"
+  },
+  {
+    "text": "автор",
+    "answer": "author"
+  },
+  {
+    "text": "стена",
+    "answer": "wall"
+  },
+  {
+    "text": "даже",
+    "answer": "though"
+  },
+  {
+    "text": "интерес",
+    "answer": "interest"
+  },
+  {
+    "text": "правило",
+    "answer": "rule"
+  },
+  {
+    "text": "оба",
+    "answer": "both"
+  },
+  {
+    "text": "часто",
+    "answer": "often"
+  },
+  {
+    "text": "слышать",
+    "answer": "hear"
+  },
+  {
+    "text": "быстро",
+    "answer": "fast"
+  },
+  {
+    "text": "заметить",
+    "answer": "observe"
+  },
+  {
+    "text": "как-то",
+    "answer": "somehow"
+  },
+  {
+    "text": "мужчина",
+    "answer": "man"
+  },
+  {
+    "text": "долго",
+    "answer": "long"
+  },
+  {
+    "text": "идея",
+    "answer": "idea"
+  },
+  {
+    "text": "партия",
+    "answer": "party"
+  },
+  {
+    "text": "иногда",
+    "answer": "sometimes"
+  },
+  {
+    "text": "пытаться",
+    "answer": "try"
+  },
+  {
+    "text": "готовый",
+    "answer": "ready"
+  },
+  {
+    "text": "чуть",
+    "answer": "slightly"
+  },
+  {
+    "text": "зачем",
+    "answer": "why"
+  },
+  {
+    "text": "создать",
+    "answer": "create"
+  },
+  {
+    "text": "совет",
+    "answer": "advice"
+  },
+  {
+    "text": "счет",
+    "answer": "account"
+  },
+  {
+    "text": "сердце",
+    "answer": "heart"
+  },
+  {
+    "text": "движение",
+    "answer": "movement"
+  },
+  {
+    "text": "вещь",
+    "answer": "thing"
+  },
+  {
+    "text": "материал",
+    "answer": "material"
+  },
+  {
+    "text": "неделя",
+    "answer": "week"
+  },
+  {
+    "text": "чувство",
+    "answer": "feeling"
+  },
+  {
+    "text": "затем",
+    "answer": "then"
+  },
+  {
+    "text": "данный",
+    "answer": "given"
+  },
+  {
+    "text": "красный",
+    "answer": "red"
+  },
+  {
+    "text": "глава",
+    "answer": "chapter"
+  },
+  {
+    "text": "слушать",
+    "answer": "listen"
+  },
+  {
+    "text": "наука",
+    "answer": "science"
+  },
+  {
+    "text": "узнать",
+    "answer": "learn"
+  },
+  {
+    "text": "ряд",
+    "answer": "series"
+  },
+  {
+    "text": "газета",
+    "answer": "newspaper"
+  },
+  {
+    "text": "причина",
+    "answer": "cause"
+  },
+  {
+    "text": "против",
+    "answer": "versus"
+  },
+  {
+    "text": "плечо",
+    "answer": "shoulder"
+  },
+  {
+    "text": "цена",
+    "answer": "price"
+  },
+  {
+    "text": "план",
+    "answer": "plan"
+  },
+  {
+    "text": "приехать",
+    "answer": "come"
+  },
+  {
+    "text": "речь",
+    "answer": "speech"
+  },
+  {
+    "text": "четыре",
+    "answer": "four"
+  },
+  {
+    "text": "отвечать",
+    "answer": "answer"
+  },
+  {
+    "text": "точка",
+    "answer": "dot"
+  },
+  {
+    "text": "основа",
+    "answer": "warp"
+  },
+  {
+    "text": "товарищ",
+    "answer": "comrade"
+  },
+  {
+    "text": "культура",
+    "answer": "crop"
+  },
+  {
+    "text": "слишком",
+    "answer": "too"
+  },
+  {
+    "text": "вполне",
+    "answer": "quite"
+  },
+  {
+    "text": "далее",
+    "answer": "further"
+  },
+  {
+    "text": "данные",
+    "answer": "data"
+  },
+  {
+    "text": "мнение",
+    "answer": "opinion"
+  },
+  {
+    "text": "около",
+    "answer": "about"
+  },
+  {
+    "text": "документ",
+    "answer": "document"
+  },
+  {
+    "text": "институт",
+    "answer": "institute"
+  },
+  {
+    "text": "ход",
+    "answer": "progress"
+  },
+  {
+    "text": "брать",
+    "answer": "take"
+  },
+  {
+    "text": "забыть",
+    "answer": "forget"
+  },
+  {
+    "text": "проект",
+    "answer": "project"
+  },
+  {
+    "text": "ранний",
+    "answer": "early"
+  },
+  {
+    "text": "встреча",
+    "answer": "meeting"
+  },
+  {
+    "text": "особый",
+    "answer": "special"
+  },
+  {
+    "text": "целый",
+    "answer": "whole"
+  },
+  {
+    "text": "директор",
+    "answer": "director"
+  },
+  {
+    "text": "провести",
+    "answer": "outwit"
+  },
+  {
+    "text": "спать",
+    "answer": "sleep"
+  },
+  {
+    "text": "плохой",
+    "answer": "bad"
+  },
+  {
+    "text": "может",
+    "answer": "can"
+  },
+  {
+    "text": "сильный",
+    "answer": "strong"
+  },
+  {
+    "text": "наверное",
+    "answer": "certainly"
+  },
+  {
+    "text": "скорый",
+    "answer": "early"
+  },
+  {
+    "text": "ведь",
+    "answer": "after all"
+  },
+  {
+    "text": "срок",
+    "answer": "term"
+  },
+  {
+    "text": "палец",
+    "answer": "finger"
+  },
+  {
+    "text": "помочь",
+    "answer": "hand"
+  },
+  {
+    "text": "больше",
+    "answer": "more"
+  },
+  {
+    "text": "приходить",
+    "answer": "come"
+  },
+  {
+    "text": "служба",
+    "answer": "service"
+  },
+  {
+    "text": "крупный",
+    "answer": "large"
+  },
+  {
+    "text": "просить",
+    "answer": "ask"
+  },
+  {
+    "text": "вспомнить",
+    "answer": "bethink"
+  },
+  {
+    "text": "открыть",
+    "answer": "open"
+  },
+  {
+    "text": "привести",
+    "answer": "fetch"
+  },
+  {
+    "text": "судьба",
+    "answer": "fate"
+  },
+  {
+    "text": "пока",
+    "answer": "so far"
+  },
+  {
+    "text": "девушка",
+    "answer": "girl"
+  },
+  {
+    "text": "поскольку",
+    "answer": "since"
+  },
+  {
+    "text": "очередь",
+    "answer": "queue"
+  },
+  {
+    "text": "лес",
+    "answer": "forest"
+  },
+  {
+    "text": "пусть",
+    "answer": "let"
+  },
+  {
+    "text": "оставить",
+    "answer": "stay"
+  },
+  {
+    "text": "правый",
+    "answer": "right"
+  },
+  {
+    "text": "словно",
+    "answer": "as if"
+  },
+  {
+    "text": "принимать",
+    "answer": "accept"
+  },
+  {
+    "text": "член",
+    "answer": "member"
+  },
+  {
+    "text": "искать",
+    "answer": "search"
+  },
+  {
+    "text": "близкий",
+    "answer": "close"
+  },
+  {
+    "text": "похожий",
+    "answer": "similar"
+  },
+  {
+    "text": "событие",
+    "answer": "event"
+  },
+  {
+    "text": "объект",
+    "answer": "object"
+  },
+  {
+    "text": "зал",
+    "answer": "hall"
+  },
+  {
+    "text": "создание",
+    "answer": "creature"
+  },
+  {
+    "text": "различный",
+    "answer": "different"
+  },
+  {
+    "text": "значение",
+    "answer": "value"
+  },
+  {
+    "text": "назвать",
+    "answer": "call"
+  },
+  {
+    "text": "период",
+    "answer": "period"
+  },
+  {
+    "text": "хоть",
+    "answer": "though"
+  },
+  {
+    "text": "шаг",
+    "answer": "step"
+  },
+  {
+    "text": "успеть",
+    "answer": "have time"
+  },
+  {
+    "text": "произойти",
+    "answer": "happen"
+  },
+  {
+    "text": "брат",
+    "answer": "brother"
+  },
+  {
+    "text": "искусство",
+    "answer": "art"
+  },
+  {
+    "text": "легкий",
+    "answer": "easy"
+  },
+  {
+    "text": "структура",
+    "answer": "structure"
+  },
+  {
+    "text": "выходить",
+    "answer": "come out"
+  },
+  {
+    "text": "номер",
+    "answer": "room"
+  },
+  {
+    "text": "пример",
+    "answer": "example"
+  },
+  {
+    "text": "пить",
+    "answer": "drink"
+  },
+  {
+    "text": "гражданин",
+    "answer": "citizen"
+  },
+  {
+    "text": "глядеть",
+    "answer": "look"
+  },
+  {
+    "text": "игра",
+    "answer": "game"
+  },
+  {
+    "text": "начальник",
+    "answer": "chief"
+  },
+  {
+    "text": "сей",
+    "answer": "this"
+  },
+  {
+    "text": "рост",
+    "answer": "growth"
+  },
+  {
+    "text": "ехать",
+    "answer": "go"
+  },
+  {
+    "text": "тема",
+    "answer": "topic"
+  },
+  {
+    "text": "принцип",
+    "answer": "principle"
+  },
+  {
+    "text": "дорогой",
+    "answer": "expensive"
+  },
+  {
+    "text": "попасть",
+    "answer": "get"
+  },
+  {
+    "text": "десять",
+    "answer": "ten"
+  },
+  {
+    "text": "начаться",
+    "answer": "begin"
+  },
+  {
+    "text": "верить",
+    "answer": "believe"
+  },
+  {
+    "text": "метод",
+    "answer": "method"
+  },
+  {
+    "text": "тип",
+    "answer": "type"
+  },
+  {
+    "text": "фильм",
+    "answer": "film"
+  },
+  {
+    "text": "небольшой",
+    "answer": "small"
+  },
+  {
+    "text": "держать",
+    "answer": "keep"
+  },
+  {
+    "text": "либо",
+    "answer": "or"
+  },
+  {
+    "text": "позволять",
+    "answer": "let"
+  },
+  {
+    "text": "край",
+    "answer": "edge"
+  },
+  {
+    "text": "местный",
+    "answer": "local"
+  },
+  {
+    "text": "менее",
+    "answer": "less"
+  },
+  {
+    "text": "гость",
+    "answer": "guest"
+  },
+  {
+    "text": "купить",
+    "answer": "buy"
+  },
+  {
+    "text": "уходить",
+    "answer": "go"
+  },
+  {
+    "text": "воздух",
+    "answer": "air"
+  },
+  {
+    "text": "туда",
+    "answer": "there"
+  },
+  {
+    "text": "бывший",
+    "answer": "former"
+  },
+  {
+    "text": "требовать",
+    "answer": "require"
+  },
+  {
+    "text": "характер",
+    "answer": "character"
+  },
+  {
+    "text": "борьба",
+    "answer": "struggle"
+  },
+  {
+    "text": "кстати",
+    "answer": "apropos"
+  },
+  {
+    "text": "подойти",
+    "answer": "come up"
+  },
+  {
+    "text": "размер",
+    "answer": "size"
+  },
+  {
+    "text": "получать",
+    "answer": "get"
+  },
+  {
+    "text": "мальчик",
+    "answer": "boy"
+  },
+  {
+    "text": "кровь",
+    "answer": "blood"
+  },
+  {
+    "text": "район",
+    "answer": "district"
+  },
+  {
+    "text": "небо",
+    "answer": "sky"
+  },
+  {
+    "text": "армия",
+    "answer": "army"
+  },
+  {
+    "text": "класс",
+    "answer": "class"
+  },
+  {
+    "text": "девочка",
+    "answer": "girl"
+  },
+  {
+    "text": "политика",
+    "answer": "policy"
+  },
+  {
+    "text": "сначала",
+    "answer": "first"
+  },
+  {
+    "text": "герой",
+    "answer": "hero"
+  },
+  {
+    "text": "картина",
+    "answer": "picture"
+  },
+  {
+    "text": "широкий",
+    "answer": "wide"
+  },
+  {
+    "text": "доллар",
+    "answer": "dollar"
+  },
+  {
+    "text": "спина",
+    "answer": "back"
+  },
+  {
+    "text": "мировой",
+    "answer": "world"
+  },
+  {
+    "text": "пол",
+    "answer": "floor"
+  },
+  {
+    "text": "тяжелый",
+    "answer": "heavy"
+  },
+  {
+    "text": "довольно",
+    "answer": "quite"
+  },
+  {
+    "text": "поле",
+    "answer": "field"
+  },
+  {
+    "text": "ж",
+    "answer": "Well"
+  },
+  {
+    "text": "изменение",
+    "answer": "change"
+  },
+  {
+    "text": "умереть",
+    "answer": "die"
+  },
+  {
+    "text": "более",
+    "answer": "more"
+  },
+  {
+    "text": "рисунок",
+    "answer": "drawing"
+  },
+  {
+    "text": "течение",
+    "answer": "flow"
+  },
+  {
+    "text": "возможный",
+    "answer": "possible"
+  },
+  {
+    "text": "церковь",
+    "answer": "church"
+  },
+  {
+    "text": "банк",
+    "answer": "bank"
+  },
+  {
+    "text": "отдельный",
+    "answer": "separate"
+  },
+  {
+    "text": "средний",
+    "answer": "average"
+  },
+  {
+    "text": "красивый",
+    "answer": "beautiful"
+  },
+  {
+    "text": "сцена",
+    "answer": "scene"
+  },
+  {
+    "text": "сесть",
+    "answer": "get"
+  },
+  {
+    "text": "двадцать",
+    "answer": "twenty"
+  },
+  {
+    "text": "случиться",
+    "answer": "happen"
+  },
+  {
+    "text": "музыка",
+    "answer": "music"
+  },
+  {
+    "text": "короткий",
+    "answer": "short"
+  },
+  {
+    "text": "правда",
+    "answer": "truth"
+  },
+  {
+    "text": "проходить",
+    "answer": "pass"
+  },
+  {
+    "text": "свобода",
+    "answer": "freedom"
+  },
+  {
+    "text": "память",
+    "answer": "memory"
+  },
+  {
+    "text": "причем",
+    "answer": "at that"
+  },
+  {
+    "text": "команда",
+    "answer": "command"
+  },
+  {
+    "text": "союз",
+    "answer": "union"
+  },
+  {
+    "text": "будто",
+    "answer": "as if"
+  },
+  {
+    "text": "поднять",
+    "answer": "catch up"
+  },
+  {
+    "text": "врач",
+    "answer": "doctor"
+  },
+  {
+    "text": "серьезный",
+    "answer": "serious"
+  },
+  {
+    "text": "договор",
+    "answer": "contract"
+  },
+  {
+    "text": "стараться",
+    "answer": "try"
+  },
+  {
+    "text": "встать",
+    "answer": "be up"
+  },
+  {
+    "text": "дерево",
+    "answer": "tree"
+  },
+  {
+    "text": "факт",
+    "answer": "fact"
+  },
+  {
+    "text": "добрый",
+    "answer": "good"
+  },
+  {
+    "text": "всего",
+    "answer": "Total"
+  },
+  {
+    "text": "хозяин",
+    "answer": "host"
+  },
+  {
+    "text": "однажды",
+    "answer": "once"
+  },
+  {
+    "text": "длинный",
+    "answer": "long"
+  },
+  {
+    "text": "природа",
+    "answer": "nature"
+  },
+  {
+    "text": "домой",
+    "answer": "home"
+  },
+  {
+    "text": "страшный",
+    "answer": "terrible"
+  },
+  {
+    "text": "прошлый",
+    "answer": "last"
+  },
+  {
+    "text": "будто",
+    "answer": "really"
+  },
+  {
+    "text": "угол",
+    "answer": "angle"
+  },
+  {
+    "text": "чтоб",
+    "answer": "to"
+  },
+  {
+    "text": "телефон",
+    "answer": "telephone"
+  },
+  {
+    "text": "позиция",
+    "answer": "position"
+  },
+  {
+    "text": "проводить",
+    "answer": "spend"
+  },
+  {
+    "text": "скоро",
+    "answer": "soon"
+  },
+  {
+    "text": "наиболее",
+    "answer": "most"
+  },
+  {
+    "text": "двор",
+    "answer": "courtyard"
+  },
+  {
+    "text": "обычно",
+    "answer": "usually"
+  },
+  {
+    "text": "бросить",
+    "answer": "throw"
+  },
+  {
+    "text": "разве",
+    "answer": "except"
+  },
+  {
+    "text": "писатель",
+    "answer": "writer"
+  },
+  {
+    "text": "самолет",
+    "answer": "aircraft"
+  },
+  {
+    "text": "объем",
+    "answer": "volume"
+  },
+  {
+    "text": "далеко",
+    "answer": "far"
+  },
+  {
+    "text": "род",
+    "answer": "genus"
+  },
+  {
+    "text": "солнце",
+    "answer": "sun"
+  },
+  {
+    "text": "вера",
+    "answer": "faith"
+  },
+  {
+    "text": "берег",
+    "answer": "coast"
+  },
+  {
+    "text": "фирма",
+    "answer": "firm"
+  },
+  {
+    "text": "способ",
+    "answer": "way"
+  },
+  {
+    "text": "завод",
+    "answer": "plant"
+  },
+  {
+    "text": "цвет",
+    "answer": "blossom"
+  },
+  {
+    "text": "журнал",
+    "answer": "magazine"
+  },
+  {
+    "text": "возможно",
+    "answer": "perhaps"
+  },
+  {
+    "text": "детский",
+    "answer": "childish"
+  },
+  {
+    "text": "точно",
+    "answer": "exactly"
+  },
+  {
+    "text": "объяснить",
+    "answer": "explain"
+  },
+  {
+    "text": "единый",
+    "answer": "single"
+  },
+  {
+    "text": "снять",
+    "answer": "shoot"
+  },
+  {
+    "text": "низкий",
+    "answer": "low"
+  },
+  {
+    "text": "нравиться",
+    "answer": "like"
+  },
+  {
+    "text": "услышать",
+    "answer": "hear"
+  },
+  {
+    "text": "регион",
+    "answer": "region"
+  },
+  {
+    "text": "связать",
+    "answer": "tie"
+  },
+  {
+    "text": "песня",
+    "answer": "song"
+  },
+  {
+    "text": "процент",
+    "answer": "interest"
+  },
+  {
+    "text": "родитель",
+    "answer": "parent"
+  },
+  {
+    "text": "позволить",
+    "answer": "let"
+  },
+  {
+    "text": "чужой",
+    "answer": "foreign"
+  },
+  {
+    "text": "море",
+    "answer": "sea"
+  },
+  {
+    "text": "странный",
+    "answer": "strange"
+  },
+  {
+    "text": "чистый",
+    "answer": "clean"
+  },
+  {
+    "text": "весьма",
+    "answer": "highly"
+  },
+  {
+    "text": "основание",
+    "answer": "base"
+  },
+  {
+    "text": "половина",
+    "answer": "half"
+  },
+  {
+    "text": "поехать",
+    "answer": "depart"
+  },
+  {
+    "text": "положить",
+    "answer": "rely"
+  },
+  {
+    "text": "входить",
+    "answer": "enter"
+  },
+  {
+    "text": "легко",
+    "answer": "easily"
+  },
+  {
+    "text": "поздний",
+    "answer": "late"
+  },
+  {
+    "text": "роман",
+    "answer": "novel"
+  },
+  {
+    "text": "круг",
+    "answer": "circle"
+  },
+  {
+    "text": "анализ",
+    "answer": "analysis"
+  },
+  {
+    "text": "стихи",
+    "answer": "verse"
+  },
+  {
+    "text": "экономика",
+    "answer": "economy"
+  },
+  {
+    "text": "бумага",
+    "answer": "paper"
+  },
+  {
+    "text": "впервые",
+    "answer": "first"
+  },
+  {
+    "text": "видно",
+    "answer": "evidently"
+  },
+  {
+    "text": "поэт",
+    "answer": "poet"
+  },
+  {
+    "text": "степень",
+    "answer": "power"
+  },
+  {
+    "text": "вызвать",
+    "answer": "call"
+  },
+  {
+    "text": "касаться",
+    "answer": "touch"
+  },
+  {
+    "text": "господин",
+    "answer": "lord"
+  },
+  {
+    "text": "надежда",
+    "answer": "hope"
+  },
+  {
+    "text": "сложный",
+    "answer": "complex"
+  },
+  {
+    "text": "вокруг",
+    "answer": "around"
+  },
+  {
+    "text": "предмет",
+    "answer": "subject"
+  },
+  {
+    "text": "отметить",
+    "answer": "note"
+  },
+  {
+    "text": "заявить",
+    "answer": "claim"
+  },
+  {
+    "text": "вариант",
+    "answer": "option"
+  },
+  {
+    "text": "министр",
+    "answer": "minister"
+  },
+  {
+    "text": "откуда",
+    "answer": "whence"
+  },
+  {
+    "text": "реальный",
+    "answer": "real"
+  },
+  {
+    "text": "граница",
+    "answer": "border"
+  },
+  {
+    "text": "дух",
+    "answer": "spirit"
+  },
+  {
+    "text": "модель",
+    "answer": "model"
+  },
+  {
+    "text": "операция",
+    "answer": "operation"
+  },
+  {
+    "text": "пара",
+    "answer": "couple"
+  },
+  {
+    "text": "сон",
+    "answer": "sleep"
+  },
+  {
+    "text": "немного",
+    "answer": "little"
+  },
+  {
+    "text": "название",
+    "answer": "name"
+  },
+  {
+    "text": "ум",
+    "answer": "mind"
+  },
+  {
+    "text": "повод",
+    "answer": "occasion"
+  },
+  {
+    "text": "старик",
+    "answer": "old man"
+  },
+  {
+    "text": "способный",
+    "answer": "capable"
+  },
+  {
+    "text": "мало",
+    "answer": "little"
+  },
+  {
+    "text": "миллион",
+    "answer": "million"
+  },
+  {
+    "text": "малый",
+    "answer": "small"
+  },
+  {
+    "text": "старший",
+    "answer": "senior"
+  },
+  {
+    "text": "успех",
+    "answer": "success"
+  },
+  {
+    "text": "личный",
+    "answer": "private"
+  },
+  {
+    "text": "счастье",
+    "answer": "happiness"
+  },
+  {
+    "text": "свободный",
+    "answer": "free"
+  },
+  {
+    "text": "ребята",
+    "answer": "children"
+  },
+  {
+    "text": "обычный",
+    "answer": "common"
+  },
+  {
+    "text": "кабинет",
+    "answer": "cabinet"
+  },
+  {
+    "text": "высший",
+    "answer": "higher"
+  },
+  {
+    "text": "кричать",
+    "answer": "shout"
+  },
+  {
+    "text": "прежде",
+    "answer": "prior to"
+  },
+  {
+    "text": "магазин",
+    "answer": "store"
+  },
+  {
+    "text": "выход",
+    "answer": "output"
+  },
+  {
+    "text": "удар",
+    "answer": "hit"
+  },
+  {
+    "text": "база",
+    "answer": "base"
+  },
+  {
+    "text": "знание",
+    "answer": "knowledge"
+  },
+  {
+    "text": "текст",
+    "answer": "text"
+  },
+  {
+    "text": "сюда",
+    "answer": "here"
+  },
+  {
+    "text": "темный",
+    "answer": "dark"
+  },
+  {
+    "text": "вовсе",
+    "answer": "any"
+  },
+  {
+    "text": "площадь",
+    "answer": "area"
+  },
+  {
+    "text": "убить",
+    "answer": "kill"
+  },
+  {
+    "text": "возраст",
+    "answer": "age"
+  },
+  {
+    "text": "молчать",
+    "answer": "be silent"
+  },
+  {
+    "text": "участник",
+    "answer": "party"
+  },
+  {
+    "text": "участок",
+    "answer": "site"
+  },
+  {
+    "text": "рано",
+    "answer": "early"
+  },
+  {
+    "text": "пункт",
+    "answer": "paragraph"
+  },
+  {
+    "text": "несмотря",
+    "answer": "despite"
+  },
+  {
+    "text": "сильно",
+    "answer": "strong"
+  },
+  {
+    "text": "столь",
+    "answer": "so"
+  },
+  {
+    "text": "сообщить",
+    "answer": "report"
+  },
+  {
+    "text": "линия",
+    "answer": "line"
+  },
+  {
+    "text": "бежать",
+    "answer": "run"
+  },
+  {
+    "text": "желание",
+    "answer": "desire"
+  },
+  {
+    "text": "папа",
+    "answer": "dad"
+  },
+  {
+    "text": "кажется",
+    "answer": "it seems"
+  },
+  {
+    "text": "петь",
+    "answer": "sing"
+  },
+  {
+    "text": "доктор",
+    "answer": "doctor"
+  },
+  {
+    "text": "губа",
+    "answer": "lip"
+  },
+  {
+    "text": "известно",
+    "answer": "known"
+  },
+  {
+    "text": "дома",
+    "answer": "home"
+  },
+  {
+    "text": "вызывать",
+    "answer": "call"
+  },
+  {
+    "text": "дочь",
+    "answer": "daughter"
+  },
+  {
+    "text": "среда",
+    "answer": "Wednesday"
+  },
+  {
+    "text": "солдат",
+    "answer": "soldier"
+  },
+  {
+    "text": "художник",
+    "answer": "artist"
+  },
+  {
+    "text": "принести",
+    "answer": "bring"
+  },
+  {
+    "text": "волос",
+    "answer": "hair"
+  },
+  {
+    "text": "оружие",
+    "answer": "weapon"
+  },
+  {
+    "text": "выглядеть",
+    "answer": "look"
+  },
+  {
+    "text": "никак",
+    "answer": "in no way"
+  },
+  {
+    "text": "ветер",
+    "answer": "wind"
+  },
+  {
+    "text": "внешний",
+    "answer": "external"
+  },
+  {
+    "text": "парень",
+    "answer": "guy"
+  },
+  {
+    "text": "служить",
+    "answer": "serve"
+  },
+  {
+    "text": "зрение",
+    "answer": "vision"
+  },
+  {
+    "text": "попросить",
+    "answer": "ask"
+  },
+  {
+    "text": "генерал",
+    "answer": "general"
+  },
+  {
+    "text": "состоять",
+    "answer": "consist"
+  },
+  {
+    "text": "огонь",
+    "answer": "fire"
+  },
+  {
+    "text": "отдать",
+    "answer": "give"
+  },
+  {
+    "text": "боевой",
+    "answer": "combat"
+  },
+  {
+    "text": "понятие",
+    "answer": "concept"
+  },
+  {
+    "text": "ухо",
+    "answer": "ear"
+  },
+  {
+    "text": "выступать",
+    "answer": "speak"
+  },
+  {
+    "text": "грудь",
+    "answer": "chest"
+  },
+  {
+    "text": "нос",
+    "answer": "nose"
+  },
+  {
+    "text": "ставить",
+    "answer": "put"
+  },
+  {
+    "text": "завтра",
+    "answer": "tomorrow"
+  },
+  {
+    "text": "возникать",
+    "answer": "arise"
+  },
+  {
+    "text": "когда",
+    "answer": "when"
+  },
+  {
+    "text": "страх",
+    "answer": "fear"
+  },
+  {
+    "text": "услуга",
+    "answer": "service"
+  },
+  {
+    "text": "рабочий",
+    "answer": "working"
+  },
+  {
+    "text": "глубокий",
+    "answer": "deep"
+  },
+  {
+    "text": "радость",
+    "answer": "joy"
+  },
+  {
+    "text": "надеяться",
+    "answer": "hope"
+  },
+  {
+    "text": "продукт",
+    "answer": "product"
+  },
+  {
+    "text": "комплекс",
+    "answer": "complex"
+  },
+  {
+    "text": "бизнес",
+    "answer": "business"
+  },
+  {
+    "text": "подняться",
+    "answer": "be up"
+  },
+  {
+    "text": "мало",
+    "answer": "little"
+  },
+  {
+    "text": "сад",
+    "answer": "garden"
+  },
+  {
+    "text": "долгий",
+    "answer": "long"
+  },
+  {
+    "text": "лето",
+    "answer": "summer"
+  },
+  {
+    "text": "тихо",
+    "answer": "quietly"
+  },
+  {
+    "text": "зато",
+    "answer": "but"
+  },
+  {
+    "text": "прямой",
+    "answer": "direct"
+  },
+  {
+    "text": "курс",
+    "answer": "course"
+  },
+  {
+    "text": "помогать",
+    "answer": "help"
+  },
+  {
+    "text": "открытый",
+    "answer": "open"
+  },
+  {
+    "text": "почему-то",
+    "answer": "somehow"
+  },
+  {
+    "text": "значить",
+    "answer": "mean"
+  },
+  {
+    "text": "рот",
+    "answer": "mouth"
+  },
+  {
+    "text": "где-то",
+    "answer": "somewhere"
+  },
+  {
+    "text": "недавно",
+    "answer": "recently"
+  },
+  {
+    "text": "реформа",
+    "answer": "reform"
+  },
+  {
+    "text": "нынешний",
+    "answer": "present"
+  },
+  {
+    "text": "собака",
+    "answer": "dog"
+  },
+  {
+    "text": "камень",
+    "answer": "stone"
+  },
+  {
+    "text": "будущее",
+    "answer": "future"
+  },
+  {
+    "text": "звать",
+    "answer": "call"
+  },
+  {
+    "text": "рассказ",
+    "answer": "story"
+  },
+  {
+    "text": "контроль",
+    "answer": "control"
+  },
+  {
+    "text": "позвонить",
+    "answer": "call up"
+  },
+  {
+    "text": "река",
+    "answer": "river"
+  },
+  {
+    "text": "хватать",
+    "answer": "seize"
+  },
+  {
+    "text": "сумма",
+    "answer": "amount"
+  },
+  {
+    "text": "техника",
+    "answer": "technique"
+  },
+  {
+    "text": "вновь",
+    "answer": "again"
+  },
+  {
+    "text": "народный",
+    "answer": "folk"
+  },
+  {
+    "text": "прямо",
+    "answer": "straight"
+  },
+  {
+    "text": "ибо",
+    "answer": "for"
+  },
+  {
+    "text": "здание",
+    "answer": "building"
+  },
+  {
+    "text": "сфера",
+    "answer": "sphere"
+  },
+  {
+    "text": "иначе",
+    "answer": "otherwise"
+  },
+  {
+    "text": "потерять",
+    "answer": "lose"
+  },
+  {
+    "text": "больший",
+    "answer": "more"
+  },
+  {
+    "text": "фонд",
+    "answer": "fund"
+  },
+  {
+    "text": "иметься",
+    "answer": "exist"
+  },
+  {
+    "text": "вперед",
+    "answer": "forward"
+  },
+  {
+    "text": "вчера",
+    "answer": "yesterday"
+  },
+  {
+    "text": "лист",
+    "answer": "sheet"
+  },
+  {
+    "text": "пустой",
+    "answer": "empty"
+  },
+  {
+    "text": "очередной",
+    "answer": "regular"
+  },
+  {
+    "text": "хозяйство",
+    "answer": "economy"
+  },
+  {
+    "text": "полностью",
+    "answer": "fully"
+  },
+  {
+    "text": "учиться",
+    "answer": "learn"
+  },
+  {
+    "text": "плохо",
+    "answer": "poorly"
+  },
+  {
+    "text": "воля",
+    "answer": "will"
+  },
+  {
+    "text": "судебный",
+    "answer": "judicial"
+  },
+  {
+    "text": "бюджет",
+    "answer": "budget"
+  },
+  {
+    "text": "расти",
+    "answer": "grow"
+  },
+  {
+    "text": "снег",
+    "answer": "snow"
+  },
+  {
+    "text": "деревня",
+    "answer": "village"
+  },
+  {
+    "text": "мужик",
+    "answer": "muzhik"
+  },
+  {
+    "text": "зеленый",
+    "answer": "green"
+  },
+  {
+    "text": "элемент",
+    "answer": "element"
+  },
+  {
+    "text": "немец",
+    "answer": "German"
+  },
+  {
+    "text": "многое",
+    "answer": "much"
+  },
+  {
+    "text": "победа",
+    "answer": "victory"
+  },
+  {
+    "text": "источник",
+    "answer": "source"
+  },
+  {
+    "text": "немецкий",
+    "answer": "German"
+  },
+  {
+    "text": "золотой",
+    "answer": "gold"
+  },
+  {
+    "text": "передать",
+    "answer": "flash"
+  },
+  {
+    "text": "едва",
+    "answer": "barely"
+  },
+  {
+    "text": "желать",
+    "answer": "want"
+  },
+  {
+    "text": "ожидать",
+    "answer": "expect"
+  },
+  {
+    "text": "некий",
+    "answer": "certain"
+  },
+  {
+    "text": "звезда",
+    "answer": "star"
+  },
+  {
+    "text": "городской",
+    "answer": "urban"
+  },
+  {
+    "text": "выбор",
+    "answer": "choice"
+  },
+  {
+    "text": "масса",
+    "answer": "mass"
+  },
+  {
+    "text": "составить",
+    "answer": "compose"
+  },
+  {
+    "text": "итог",
+    "answer": "total"
+  },
+  {
+    "text": "сестра",
+    "answer": "sister"
+  },
+  {
+    "text": "что",
+    "answer": "how"
+  },
+  {
+    "text": "шесть",
+    "answer": "six"
+  },
+  {
+    "text": "ясно",
+    "answer": "clear"
+  },
+  {
+    "text": "практика",
+    "answer": "practice"
+  },
+  {
+    "text": "сто",
+    "answer": "hundred"
+  },
+  {
+    "text": "нести",
+    "answer": "carry"
+  },
+  {
+    "text": "карман",
+    "answer": "pocket"
+  },
+  {
+    "text": "любимый",
+    "answer": "favorite"
+  },
+  {
+    "text": "родной",
+    "answer": "native"
+  },
+  {
+    "text": "западный",
+    "answer": "west"
+  },
+  {
+    "text": "слава",
+    "answer": "glory"
+  },
+  {
+    "text": "кухня",
+    "answer": "kitchen"
+  },
+  {
+    "text": "быстрый",
+    "answer": "fast"
+  },
+  {
+    "text": "функция",
+    "answer": "function"
+  },
+  {
+    "text": "войско",
+    "answer": "army"
+  },
+  {
+    "text": "капитан",
+    "answer": "captain"
+  },
+  {
+    "text": "работник",
+    "answer": "worker"
+  },
+  {
+    "text": "холодный",
+    "answer": "cold"
+  },
+  {
+    "text": "офицер",
+    "answer": "officer"
+  },
+  {
+    "text": "фамилия",
+    "answer": "surname"
+  },
+  {
+    "text": "предел",
+    "answer": "limit"
+  },
+  {
+    "text": "прямо",
+    "answer": "direct"
+  },
+  {
+    "text": "смеяться",
+    "answer": "laugh"
+  },
+  {
+    "text": "выборы",
+    "answer": "elections"
+  },
+  {
+    "text": "уехать",
+    "answer": "leave"
+  },
+  {
+    "text": "ученый",
+    "answer": "scientist"
+  },
+  {
+    "text": "вроде",
+    "answer": "like"
+  },
+  {
+    "text": "левый",
+    "answer": "left"
+  },
+  {
+    "text": "бутылка",
+    "answer": "bottle"
+  },
+  {
+    "text": "бой",
+    "answer": "fight"
+  },
+  {
+    "text": "подходить",
+    "answer": "approach"
+  },
+  {
+    "text": "судить",
+    "answer": "judge"
+  },
+  {
+    "text": "родиться",
+    "answer": "be born"
+  },
+  {
+    "text": "теория",
+    "answer": "theory"
+  },
+  {
+    "text": "зона",
+    "answer": "zone"
+  },
+  {
+    "text": "зуб",
+    "answer": "tooth"
+  },
+  {
+    "text": "святой",
+    "answer": "holy"
+  },
+  {
+    "text": "считаться",
+    "answer": "consider"
+  },
+  {
+    "text": "точный",
+    "answer": "accurate"
+  },
+  {
+    "text": "занять",
+    "answer": "do"
+  },
+  {
+    "text": "гора",
+    "answer": "mountain"
+  },
+  {
+    "text": "добавить",
+    "answer": "add"
+  },
+  {
+    "text": "товар",
+    "answer": "goods"
+  },
+  {
+    "text": "звонить",
+    "answer": "ring"
+  },
+  {
+    "text": "медленно",
+    "answer": "slow"
+  },
+  {
+    "text": "носить",
+    "answer": "wear"
+  },
+  {
+    "text": "метр",
+    "answer": "meter"
+  },
+  {
+    "text": "зависеть",
+    "answer": "depend"
+  },
+  {
+    "text": "праздник",
+    "answer": "holiday"
+  },
+  {
+    "text": "влияние",
+    "answer": "influence"
+  },
+  {
+    "text": "построить",
+    "answer": "describe"
+  },
+  {
+    "text": "читатель",
+    "answer": "reader"
+  },
+  {
+    "text": "частый",
+    "answer": "frequent"
+  },
+  {
+    "text": "актер",
+    "answer": "actor"
+  },
+  {
+    "text": "слеза",
+    "answer": "tear"
+  },
+  {
+    "text": "создавать",
+    "answer": "create"
+  },
+  {
+    "text": "учитель",
+    "answer": "teacher"
+  },
+  {
+    "text": "акт",
+    "answer": "act"
+  },
+  {
+    "text": "встретить",
+    "answer": "meet"
+  },
+  {
+    "text": "боль",
+    "answer": "pain"
+  },
+  {
+    "text": "связанный",
+    "answer": "connected"
+  },
+  {
+    "text": "занимать",
+    "answer": "occupy"
+  },
+  {
+    "text": "корабль",
+    "answer": "ship"
+  },
+  {
+    "text": "уверенный",
+    "answer": "sure"
+  },
+  {
+    "text": "звук",
+    "answer": "sound"
+  },
+  {
+    "text": "тонкий",
+    "answer": "thin"
+  },
+  {
+    "text": "спокойно",
+    "answer": "quietly"
+  },
+  {
+    "text": "детство",
+    "answer": "childhood"
+  },
+  {
+    "text": "профессор",
+    "answer": "professor"
+  },
+  {
+    "text": "будущий",
+    "answer": "future"
+  },
+  {
+    "text": "доля",
+    "answer": "share"
+  },
+  {
+    "text": "норма",
+    "answer": "norm"
+  },
+  {
+    "text": "улыбаться",
+    "answer": "smile"
+  },
+  {
+    "text": "прошлое",
+    "answer": "past"
+  },
+  {
+    "text": "возле",
+    "answer": "near"
+  },
+  {
+    "text": "командир",
+    "answer": "commander"
+  },
+  {
+    "text": "коридор",
+    "answer": "corridor"
+  },
+  {
+    "text": "поддержка",
+    "answer": "support"
+  },
+  {
+    "text": "рамка",
+    "answer": "frame"
+  },
+  {
+    "text": "вскоре",
+    "answer": "soon"
+  },
+  {
+    "text": "лучше",
+    "answer": "better"
+  },
+  {
+    "text": "сквозь",
+    "answer": "through"
+  },
+  {
+    "text": "враг",
+    "answer": "enemy"
+  },
+  {
+    "text": "ладно",
+    "answer": "okay"
+  },
+  {
+    "text": "этап",
+    "answer": "stage"
+  },
+  {
+    "text": "черт",
+    "answer": "devil"
+  },
+  {
+    "text": "направить",
+    "answer": "guide"
+  },
+  {
+    "text": "собрание",
+    "answer": "meeting"
+  },
+  {
+    "text": "прием",
+    "answer": "reception"
+  },
+  {
+    "text": "болезнь",
+    "answer": "disease"
+  },
+  {
+    "text": "клетка",
+    "answer": "cell"
+  },
+  {
+    "text": "кожа",
+    "answer": "leather"
+  },
+  {
+    "text": "заявление",
+    "answer": "statement"
+  },
+  {
+    "text": "ради",
+    "answer": "for"
+  },
+  {
+    "text": "попытка",
+    "answer": "attempt"
+  },
+  {
+    "text": "только",
+    "answer": "only"
+  },
+  {
+    "text": "когда-то",
+    "answer": "once"
+  },
+  {
+    "text": "депутат",
+    "answer": "deputy"
+  },
+  {
+    "text": "то",
+    "answer": "then"
+  },
+  {
+    "text": "частный",
+    "answer": "private"
+  },
+  {
+    "text": "мелкий",
+    "answer": "small"
+  },
+  {
+    "text": "комитет",
+    "answer": "committee"
+  },
+  {
+    "text": "знак",
+    "answer": "sign"
+  },
+  {
+    "text": "выбрать",
+    "answer": "choose"
+  },
+  {
+    "text": "бить",
+    "answer": "beat"
+  },
+  {
+    "text": "дядя",
+    "answer": "uncle"
+  },
+  {
+    "text": "хлеб",
+    "answer": "bread"
+  },
+  {
+    "text": "тихий",
+    "answer": "quiet"
+  },
+  {
+    "text": "хватить",
+    "answer": "suffice"
+  },
+  {
+    "text": "обещать",
+    "answer": "promise"
+  },
+  {
+    "text": "ли",
+    "answer": "whether"
+  },
+  {
+    "text": "чай",
+    "answer": "tea"
+  },
+  {
+    "text": "режим",
+    "answer": "mode"
+  },
+  {
+    "text": "целое",
+    "answer": "whole"
+  },
+  {
+    "text": "вирус",
+    "answer": "virus"
+  },
+  {
+    "text": "гораздо",
+    "answer": "much"
+  },
+  {
+    "text": "тридцать",
+    "answer": "thirty"
+  },
+  {
+    "text": "уж",
+    "answer": "really"
+  },
+  {
+    "text": "здоровье",
+    "answer": "health"
+  },
+  {
+    "text": "зима",
+    "answer": "winter"
+  },
+  {
+    "text": "перестать",
+    "answer": "dry up"
+  },
+  {
+    "text": "десяток",
+    "answer": "ten"
+  },
+  {
+    "text": "глубина",
+    "answer": "depth"
+  },
+  {
+    "text": "сеть",
+    "answer": "network"
+  },
+  {
+    "text": "студент",
+    "answer": "student"
+  },
+  {
+    "text": "обладать",
+    "answer": "have"
+  },
+  {
+    "text": "секунда",
+    "answer": "second"
+  },
+  {
+    "text": "скорость",
+    "answer": "speed"
+  },
+  {
+    "text": "поиск",
+    "answer": "search"
+  },
+  {
+    "text": "суть",
+    "answer": "point"
+  },
+  {
+    "text": "налог",
+    "answer": "tax"
+  },
+  {
+    "text": "ошибка",
+    "answer": "error"
+  },
+  {
+    "text": "ближайший",
+    "answer": "nearest"
+  },
+  {
+    "text": "теплый",
+    "answer": "warm"
+  },
+  {
+    "text": "плакать",
+    "answer": "cry"
+  },
+  {
+    "text": "духовный",
+    "answer": "spiritual"
+  },
+  {
+    "text": "доход",
+    "answer": "income"
+  },
+  {
+    "text": "прежний",
+    "answer": "former"
+  },
+  {
+    "text": "режиссер",
+    "answer": "director"
+  },
+  {
+    "text": "ощущение",
+    "answer": "feeling"
+  },
+  {
+    "text": "карта",
+    "answer": "map"
+  },
+  {
+    "text": "клуб",
+    "answer": "club"
+  },
+  {
+    "text": "семь",
+    "answer": "seven"
+  },
+  {
+    "text": "станция",
+    "answer": "station"
+  },
+  {
+    "text": "колено",
+    "answer": "knee"
+  },
+  {
+    "text": "стекло",
+    "answer": "glass"
+  },
+  {
+    "text": "этаж",
+    "answer": "floor"
+  },
+  {
+    "text": "остальной",
+    "answer": "remaining"
+  },
+  {
+    "text": "высота",
+    "answer": "height"
+  },
+  {
+    "text": "двое",
+    "answer": "two"
+  },
+  {
+    "text": "поверить",
+    "answer": "believe"
+  },
+  {
+    "text": "трубка",
+    "answer": "tube"
+  },
+  {
+    "text": "собрать",
+    "answer": "collect"
+  },
+  {
+    "text": "женский",
+    "answer": "female"
+  },
+  {
+    "text": "крайний",
+    "answer": "extreme"
+  },
+  {
+    "text": "простить",
+    "answer": "let off"
+  },
+  {
+    "text": "газ",
+    "answer": "gas"
+  },
+  {
+    "text": "мастер",
+    "answer": "master"
+  },
+  {
+    "text": "вниз",
+    "answer": "down"
+  },
+  {
+    "text": "поведение",
+    "answer": "behavior"
+  },
+  {
+    "text": "перейти",
+    "answer": "move"
+  },
+  {
+    "text": "мешать",
+    "answer": "interfere"
+  },
+  {
+    "text": "давай",
+    "answer": "come on"
+  },
+  {
+    "text": "столица",
+    "answer": "capital"
+  },
+  {
+    "text": "механизм",
+    "answer": "mechanism"
+  },
+  {
+    "text": "передача",
+    "answer": "broadcast"
+  },
+  {
+    "text": "божий",
+    "answer": "divine"
+  },
+  {
+    "text": "исчезнуть",
+    "answer": "disappear"
+  },
+  {
+    "text": "подход",
+    "answer": "approach"
+  },
+  {
+    "text": "столько",
+    "answer": "so many"
+  },
+  {
+    "text": "энергия",
+    "answer": "energy"
+  },
+  {
+    "text": "сорок",
+    "answer": "forty"
+  },
+  {
+    "text": "кино",
+    "answer": "movies"
+  },
+  {
+    "text": "сожаление",
+    "answer": "regret"
+  },
+  {
+    "text": "мол",
+    "answer": "pier"
+  },
+  {
+    "text": "объявить",
+    "answer": "declare"
+  },
+  {
+    "text": "ресурс",
+    "answer": "resource"
+  },
+  {
+    "text": "акция",
+    "answer": "action"
+  },
+  {
+    "text": "рождение",
+    "answer": "birth"
+  },
+  {
+    "text": "снимать",
+    "answer": "remove"
+  },
+  {
+    "text": "явно",
+    "answer": "obviously"
+  },
+  {
+    "text": "железный",
+    "answer": "iron"
+  },
+  {
+    "text": "стоимость",
+    "answer": "value"
+  },
+  {
+    "text": "улыбка",
+    "answer": "smile"
+  },
+  {
+    "text": "артист",
+    "answer": "artist"
+  },
+  {
+    "text": "горячий",
+    "answer": "hot"
+  },
+  {
+    "text": "закрыть",
+    "answer": "close"
+  },
+  {
+    "text": "приводить",
+    "answer": "drive"
+  },
+  {
+    "text": "сосед",
+    "answer": "neighbor"
+  },
+  {
+    "text": "фраза",
+    "answer": "phrase"
+  },
+  {
+    "text": "веселый",
+    "answer": "cheerful"
+  },
+  {
+    "text": "фигура",
+    "answer": "figure"
+  },
+  {
+    "text": "субъект",
+    "answer": "subject"
+  },
+  {
+    "text": "реакция",
+    "answer": "reaction"
+  },
+  {
+    "text": "список",
+    "answer": "list"
+  },
+  {
+    "text": "май",
+    "answer": "May"
+  },
+  {
+    "text": "означать",
+    "answer": "mean"
+  },
+  {
+    "text": "платить",
+    "answer": "pay"
+  },
+  {
+    "text": "нарушение",
+    "answer": "violation"
+  },
+  {
+    "text": "заседание",
+    "answer": "meeting"
+  },
+  {
+    "text": "толпа",
+    "answer": "crowd"
+  },
+  {
+    "text": "больница",
+    "answer": "hospital"
+  },
+  {
+    "text": "существо",
+    "answer": "being"
+  },
+  {
+    "text": "решать",
+    "answer": "decide"
+  },
+  {
+    "text": "свойство",
+    "answer": "property"
+  },
+  {
+    "text": "долг",
+    "answer": "debt"
+  },
+  {
+    "text": "серый",
+    "answer": "gray"
+  },
+  {
+    "text": "животное",
+    "answer": "animal"
+  },
+  {
+    "text": "схема",
+    "answer": "scheme"
+  },
+  {
+    "text": "усилие",
+    "answer": "effort"
+  },
+  {
+    "text": "опасный",
+    "answer": "dangerous"
+  },
+  {
+    "text": "остров",
+    "answer": "island"
+  },
+  {
+    "text": "наблюдать",
+    "answer": "watch"
+  },
+  {
+    "text": "противник",
+    "answer": "enemy"
+  },
+  {
+    "text": "волна",
+    "answer": "wave"
+  },
+  {
+    "text": "погибнуть",
+    "answer": "fall"
+  },
+  {
+    "text": "прочий",
+    "answer": "other"
+  },
+  {
+    "text": "страница",
+    "answer": "page"
+  },
+  {
+    "text": "устроить",
+    "answer": "arrange"
+  },
+  {
+    "text": "есть",
+    "answer": "eat"
+  },
+  {
+    "text": "красота",
+    "answer": "beauty"
+  },
+  {
+    "text": "правильно",
+    "answer": "properly"
+  },
+  {
+    "text": "благодаря",
+    "answer": "due to"
+  },
+  {
+    "text": "птица",
+    "answer": "bird"
+  },
+  {
+    "text": "собраться",
+    "answer": "gather"
+  },
+  {
+    "text": "растение",
+    "answer": "plant"
+  },
+  {
+    "text": "тень",
+    "answer": "shadow"
+  },
+  {
+    "text": "храм",
+    "answer": "temple"
+  },
+  {
+    "text": "запах",
+    "answer": "smell"
+  },
+  {
+    "text": "слабый",
+    "answer": "weak"
+  },
+  {
+    "text": "водка",
+    "answer": "vodka"
+  },
+  {
+    "text": "пожалуй",
+    "answer": "perhaps"
+  },
+  {
+    "text": "яркий",
+    "answer": "bright"
+  },
+  {
+    "text": "ужас",
+    "answer": "horror"
+  },
+  {
+    "text": "одежда",
+    "answer": "clothes"
+  },
+  {
+    "text": "ездить",
+    "answer": "ride"
+  },
+  {
+    "text": "кресло",
+    "answer": "chair"
+  },
+  {
+    "text": "больной",
+    "answer": "patient"
+  },
+  {
+    "text": "поезд",
+    "answer": "train"
+  },
+  {
+    "text": "летний",
+    "answer": "summery"
+  },
+  {
+    "text": "традиция",
+    "answer": "tradition"
+  },
+  {
+    "text": "адрес",
+    "answer": "address"
+  },
+  {
+    "text": "декабрь",
+    "answer": "December"
+  },
+  {
+    "text": "ладонь",
+    "answer": "palm"
+  },
+  {
+    "text": "поздно",
+    "answer": "late"
+  },
+  {
+    "text": "сведение",
+    "answer": "reduction"
+  },
+  {
+    "text": "цветок",
+    "answer": "flower"
+  },
+  {
+    "text": "выполнять",
+    "answer": "perform"
+  },
+  {
+    "text": "лесной",
+    "answer": "forest"
+  },
+  {
+    "text": "лидер",
+    "answer": "leader"
+  },
+  {
+    "text": "октябрь",
+    "answer": "October"
+  },
+  {
+    "text": "заставить",
+    "answer": "chock up"
+  },
+  {
+    "text": "объяснять",
+    "answer": "explain"
+  },
+  {
+    "text": "сентябрь",
+    "answer": "September"
+  },
+  {
+    "text": "помещение",
+    "answer": "room"
+  },
+  {
+    "text": "прочее",
+    "answer": "other"
+  },
+  {
+    "text": "январь",
+    "answer": "January"
+  },
+  {
+    "text": "выполнить",
+    "answer": "perform"
+  },
+  {
+    "text": "зритель",
+    "answer": "viewer"
+  },
+  {
+    "text": "резко",
+    "answer": "sharp"
+  },
+  {
+    "text": "указать",
+    "answer": "indicate"
+  },
+  {
+    "text": "умный",
+    "answer": "smart"
+  },
+  {
+    "text": "стиль",
+    "answer": "style"
+  },
+  {
+    "text": "весна",
+    "answer": "spring"
+  },
+  {
+    "text": "северный",
+    "answer": "northern"
+  },
+  {
+    "text": "фактор",
+    "answer": "factor"
+  },
+  {
+    "text": "август",
+    "answer": "August"
+  },
+  {
+    "text": "известие",
+    "answer": "news"
+  },
+  {
+    "text": "охрана",
+    "answer": "security"
+  },
+  {
+    "text": "ясный",
+    "answer": "clear"
+  },
+  {
+    "text": "милый",
+    "answer": "cute"
+  },
+  {
+    "text": "светлый",
+    "answer": "light"
+  },
+  {
+    "text": "концерт",
+    "answer": "concert"
+  },
+  {
+    "text": "редкий",
+    "answer": "rare"
+  },
+  {
+    "text": "милиция",
+    "answer": "militia"
+  },
+  {
+    "text": "верный",
+    "answer": "right"
+  },
+  {
+    "text": "вздохнуть",
+    "answer": "breathe"
+  },
+  {
+    "text": "находить",
+    "answer": "find"
+  },
+  {
+    "text": "эпоха",
+    "answer": "epoch"
+  },
+  {
+    "text": "запад",
+    "answer": "west"
+  },
+  {
+    "text": "признать",
+    "answer": "confess"
+  },
+  {
+    "text": "родина",
+    "answer": "home"
+  },
+  {
+    "text": "тайна",
+    "answer": "secret"
+  },
+  {
+    "text": "хотя",
+    "answer": "although"
+  },
+  {
+    "text": "четвертый",
+    "answer": "fourth"
+  },
+  {
+    "text": "трава",
+    "answer": "grass"
+  },
+  {
+    "text": "дойти",
+    "answer": "reach"
+  },
+  {
+    "text": "лагерь",
+    "answer": "camp"
+  },
+  {
+    "text": "во-первых",
+    "answer": "firstly"
+  },
+  {
+    "text": "имущество",
+    "answer": "property"
+  },
+  {
+    "text": "кивнуть",
+    "answer": "nod"
+  },
+  {
+    "text": "кровать",
+    "answer": "bed"
+  },
+  {
+    "text": "настолько",
+    "answer": "so"
+  },
+  {
+    "text": "обратить",
+    "answer": "draw"
+  },
+  {
+    "text": "узкий",
+    "answer": "narrow"
+  },
+  {
+    "text": "аппарат",
+    "answer": "apparatus"
+  },
+  {
+    "text": "несколько",
+    "answer": "several"
+  },
+  {
+    "text": "очевидно",
+    "answer": "obviously"
+  },
+  {
+    "text": "середина",
+    "answer": "middle"
+  },
+  {
+    "text": "узнавать",
+    "answer": "learn"
+  },
+  {
+    "text": "март",
+    "answer": "March"
+  },
+  {
+    "text": "клиент",
+    "answer": "client"
+  },
+  {
+    "text": "дама",
+    "answer": "lady"
+  },
+  {
+    "text": "обратно",
+    "answer": "back"
+  },
+  {
+    "text": "фронт",
+    "answer": "front"
+  },
+  {
+    "text": "древний",
+    "answer": "ancient"
+  },
+  {
+    "text": "отрасль",
+    "answer": "branch"
+  },
+  {
+    "text": "стул",
+    "answer": "chair"
+  },
+  {
+    "text": "массовый",
+    "answer": "mass"
+  },
+  {
+    "text": "хоть",
+    "answer": "though"
+  },
+  {
+    "text": "двигаться",
+    "answer": "move"
+  },
+  {
+    "text": "продажа",
+    "answer": "sale"
+  },
+  {
+    "text": "повышение",
+    "answer": "rise"
+  },
+  {
+    "text": "содержать",
+    "answer": "contain"
+  },
+  {
+    "text": "страшно",
+    "answer": "horribly"
+  },
+  {
+    "text": "прежде",
+    "answer": "formerly"
+  },
+  {
+    "text": "музей",
+    "answer": "museum"
+  },
+  {
+    "text": "задний",
+    "answer": "rear"
+  },
+  {
+    "text": "след",
+    "answer": "track"
+  },
+  {
+    "text": "полковник",
+    "answer": "colonel"
+  },
+  {
+    "text": "приезжать",
+    "answer": "come"
+  },
+  {
+    "text": "сомнение",
+    "answer": "doubt"
+  },
+  {
+    "text": "здоровый",
+    "answer": "healthy"
+  },
+  {
+    "text": "держаться",
+    "answer": "keep"
+  },
+  {
+    "text": "слегка",
+    "answer": "slightly"
+  },
+  {
+    "text": "апрель",
+    "answer": "April"
+  },
+  {
+    "text": "князь",
+    "answer": "prince"
+  },
+  {
+    "text": "поступить",
+    "answer": "do"
+  },
+  {
+    "text": "рыба",
+    "answer": "fish"
+  },
+  {
+    "text": "активный",
+    "answer": "active"
+  },
+  {
+    "text": "открывать",
+    "answer": "open"
+  },
+  {
+    "text": "дума",
+    "answer": "thought"
+  },
+  {
+    "text": "еще",
+    "answer": "yet"
+  },
+  {
+    "text": "неужели",
+    "answer": "really"
+  },
+  {
+    "text": "кодекс",
+    "answer": "code"
+  },
+  {
+    "text": "сутки",
+    "answer": "day"
+  },
+  {
+    "text": "чудо",
+    "answer": "miracle"
+  },
+  {
+    "text": "вырасти",
+    "answer": "grow"
+  },
+  {
+    "text": "шея",
+    "answer": "neck"
+  },
+  {
+    "text": "зайти",
+    "answer": "stop by"
+  },
+  {
+    "text": "судья",
+    "answer": "judge"
+  },
+  {
+    "text": "острый",
+    "answer": "acute"
+  },
+  {
+    "text": "посвятить",
+    "answer": "let into"
+  },
+  {
+    "text": "богатый",
+    "answer": "rich"
+  },
+  {
+    "text": "крыша",
+    "answer": "roof"
+  },
+  {
+    "text": "отсюда",
+    "answer": "hence"
+  },
+  {
+    "text": "нечто",
+    "answer": "something"
+  },
+  {
+    "text": "поток",
+    "answer": "flow"
+  },
+  {
+    "text": "мягкий",
+    "answer": "soft"
+  },
+  {
+    "text": "ночной",
+    "answer": "night"
+  },
+  {
+    "text": "должность",
+    "answer": "post"
+  },
+  {
+    "text": "мозг",
+    "answer": "brain"
+  },
+  {
+    "text": "налоговый",
+    "answer": "taxing"
+  },
+  {
+    "text": "толстый",
+    "answer": "thick"
+  },
+  {
+    "text": "честь",
+    "answer": "honor"
+  },
+  {
+    "text": "пост",
+    "answer": "fast"
+  },
+  {
+    "text": "удивиться",
+    "answer": "wonder"
+  },
+  {
+    "text": "падать",
+    "answer": "fall"
+  },
+  {
+    "text": "еврей",
+    "answer": "Jew"
+  },
+  {
+    "text": "звучать",
+    "answer": "sound"
+  },
+  {
+    "text": "бедный",
+    "answer": "poor"
+  },
+  {
+    "text": "июнь",
+    "answer": "June"
+  },
+  {
+    "text": "много",
+    "answer": "many"
+  },
+  {
+    "text": "верхний",
+    "answer": "upper"
+  },
+  {
+    "text": "суметь",
+    "answer": "able"
+  },
+  {
+    "text": "вечный",
+    "answer": "eternal"
+  },
+  {
+    "text": "восемь",
+    "answer": "eight"
+  },
+  {
+    "text": "лишний",
+    "answer": "excess"
+  },
+  {
+    "text": "морской",
+    "answer": "nautical"
+  },
+  {
+    "text": "нижний",
+    "answer": "lower"
+  },
+  {
+    "text": "спокойный",
+    "answer": "calm"
+  },
+  {
+    "text": "дождь",
+    "answer": "rain"
+  },
+  {
+    "text": "меньше",
+    "answer": "less"
+  },
+  {
+    "text": "лестница",
+    "answer": "stairs"
+  },
+  {
+    "text": "сухой",
+    "answer": "dry"
+  },
+  {
+    "text": "ах",
+    "answer": "Oh!"
+  },
+  {
+    "text": "лететь",
+    "answer": "fly"
+  },
+  {
+    "text": "совершить",
+    "answer": "make"
+  },
+  {
+    "text": "дача",
+    "answer": "dacha"
+  },
+  {
+    "text": "синий",
+    "answer": "blue"
+  },
+  {
+    "text": "просто",
+    "answer": "just"
+  },
+  {
+    "text": "получение",
+    "answer": "receipt"
+  },
+  {
+    "text": "строить",
+    "answer": "build"
+  },
+  {
+    "text": "образец",
+    "answer": "sample"
+  },
+  {
+    "text": "труба",
+    "answer": "trumpet"
+  },
+  {
+    "text": "главное",
+    "answer": "point"
+  },
+  {
+    "text": "кончиться",
+    "answer": "result in"
+  },
+  {
+    "text": "привезти",
+    "answer": "bring"
+  },
+  {
+    "text": "многие",
+    "answer": "many"
+  },
+  {
+    "text": "осень",
+    "answer": "autumn"
+  },
+  {
+    "text": "вряд",
+    "answer": "in a row"
+  },
+  {
+    "text": "сложиться",
+    "answer": "set"
+  },
+  {
+    "text": "оставлять",
+    "answer": "leave"
+  },
+  {
+    "text": "полагать",
+    "answer": "believe"
+  },
+  {
+    "text": "висеть",
+    "answer": "hang"
+  },
+  {
+    "text": "костюм",
+    "answer": "suit"
+  },
+  {
+    "text": "свежий",
+    "answer": "fresh"
+  },
+  {
+    "text": "трудный",
+    "answer": "difficult"
+  },
+  {
+    "text": "уголовный",
+    "answer": "criminal"
+  },
+  {
+    "text": "баба",
+    "answer": "woman"
+  },
+  {
+    "text": "ценность",
+    "answer": "value"
+  },
+  {
+    "text": "пьеса",
+    "answer": "play"
+  },
+  {
+    "text": "чей",
+    "answer": "whose"
+  },
+  {
+    "text": "таблица",
+    "answer": "table"
+  },
+  {
+    "text": "вино",
+    "answer": "wine"
+  },
+  {
+    "text": "лошадь",
+    "answer": "horse"
+  },
+  {
+    "text": "повторить",
+    "answer": "repeat"
+  },
+  {
+    "text": "сыграть",
+    "answer": "play"
+  },
+  {
+    "text": "коллега",
+    "answer": "colleague"
+  },
+  {
+    "text": "организм",
+    "answer": "organism"
+  },
+  {
+    "text": "ученик",
+    "answer": "disciple"
+  },
+  {
+    "text": "высоко",
+    "answer": "high"
+  },
+  {
+    "text": "открытие",
+    "answer": "opening"
+  },
+  {
+    "text": "спасти",
+    "answer": "save"
+  },
+  {
+    "text": "том",
+    "answer": "volume"
+  },
+  {
+    "text": "черта",
+    "answer": "feature"
+  },
+  {
+    "text": "изменить",
+    "answer": "change"
+  },
+  {
+    "text": "повторять",
+    "answer": "repeat"
+  },
+  {
+    "text": "явиться",
+    "answer": "appear"
+  },
+  {
+    "text": "оборона",
+    "answer": "defense"
+  },
+  {
+    "text": "замечать",
+    "answer": "notice"
+  },
+  {
+    "text": "подать",
+    "answer": "submit"
+  },
+  {
+    "text": "приказ",
+    "answer": "order"
+  },
+  {
+    "text": "вверх",
+    "answer": "up"
+  },
+  {
+    "text": "жертва",
+    "answer": "sacrifice"
+  },
+  {
+    "text": "назначить",
+    "answer": "appoint"
+  },
+  {
+    "text": "протянуть",
+    "answer": "pass"
+  },
+  {
+    "text": "километр",
+    "answer": "kilometer"
+  },
+  {
+    "text": "сохранить",
+    "answer": "save"
+  },
+  {
+    "text": "спор",
+    "answer": "dispute"
+  },
+  {
+    "text": "вкус",
+    "answer": "taste"
+  },
+  {
+    "text": "насколько",
+    "answer": "as far as"
+  },
+  {
+    "text": "признак",
+    "answer": "sign"
+  },
+  {
+    "text": "странно",
+    "answer": "strangely"
+  },
+  {
+    "text": "лоб",
+    "answer": "forehead"
+  },
+  {
+    "text": "вероятно",
+    "answer": "likely"
+  },
+  {
+    "text": "восток",
+    "answer": "east"
+  },
+  {
+    "text": "вроде",
+    "answer": "like"
+  },
+  {
+    "text": "желтый",
+    "answer": "yellow"
+  },
+  {
+    "text": "молча",
+    "answer": "silently"
+  },
+  {
+    "text": "ключ",
+    "answer": "key"
+  },
+  {
+    "text": "садиться",
+    "answer": "sit down"
+  },
+  {
+    "text": "же",
+    "answer": "the"
+  },
+  {
+    "text": "слой",
+    "answer": "layer"
+  },
+  {
+    "text": "бок",
+    "answer": "side"
+  },
+  {
+    "text": "встречать",
+    "answer": "meet"
+  },
+  {
+    "text": "спустя",
+    "answer": "after"
+  },
+  {
+    "text": "июль",
+    "answer": "July"
+  },
+  {
+    "text": "мощный",
+    "answer": "powerful"
+  },
+  {
+    "text": "перевод",
+    "answer": "transfer"
+  },
+  {
+    "text": "секретарь",
+    "answer": "secretary"
+  },
+  {
+    "text": "кусок",
+    "answer": "piece"
+  },
+  {
+    "text": "готовить",
+    "answer": "ready"
+  },
+  {
+    "text": "слух",
+    "answer": "hearing"
+  },
+  {
+    "text": "учить",
+    "answer": "teach"
+  },
+  {
+    "text": "гореть",
+    "answer": "burn"
+  },
+  {
+    "text": "польза",
+    "answer": "use"
+  },
+  {
+    "text": "звонок",
+    "answer": "bell"
+  },
+  {
+    "text": "мимо",
+    "answer": "past"
+  },
+  {
+    "text": "чиновник",
+    "answer": "official"
+  },
+  {
+    "text": "следить",
+    "answer": "follow"
+  },
+  {
+    "text": "деталь",
+    "answer": "detail"
+  },
+  {
+    "text": "русский",
+    "answer": "Russian"
+  },
+  {
+    "text": "тишина",
+    "answer": "silence"
+  },
+  {
+    "text": "зарплата",
+    "answer": "salary"
+  },
+  {
+    "text": "билет",
+    "answer": "ticket"
+  },
+  {
+    "text": "включать",
+    "answer": "include"
+  },
+  {
+    "text": "подарок",
+    "answer": "gift"
+  },
+  {
+    "text": "тюрьма",
+    "answer": "prison"
+  },
+  {
+    "text": "ящик",
+    "answer": "box"
+  },
+  {
+    "text": "конкурс",
+    "answer": "contest"
+  },
+  {
+    "text": "полезный",
+    "answer": "useful"
+  },
+  {
+    "text": "книжка",
+    "answer": "book"
+  },
+  {
+    "text": "собирать",
+    "answer": "collect"
+  },
+  {
+    "text": "изучение",
+    "answer": "study"
+  },
+  {
+    "text": "дальний",
+    "answer": "further"
+  },
+  {
+    "text": "менять",
+    "answer": "change"
+  },
+  {
+    "text": "делаться",
+    "answer": "make"
+  },
+  {
+    "text": "просьба",
+    "answer": "request"
+  },
+  {
+    "text": "царь",
+    "answer": "king"
+  },
+  {
+    "text": "публика",
+    "answer": "public"
+  },
+  {
+    "text": "смех",
+    "answer": "laughter"
+  },
+  {
+    "text": "покупать",
+    "answer": "buy"
+  },
+  {
+    "text": "сообщение",
+    "answer": "message"
+  },
+  {
+    "text": "угроза",
+    "answer": "threat"
+  },
+  {
+    "text": "беда",
+    "answer": "trouble"
+  },
+  {
+    "text": "домашний",
+    "answer": "home"
+  },
+  {
+    "text": "терять",
+    "answer": "lose"
+  },
+  {
+    "text": "блок",
+    "answer": "block"
+  },
+  {
+    "text": "жесткий",
+    "answer": "hard"
+  },
+  {
+    "text": "крепкий",
+    "answer": "strong"
+  },
+  {
+    "text": "портрет",
+    "answer": "portrait"
+  },
+  {
+    "text": "послать",
+    "answer": "send"
+  },
+  {
+    "text": "буквально",
+    "answer": "literally"
+  },
+  {
+    "text": "виноватый",
+    "answer": "guilty"
+  },
+  {
+    "text": "допустить",
+    "answer": "admit"
+  },
+  {
+    "text": "масло",
+    "answer": "oil"
+  },
+  {
+    "text": "стакан",
+    "answer": "glass"
+  },
+  {
+    "text": "вокруг",
+    "answer": "around"
+  },
+  {
+    "text": "приятный",
+    "answer": "pleasant"
+  },
+  {
+    "text": "прочитать",
+    "answer": "get"
+  },
+  {
+    "text": "урок",
+    "answer": "lesson"
+  },
+  {
+    "text": "часы",
+    "answer": "clock"
+  },
+  {
+    "text": "взглянуть",
+    "answer": "glance"
+  },
+  {
+    "text": "крик",
+    "answer": "cry"
+  },
+  {
+    "text": "мечтать",
+    "answer": "dream"
+  },
+  {
+    "text": "подписать",
+    "answer": "subscribe"
+  },
+  {
+    "text": "во-вторых",
+    "answer": "secondly"
+  },
+  {
+    "text": "телевизор",
+    "answer": "TV"
+  },
+  {
+    "text": "поступать",
+    "answer": "do"
+  },
+  {
+    "text": "концепция",
+    "answer": "concept"
+  },
+  {
+    "text": "круглый",
+    "answer": "round"
+  },
+  {
+    "text": "экран",
+    "answer": "screen"
+  },
+  {
+    "text": "дно",
+    "answer": "bottom"
+  },
+  {
+    "text": "понятный",
+    "answer": "clear"
+  },
+  {
+    "text": "голубой",
+    "answer": "blue"
+  },
+  {
+    "text": "канал",
+    "answer": "channel"
+  },
+  {
+    "text": "мясо",
+    "answer": "meat"
+  },
+  {
+    "text": "знакомый",
+    "answer": "friend"
+  },
+  {
+    "text": "щека",
+    "answer": "cheek"
+  },
+  {
+    "text": "мужской",
+    "answer": "male"
+  },
+  {
+    "text": "о",
+    "answer": "about"
+  },
+  {
+    "text": "правовой",
+    "answer": "legal"
+  },
+  {
+    "text": "конфликт",
+    "answer": "conflict"
+  },
+  {
+    "text": "пятьдесят",
+    "answer": "fifty"
+  },
+  {
+    "text": "больной",
+    "answer": "sick"
+  },
+  {
+    "text": "запись",
+    "answer": "record"
+  },
+  {
+    "text": "вагон",
+    "answer": "car"
+  },
+  {
+    "text": "мертвый",
+    "answer": "dead"
+  },
+  {
+    "text": "площадка",
+    "answer": "platform"
+  },
+  {
+    "text": "пятый",
+    "answer": "fifth"
+  },
+  {
+    "text": "б",
+    "answer": "b"
+  },
+  {
+    "text": "зеркало",
+    "answer": "mirror"
+  },
+  {
+    "text": "тон",
+    "answer": "tone"
+  },
+  {
+    "text": "захотеть",
+    "answer": "wish"
+  },
+  {
+    "text": "академия",
+    "answer": "academy"
+  },
+  {
+    "text": "бороться",
+    "answer": "fight"
+  },
+  {
+    "text": "отдавать",
+    "answer": "give"
+  },
+  {
+    "text": "семейный",
+    "answer": "family"
+  },
+  {
+    "text": "тяжело",
+    "answer": "heavy"
+  },
+  {
+    "text": "палата",
+    "answer": "chamber"
+  },
+  {
+    "text": "включить",
+    "answer": "include"
+  },
+  {
+    "text": "ноябрь",
+    "answer": "November"
+  },
+  {
+    "text": "дурак",
+    "answer": "fool"
+  },
+  {
+    "text": "осторожно",
+    "answer": "carefully"
+  },
+  {
+    "text": "поездка",
+    "answer": "trip"
+  },
+  {
+    "text": "обед",
+    "answer": "dinner"
+  },
+  {
+    "text": "потеря",
+    "answer": "loss"
+  },
+  {
+    "text": "природный",
+    "answer": "natural"
+  },
+  {
+    "text": "спешить",
+    "answer": "haste"
+  },
+  {
+    "text": "февраль",
+    "answer": "February"
+  },
+  {
+    "text": "добиться",
+    "answer": "achieve"
+  },
+  {
+    "text": "парк",
+    "answer": "park"
+  },
+  {
+    "text": "принятие",
+    "answer": "adoption"
+  },
+  {
+    "text": "вещество",
+    "answer": "substance"
+  },
+  {
+    "text": "впереди",
+    "answer": "ahead"
+  },
+  {
+    "text": "навсегда",
+    "answer": "forever"
+  },
+  {
+    "text": "отправить",
+    "answer": "send"
+  },
+  {
+    "text": "категория",
+    "answer": "category"
+  },
+  {
+    "text": "сезон",
+    "answer": "season"
+  },
+  {
+    "text": "учебный",
+    "answer": "training"
+  },
+  {
+    "text": "вставать",
+    "answer": "get up"
+  },
+  {
+    "text": "исходить",
+    "answer": "proceed"
+  },
+  {
+    "text": "гостиница",
+    "answer": "hotel"
+  },
+  {
+    "text": "издание",
+    "answer": "edition"
+  },
+  {
+    "text": "ввести",
+    "answer": "enter"
+  },
+  {
+    "text": "взяться",
+    "answer": "take"
+  },
+  {
+    "text": "прочесть",
+    "answer": "read"
+  },
+  {
+    "text": "темнота",
+    "answer": "darkness"
+  },
+  {
+    "text": "болеть",
+    "answer": "hurt"
+  },
+  {
+    "text": "вернуть",
+    "answer": "retrieve"
+  },
+  {
+    "text": "тянуть",
+    "answer": "pull"
+  },
+  {
+    "text": "колесо",
+    "answer": "wheel"
+  },
+  {
+    "text": "опасность",
+    "answer": "danger"
+  },
+  {
+    "text": "продать",
+    "answer": "sell"
+  },
+  {
+    "text": "камера",
+    "answer": "camera"
+  },
+  {
+    "text": "запас",
+    "answer": "stock"
+  },
+  {
+    "text": "длина",
+    "answer": "length"
+  },
+  {
+    "text": "крыло",
+    "answer": "wing"
+  },
+  {
+    "text": "округ",
+    "answer": "district"
+  },
+  {
+    "text": "кандидат",
+    "answer": "candidate"
+  },
+  {
+    "text": "прекрасно",
+    "answer": "fine"
+  },
+  {
+    "text": "выступить",
+    "answer": "come out"
+  },
+  {
+    "text": "давление",
+    "answer": "pressure"
+  },
+  {
+    "text": "пахнуть",
+    "answer": "smell"
+  },
+  {
+    "text": "громко",
+    "answer": "loud"
+  },
+  {
+    "text": "доска",
+    "answer": "board"
+  },
+  {
+    "text": "наступить",
+    "answer": "come"
+  },
+  {
+    "text": "партнер",
+    "answer": "partner"
+  },
+  {
+    "text": "двигатель",
+    "answer": "engine"
+  },
+  {
+    "text": "шум",
+    "answer": "noise"
+  },
+  {
+    "text": "вдоль",
+    "answer": "along"
+  },
+  {
+    "text": "грех",
+    "answer": "sin"
+  },
+  {
+    "text": "господи",
+    "answer": "Jesus!"
+  },
+  {
+    "text": "нож",
+    "answer": "knife"
+  },
+  {
+    "text": "полет",
+    "answer": "flight"
+  },
+  {
+    "text": "ранее",
+    "answer": "earlier"
+  },
+  {
+    "text": "страсть",
+    "answer": "passion"
+  },
+  {
+    "text": "перевести",
+    "answer": "translate"
+  },
+  {
+    "text": "разрешить",
+    "answer": "allow"
+  },
+  {
+    "text": "испытание",
+    "answer": "test"
+  },
+  {
+    "text": "проверить",
+    "answer": "check"
+  },
+  {
+    "text": "истина",
+    "answer": "true"
+  },
+  {
+    "text": "меняться",
+    "answer": "change"
+  },
+  {
+    "text": "оплата",
+    "answer": "payment"
+  },
+  {
+    "text": "водитель",
+    "answer": "driver"
+  },
+  {
+    "text": "куда-то",
+    "answer": "somewhere"
+  },
+  {
+    "text": "пакет",
+    "answer": "package"
+  },
+  {
+    "text": "снижение",
+    "answer": "decline"
+  },
+  {
+    "text": "выдержать",
+    "answer": "withstand"
+  },
+  {
+    "text": "формула",
+    "answer": "formula"
+  },
+  {
+    "text": "живот",
+    "answer": "stomach"
+  },
+  {
+    "text": "капитал",
+    "answer": "capital"
+  },
+  {
+    "text": "учитывать",
+    "answer": "consider"
+  },
+  {
+    "text": "курить",
+    "answer": "smoke"
+  },
+  {
+    "text": "голый",
+    "answer": "naked"
+  },
+  {
+    "text": "забывать",
+    "answer": "forget"
+  },
+  {
+    "text": "мост",
+    "answer": "bridge"
+  },
+  {
+    "text": "новость",
+    "answer": "news"
+  },
+  {
+    "text": "эффект",
+    "answer": "effect"
+  },
+  {
+    "text": "вход",
+    "answer": "entry"
+  },
+  {
+    "text": "выбирать",
+    "answer": "choose"
+  },
+  {
+    "text": "напомнить",
+    "answer": "remind"
+  },
+  {
+    "text": "партийный",
+    "answer": "party"
+  },
+  {
+    "text": "доклад",
+    "answer": "report"
+  },
+  {
+    "text": "смена",
+    "answer": "change"
+  },
+  {
+    "text": "убийство",
+    "answer": "murder"
+  },
+  {
+    "text": "эксперт",
+    "answer": "expert"
+  },
+  {
+    "text": "вон",
+    "answer": "out"
+  },
+  {
+    "text": "доказать",
+    "answer": "prove"
+  },
+  {
+    "text": "раз",
+    "answer": "now"
+  },
+  {
+    "text": "редко",
+    "answer": "rarely"
+  },
+  {
+    "text": "приносить",
+    "answer": "bring"
+  },
+  {
+    "text": "автобус",
+    "answer": "bus"
+  },
+  {
+    "text": "платье",
+    "answer": "dress"
+  },
+  {
+    "text": "честно",
+    "answer": "fair"
+  },
+  {
+    "text": "помимо",
+    "answer": "besides"
+  },
+  {
+    "text": "кадр",
+    "answer": "frame"
+  },
+  {
+    "text": "ой",
+    "answer": "Oh!"
+  },
+  {
+    "text": "тетя",
+    "answer": "aunt"
+  },
+  {
+    "text": "восточный",
+    "answer": "Oriental"
+  },
+  {
+    "text": "дышать",
+    "answer": "breathe"
+  },
+  {
+    "text": "описать",
+    "answer": "describe"
+  },
+  {
+    "text": "лев",
+    "answer": "lion"
+  },
+  {
+    "text": "таков",
+    "answer": "such"
+  },
+  {
+    "text": "порог",
+    "answer": "threshold"
+  },
+  {
+    "text": "проверка",
+    "answer": "check"
+  },
+  {
+    "text": "прожить",
+    "answer": "get along"
+  },
+  {
+    "text": "процедура",
+    "answer": "procedure"
+  },
+  {
+    "text": "рабочий",
+    "answer": "worker"
+  },
+  {
+    "text": "ремонт",
+    "answer": "repairs"
+  },
+  {
+    "text": "сельский",
+    "answer": "rural"
+  },
+  {
+    "text": "обращение",
+    "answer": "treatment"
+  },
+  {
+    "text": "обучение",
+    "answer": "training"
+  },
+  {
+    "text": "оценить",
+    "answer": "class"
+  },
+  {
+    "text": "широко",
+    "answer": "wide"
+  },
+  {
+    "text": "памятник",
+    "answer": "monument"
+  },
+  {
+    "text": "корень",
+    "answer": "root"
+  },
+  {
+    "text": "буква",
+    "answer": "letter"
+  },
+  {
+    "text": "видный",
+    "answer": "prominent"
+  },
+  {
+    "text": "лечь",
+    "answer": "lie down"
+  },
+  {
+    "text": "внутри",
+    "answer": "inside"
+  },
+  {
+    "text": "выпустить",
+    "answer": "release"
+  },
+  {
+    "text": "постель",
+    "answer": "bed"
+  },
+  {
+    "text": "честный",
+    "answer": "honest"
+  },
+  {
+    "text": "ударить",
+    "answer": "slam"
+  },
+  {
+    "text": "владелец",
+    "answer": "owner"
+  },
+  {
+    "text": "компьютер",
+    "answer": "computer"
+  },
+  {
+    "text": "резкий",
+    "answer": "cutting"
+  },
+  {
+    "text": "инженер",
+    "answer": "engineer"
+  },
+  {
+    "text": "младший",
+    "answer": "younger"
+  },
+  {
+    "text": "итак",
+    "answer": "so"
+  },
+  {
+    "text": "старуха",
+    "answer": "old woman"
+  },
+  {
+    "text": "лодка",
+    "answer": "boat"
+  },
+  {
+    "text": "ракета",
+    "answer": "rocket"
+  },
+  {
+    "text": "трудовой",
+    "answer": "labor"
+  },
+  {
+    "text": "серия",
+    "answer": "series"
+  },
+  {
+    "text": "строгий",
+    "answer": "strict"
+  },
+  {
+    "text": "шутка",
+    "answer": "joke"
+  },
+  {
+    "text": "вершина",
+    "answer": "vertex"
+  },
+  {
+    "text": "строго",
+    "answer": "strictly"
+  },
+  {
+    "text": "выпуск",
+    "answer": "issue"
+  },
+  {
+    "text": "кулак",
+    "answer": "fist"
+  },
+  {
+    "text": "лед",
+    "answer": "ice"
+  },
+  {
+    "text": "торговля",
+    "answer": "trade"
+  },
+  {
+    "text": "южный",
+    "answer": "south"
+  },
+  {
+    "text": "нефть",
+    "answer": "oil"
+  },
+  {
+    "text": "согласный",
+    "answer": "consonant"
+  },
+  {
+    "text": "молодежь",
+    "answer": "youth"
+  },
+  {
+    "text": "цифра",
+    "answer": "numeral"
+  },
+  {
+    "text": "корпус",
+    "answer": "body"
+  },
+  {
+    "text": "научиться",
+    "answer": "learn"
+  },
+  {
+    "text": "сапог",
+    "answer": "boot"
+  },
+  {
+    "text": "сущность",
+    "answer": "essence"
+  },
+  {
+    "text": "талант",
+    "answer": "talent"
+  },
+  {
+    "text": "умирать",
+    "answer": "die"
+  },
+  {
+    "text": "истинный",
+    "answer": "true"
+  },
+  {
+    "text": "стрелять",
+    "answer": "shoot"
+  },
+  {
+    "text": "кофе",
+    "answer": "coffee"
+  },
+  {
+    "text": "обойтись",
+    "answer": "do"
+  },
+  {
+    "text": "полоса",
+    "answer": "band"
+  },
+  {
+    "text": "серьезно",
+    "answer": "seriously"
+  },
+  {
+    "text": "записать",
+    "answer": "record"
+  },
+  {
+    "text": "злой",
+    "answer": "evil"
+  },
+  {
+    "text": "обо",
+    "answer": "About"
+  },
+  {
+    "text": "основное",
+    "answer": "main"
+  },
+  {
+    "text": "трое",
+    "answer": "three"
+  },
+  {
+    "text": "давайте",
+    "answer": "let's"
+  },
+  {
+    "text": "мокрый",
+    "answer": "wet"
+  },
+  {
+    "text": "приняться",
+    "answer": "Adopt"
+  },
+  {
+    "text": "штат",
+    "answer": "staff"
+  },
+  {
+    "text": "дикий",
+    "answer": "wild"
+  },
+  {
+    "text": "жилье",
+    "answer": "housing"
+  },
+  {
+    "text": "мешок",
+    "answer": "bag"
+  },
+  {
+    "text": "рад",
+    "answer": "glad"
+  },
+  {
+    "text": "куст",
+    "answer": "bush"
+  },
+  {
+    "text": "схватить",
+    "answer": "seize"
+  },
+  {
+    "text": "замок",
+    "answer": "castle"
+  },
+  {
+    "text": "пропасть",
+    "answer": "lose"
+  },
+  {
+    "text": "редактор",
+    "answer": "editor"
+  },
+  {
+    "text": "дворец",
+    "answer": "palace"
+  },
+  {
+    "text": "забота",
+    "answer": "care"
+  },
+  {
+    "text": "выдать",
+    "answer": "issue"
+  },
+  {
+    "text": "пиво",
+    "answer": "beer"
+  },
+  {
+    "text": "воздушный",
+    "answer": "air"
+  },
+  {
+    "text": "дешевый",
+    "answer": "cheap"
+  },
+  {
+    "text": "диван",
+    "answer": "sofa"
+  },
+  {
+    "text": "извинить",
+    "answer": "excuse"
+  },
+  {
+    "text": "пьяный",
+    "answer": "drunk"
+  },
+  {
+    "text": "столик",
+    "answer": "platen"
+  },
+  {
+    "text": "насчет",
+    "answer": "about"
+  },
+  {
+    "text": "опустить",
+    "answer": "lower"
+  },
+  {
+    "text": "страдать",
+    "answer": "suffer"
+  },
+  {
+    "text": "заходить",
+    "answer": "call"
+  },
+  {
+    "text": "областной",
+    "answer": "regional"
+  },
+  {
+    "text": "печать",
+    "answer": "printing"
+  },
+  {
+    "text": "броситься",
+    "answer": "throw"
+  },
+  {
+    "text": "гулять",
+    "answer": "walk"
+  },
+  {
+    "text": "кольцо",
+    "answer": "ring"
+  },
+  {
+    "text": "твердый",
+    "answer": "solid"
+  },
+  {
+    "text": "вне",
+    "answer": "outside"
+  },
+  {
+    "text": "пистолет",
+    "answer": "gun"
+  },
+  {
+    "text": "бегать",
+    "answer": "run"
+  },
+  {
+    "text": "весело",
+    "answer": "joyfully"
+  },
+  {
+    "text": "ворота",
+    "answer": "goal"
+  },
+  {
+    "text": "добро",
+    "answer": "good"
+  },
+  {
+    "text": "покой",
+    "answer": "peace"
+  },
+  {
+    "text": "риск",
+    "answer": "risk"
+  },
+  {
+    "text": "окончание",
+    "answer": "end"
+  },
+  {
+    "text": "денежный",
+    "answer": "monetary"
+  },
+  {
+    "text": "дым",
+    "answer": "smoke"
+  },
+  {
+    "text": "найтись",
+    "answer": "be found"
+  },
+  {
+    "text": "приказать",
+    "answer": "to order"
+  },
+  {
+    "text": "вслед",
+    "answer": "after"
+  },
+  {
+    "text": "брак",
+    "answer": "marriage"
+  },
+  {
+    "text": "величина",
+    "answer": "value"
+  },
+  {
+    "text": "включая",
+    "answer": "including"
+  },
+  {
+    "text": "записка",
+    "answer": "note"
+  },
+  {
+    "text": "устать",
+    "answer": "get tired"
+  },
+  {
+    "text": "кость",
+    "answer": "bone"
+  },
+  {
+    "text": "повезти",
+    "answer": "get lucky"
+  },
+  {
+    "text": "спорт",
+    "answer": "sport"
+  },
+  {
+    "text": "глубоко",
+    "answer": "deep"
+  },
+  {
+    "text": "китайский",
+    "answer": "Chinese"
+  },
+  {
+    "text": "грязный",
+    "answer": "dirty"
+  },
+  {
+    "text": "кредит",
+    "answer": "credit"
+  },
+  {
+    "text": "особо",
+    "answer": "extra"
+  },
+  {
+    "text": "господь",
+    "answer": "Christ"
+  },
+  {
+    "text": "майор",
+    "answer": "major"
+  },
+  {
+    "text": "потолок",
+    "answer": "ceiling"
+  },
+  {
+    "text": "торговый",
+    "answer": "trade"
+  },
+  {
+    "text": "выразить",
+    "answer": "express"
+  },
+  {
+    "text": "помощник",
+    "answer": "assistant"
+  },
+  {
+    "text": "отдых",
+    "answer": "rest"
+  },
+  {
+    "text": "отпустить",
+    "answer": "let go"
+  },
+  {
+    "text": "ручка",
+    "answer": "handle"
+  },
+  {
+    "text": "металл",
+    "answer": "metal"
+  },
+  {
+    "text": "внести",
+    "answer": "make a"
+  },
+  {
+    "text": "молоко",
+    "answer": "milk"
+  },
+  {
+    "text": "транспорт",
+    "answer": "transport"
+  },
+  {
+    "text": "поэзия",
+    "answer": "poetry"
+  },
+  {
+    "text": "краска",
+    "answer": "paint"
+  },
+  {
+    "text": "привычный",
+    "answer": "habitual"
+  },
+  {
+    "text": "глупый",
+    "answer": "stupid"
+  },
+  {
+    "text": "изучать",
+    "answer": "study"
+  },
+  {
+    "text": "мечта",
+    "answer": "dream"
+  },
+  {
+    "text": "обратный",
+    "answer": "back"
+  },
+  {
+    "text": "село",
+    "answer": "village"
+  },
+  {
+    "text": "еда",
+    "answer": "food"
+  },
+  {
+    "text": "поднимать",
+    "answer": "lift"
+  },
+  {
+    "text": "навстречу",
+    "answer": "to meet"
+  },
+  {
+    "text": "зло",
+    "answer": "evil"
+  },
+  {
+    "text": "достойный",
+    "answer": "worthy"
+  },
+  {
+    "text": "обращать",
+    "answer": "convert"
+  },
+  {
+    "text": "подождать",
+    "answer": "wait"
+  },
+  {
+    "text": "сюжет",
+    "answer": "plot"
+  },
+  {
+    "text": "рубеж",
+    "answer": "frontier"
+  },
+  {
+    "text": "сигнал",
+    "answer": "signal"
+  },
+  {
+    "text": "крест",
+    "answer": "cross"
+  },
+  {
+    "text": "вес",
+    "answer": "weight"
+  },
+  {
+    "text": "взрыв",
+    "answer": "explosion"
+  },
+  {
+    "text": "контакт",
+    "answer": "contact"
+  },
+  {
+    "text": "продавать",
+    "answer": "sell"
+  },
+  {
+    "text": "сигарета",
+    "answer": "cigarette"
+  },
+  {
+    "text": "бросать",
+    "answer": "throw"
+  },
+  {
+    "text": "восторг",
+    "answer": "delight"
+  },
+  {
+    "text": "золото",
+    "answer": "gold"
+  },
+  {
+    "text": "конечный",
+    "answer": "finite"
+  },
+  {
+    "text": "крайне",
+    "answer": "extremely"
+  },
+  {
+    "text": "почва",
+    "answer": "soil"
+  },
+  {
+    "text": "премия",
+    "answer": "premium"
+  },
+  {
+    "text": "чисто",
+    "answer": "purely"
+  },
+  {
+    "text": "запретить",
+    "answer": "forbid"
+  },
+  {
+    "text": "король",
+    "answer": "king"
+  },
+  {
+    "text": "подъезд",
+    "answer": "porch"
+  },
+  {
+    "text": "шанс",
+    "answer": "chance"
+  },
+  {
+    "text": "автомат",
+    "answer": "machine"
+  },
+  {
+    "text": "заказ",
+    "answer": "order"
+  },
+  {
+    "text": "мальчишка",
+    "answer": "urchin"
+  },
+  {
+    "text": "отмечать",
+    "answer": "note"
+  },
+  {
+    "text": "очки",
+    "answer": "glasses"
+  },
+  {
+    "text": "миг",
+    "answer": "moment"
+  },
+  {
+    "text": "отойти",
+    "answer": "move away"
+  },
+  {
+    "text": "ощущать",
+    "answer": "feel"
+  },
+  {
+    "text": "штука",
+    "answer": "thing"
+  },
+  {
+    "text": "чтение",
+    "answer": "reading"
+  },
+  {
+    "text": "школьный",
+    "answer": "school"
+  },
+  {
+    "text": "прибыть",
+    "answer": "arrive"
+  },
+  {
+    "text": "свидетель",
+    "answer": "witness"
+  },
+  {
+    "text": "ставка",
+    "answer": "rate"
+  },
+  {
+    "text": "больно",
+    "answer": "painfully"
+  },
+  {
+    "text": "ныне",
+    "answer": "now"
+  },
+  {
+    "text": "передний",
+    "answer": "front"
+  },
+  {
+    "text": "каменный",
+    "answer": "stone"
+  },
+  {
+    "text": "случаться",
+    "answer": "happen"
+  },
+  {
+    "text": "сумка",
+    "answer": "bag"
+  },
+  {
+    "text": "удивление",
+    "answer": "surprise"
+  },
+  {
+    "text": "ценный",
+    "answer": "valuable"
+  },
+  {
+    "text": "сойти",
+    "answer": "get off"
+  },
+  {
+    "text": "хвост",
+    "answer": "tail"
+  },
+  {
+    "text": "песок",
+    "answer": "sand"
+  },
+  {
+    "text": "поворот",
+    "answer": "turn"
+  },
+  {
+    "text": "поймать",
+    "answer": "catch"
+  },
+  {
+    "text": "солнечный",
+    "answer": "solar"
+  },
+  {
+    "text": "жизненный",
+    "answer": "vital"
+  },
+  {
+    "text": "мгновение",
+    "answer": "instant"
+  },
+  {
+    "text": "статус",
+    "answer": "status"
+  },
+  {
+    "text": "смешной",
+    "answer": "funny"
+  },
+  {
+    "text": "напротив",
+    "answer": "opposite"
+  },
+  {
+    "text": "озеро",
+    "answer": "lake"
+  },
+  {
+    "text": "случайный",
+    "answer": "random"
+  },
+  {
+    "text": "строй",
+    "answer": "order"
+  },
+  {
+    "text": "наверняка",
+    "answer": "for sure"
+  },
+  {
+    "text": "параметр",
+    "answer": "parameter"
+  },
+  {
+    "text": "тенденция",
+    "answer": "trend"
+  },
+  {
+    "text": "вина",
+    "answer": "fault"
+  },
+  {
+    "text": "дыхание",
+    "answer": "breath"
+  },
+  {
+    "text": "обязанный",
+    "answer": "obliged"
+  },
+  {
+    "text": "версия",
+    "answer": "version"
+  },
+  {
+    "text": "жалко",
+    "answer": "miserably"
+  },
+  {
+    "text": "масштаб",
+    "answer": "scale"
+  },
+  {
+    "text": "горный",
+    "answer": "mountain"
+  },
+  {
+    "text": "столько",
+    "answer": "so many"
+  },
+  {
+    "text": "удаваться",
+    "answer": "pan out"
+  },
+  {
+    "text": "внезапно",
+    "answer": "suddenly"
+  },
+  {
+    "text": "монастырь",
+    "answer": "monastery"
+  },
+  {
+    "text": "сходить",
+    "answer": "go down"
+  },
+  {
+    "text": "хозяйка",
+    "answer": "hostess"
+  },
+  {
+    "text": "дочка",
+    "answer": "daughter"
+  },
+  {
+    "text": "попадать",
+    "answer": "fall"
+  },
+  {
+    "text": "пустить",
+    "answer": "let"
+  },
+  {
+    "text": "танец",
+    "answer": "dance"
+  },
+  {
+    "text": "увы",
+    "answer": "Alas!"
+  },
+  {
+    "text": "указывать",
+    "answer": "indicate"
+  },
+  {
+    "text": "коммунист",
+    "answer": "communist"
+  },
+  {
+    "text": "пенсия",
+    "answer": "pension"
+  },
+  {
+    "text": "приятель",
+    "answer": "friend"
+  },
+  {
+    "text": "юный",
+    "answer": "young"
+  },
+  {
+    "text": "терпеть",
+    "answer": "tolerate"
+  },
+  {
+    "text": "девять",
+    "answer": "nine"
+  },
+  {
+    "text": "сдать",
+    "answer": "get by"
+  },
+  {
+    "text": "набор",
+    "answer": "set"
+  },
+  {
+    "text": "пыль",
+    "answer": "dust"
+  },
+  {
+    "text": "вывести",
+    "answer": "withdraw"
+  },
+  {
+    "text": "выпускать",
+    "answer": "release"
+  },
+  {
+    "text": "довольный",
+    "answer": "satisfied"
+  },
+  {
+    "text": "спасибо",
+    "answer": "Thank you"
+  },
+  {
+    "text": "мощность",
+    "answer": "power"
+  },
+  {
+    "text": "никуда",
+    "answer": "anywhere"
+  },
+  {
+    "text": "уход",
+    "answer": "care"
+  },
+  {
+    "text": "чего",
+    "answer": "what"
+  },
+  {
+    "text": "горло",
+    "answer": "throat"
+  },
+  {
+    "text": "кризис",
+    "answer": "crisis"
+  },
+  {
+    "text": "японский",
+    "answer": "Japanese"
+  },
+  {
+    "text": "вступить",
+    "answer": "wade in"
+  },
+  {
+    "text": "спорить",
+    "answer": "argue"
+  },
+  {
+    "text": "указанный",
+    "answer": "said"
+  },
+  {
+    "text": "вытащить",
+    "answer": "pull"
+  },
+  {
+    "text": "деловой",
+    "answer": "business"
+  },
+  {
+    "text": "плата",
+    "answer": "pay"
+  },
+  {
+    "text": "яблоко",
+    "answer": "apple"
+  },
+  {
+    "text": "победить",
+    "answer": "win"
+  },
+  {
+    "text": "посадить",
+    "answer": "plant"
+  },
+  {
+    "text": "хорошо",
+    "answer": "OK"
+  },
+  {
+    "text": "москвич",
+    "answer": "muscovite"
+  },
+  {
+    "text": "обсуждать",
+    "answer": "discuss"
+  },
+  {
+    "text": "остаток",
+    "answer": "residue"
+  },
+  {
+    "text": "заняться",
+    "answer": "do"
+  },
+  {
+    "text": "сделка",
+    "answer": "deal"
+  },
+  {
+    "text": "активно",
+    "answer": "actively"
+  },
+  {
+    "text": "говорят",
+    "answer": "they say"
+  },
+  {
+    "text": "танк",
+    "answer": "tank"
+  },
+  {
+    "text": "строка",
+    "answer": "line"
+  },
+  {
+    "text": "единица",
+    "answer": "unit"
+  },
+  {
+    "text": "выиграть",
+    "answer": "win"
+  },
+  {
+    "text": "надеть",
+    "answer": "put on"
+  },
+  {
+    "text": "изделие",
+    "answer": "product"
+  },
+  {
+    "text": "кормить",
+    "answer": "feed"
+  },
+  {
+    "text": "молитва",
+    "answer": "prayer"
+  },
+  {
+    "text": "там",
+    "answer": "there"
+  },
+  {
+    "text": "погода",
+    "answer": "weather"
+  },
+  {
+    "text": "съезд",
+    "answer": "congress"
+  },
+  {
+    "text": "временной",
+    "answer": "temporal"
+  },
+  {
+    "text": "пресса",
+    "answer": "press"
+  },
+  {
+    "text": "цепь",
+    "answer": "chain"
+  },
+  {
+    "text": "жалеть",
+    "answer": "spare"
+  },
+  {
+    "text": "планета",
+    "answer": "planet"
+  },
+  {
+    "text": "вынести",
+    "answer": "bear"
+  },
+  {
+    "text": "минимум",
+    "answer": "minimum"
+  },
+  {
+    "text": "полк",
+    "answer": "regiment"
+  },
+  {
+    "text": "еврейский",
+    "answer": "Jewish"
+  },
+  {
+    "text": "немало",
+    "answer": "some"
+  },
+  {
+    "text": "гибель",
+    "answer": "death"
+  },
+  {
+    "text": "заглянуть",
+    "answer": "look in"
+  },
+  {
+    "text": "защищать",
+    "answer": "protect"
+  },
+  {
+    "text": "основать",
+    "answer": "base"
+  },
+  {
+    "text": "согласие",
+    "answer": "agreement"
+  },
+  {
+    "text": "конь",
+    "answer": "horse"
+  },
+  {
+    "text": "меньший",
+    "answer": "less"
+  },
+  {
+    "text": "могила",
+    "answer": "grave"
+  },
+  {
+    "text": "пожать",
+    "answer": "shake"
+  },
+  {
+    "text": "сколько",
+    "answer": "how many"
+  },
+  {
+    "text": "стенка",
+    "answer": "wall"
+  },
+  {
+    "text": "тайный",
+    "answer": "secret"
+  },
+  {
+    "text": "тревога",
+    "answer": "anxiety"
+  },
+  {
+    "text": "закрытый",
+    "answer": "closed"
+  },
+  {
+    "text": "отличный",
+    "answer": "great"
+  },
+  {
+    "text": "уезжать",
+    "answer": "leave"
+  },
+  {
+    "text": "логика",
+    "answer": "logics"
+  },
+  {
+    "text": "дрожать",
+    "answer": "tremble"
+  },
+  {
+    "text": "задание",
+    "answer": "task"
+  },
+  {
+    "text": "ведущий",
+    "answer": "leading"
+  },
+  {
+    "text": "кошка",
+    "answer": "cat"
+  },
+  {
+    "text": "верно",
+    "answer": "right"
+  },
+  {
+    "text": "сообщать",
+    "answer": "inform"
+  },
+  {
+    "text": "крепко",
+    "answer": "firmly"
+  },
+  {
+    "text": "сценарий",
+    "answer": "scenario"
+  },
+  {
+    "text": "бригада",
+    "answer": "brigade"
+  },
+  {
+    "text": "пятно",
+    "answer": "spot"
+  },
+  {
+    "text": "гроб",
+    "answer": "coffin"
+  },
+  {
+    "text": "жениться",
+    "answer": "marry"
+  },
+  {
+    "text": "лезть",
+    "answer": "thrust"
+  },
+  {
+    "text": "верховный",
+    "answer": "supreme"
+  },
+  {
+    "text": "поразить",
+    "answer": "hit"
+  },
+  {
+    "text": "термин",
+    "answer": "term"
+  },
+  {
+    "text": "ткань",
+    "answer": "tissue"
+  },
+  {
+    "text": "велеть",
+    "answer": "order"
+  },
+  {
+    "text": "визит",
+    "answer": "visit"
+  },
+  {
+    "text": "каков",
+    "answer": "what"
+  },
+  {
+    "text": "океан",
+    "answer": "ocean"
+  },
+  {
+    "text": "убивать",
+    "answer": "kill"
+  },
+  {
+    "text": "прибор",
+    "answer": "device"
+  },
+  {
+    "text": "решиться",
+    "answer": "decide"
+  },
+  {
+    "text": "уважение",
+    "answer": "respect"
+  },
+  {
+    "text": "добраться",
+    "answer": "reach"
+  },
+  {
+    "text": "другое",
+    "answer": "other"
+  },
+  {
+    "text": "паспорт",
+    "answer": "passport"
+  },
+  {
+    "text": "пауза",
+    "answer": "pause"
+  },
+  {
+    "text": "взрослый",
+    "answer": "adult"
+  },
+  {
+    "text": "дата",
+    "answer": "date"
+  },
+  {
+    "text": "нуждаться",
+    "answer": "need"
+  },
+  {
+    "text": "позвать",
+    "answer": "call"
+  },
+  {
+    "text": "поступок",
+    "answer": "act"
+  },
+  {
+    "text": "ствол",
+    "answer": "trunk"
+  },
+  {
+    "text": "остальное",
+    "answer": "rest"
+  },
+  {
+    "text": "тепло",
+    "answer": "heat"
+  },
+  {
+    "text": "адвокат",
+    "answer": "lawyer"
+  },
+  {
+    "text": "контракт",
+    "answer": "contract"
+  },
+  {
+    "text": "радио",
+    "answer": "radio"
+  },
+  {
+    "text": "розовый",
+    "answer": "pink"
+  },
+  {
+    "text": "скрывать",
+    "answer": "hide"
+  },
+  {
+    "text": "запомнить",
+    "answer": "remember"
+  },
+  {
+    "text": "кампания",
+    "answer": "campaign"
+  },
+  {
+    "text": "оборот",
+    "answer": "turnover"
+  },
+  {
+    "text": "скромный",
+    "answer": "modest"
+  },
+  {
+    "text": "агентство",
+    "answer": "agency"
+  },
+  {
+    "text": "зверь",
+    "answer": "beast"
+  },
+  {
+    "text": "нация",
+    "answer": "nation"
+  },
+  {
+    "text": "старинный",
+    "answer": "old"
+  },
+  {
+    "text": "банка",
+    "answer": "bank"
+  },
+  {
+    "text": "коробка",
+    "answer": "box"
+  },
+  {
+    "text": "подавать",
+    "answer": "feed"
+  },
+  {
+    "text": "покинуть",
+    "answer": "leave"
+  },
+  {
+    "text": "послушать",
+    "answer": "listen"
+  },
+  {
+    "text": "секрет",
+    "answer": "secret"
+  },
+  {
+    "text": "темп",
+    "answer": "pace"
+  },
+  {
+    "text": "четко",
+    "answer": "legibly"
+  },
+  {
+    "text": "метро",
+    "answer": "metro"
+  },
+  {
+    "text": "пережить",
+    "answer": "survive"
+  },
+  {
+    "text": "раздаться",
+    "answer": "go off"
+  },
+  {
+    "text": "отчет",
+    "answer": "report"
+  },
+  {
+    "text": "пальто",
+    "answer": "coat"
+  },
+  {
+    "text": "узел",
+    "answer": "node"
+  },
+  {
+    "text": "нежный",
+    "answer": "tender"
+  },
+  {
+    "text": "обмен",
+    "answer": "exchange"
+  },
+  {
+    "text": "порода",
+    "answer": "breed"
+  },
+  {
+    "text": "прибыль",
+    "answer": "profit"
+  },
+  {
+    "text": "тоска",
+    "answer": "yearning"
+  },
+  {
+    "text": "фестиваль",
+    "answer": "festival"
+  },
+  {
+    "text": "шкаф",
+    "answer": "cabinet"
+  },
+  {
+    "text": "горе",
+    "answer": "grief"
+  },
+  {
+    "text": "забор",
+    "answer": "fence"
+  },
+  {
+    "text": "зимний",
+    "answer": "winter"
+  },
+  {
+    "text": "мебель",
+    "answer": "furniture"
+  },
+  {
+    "text": "мороз",
+    "answer": "frost"
+  },
+  {
+    "text": "оказывать",
+    "answer": "render"
+  },
+  {
+    "text": "превышать",
+    "answer": "exceed"
+  },
+  {
+    "text": "мирный",
+    "answer": "peaceful"
+  },
+  {
+    "text": "перемена",
+    "answer": "change"
+  },
+  {
+    "text": "костер",
+    "answer": "bonfire"
+  },
+  {
+    "text": "ловить",
+    "answer": "catch"
+  },
+  {
+    "text": "марка",
+    "answer": "mark"
+  },
+  {
+    "text": "забрать",
+    "answer": "pick up"
+  },
+  {
+    "text": "протокол",
+    "answer": "protocol"
+  },
+  {
+    "text": "ужасный",
+    "answer": "terrible"
+  },
+  {
+    "text": "утвердить",
+    "answer": "claim"
+  },
+  {
+    "text": "привычка",
+    "answer": "habit"
+  },
+  {
+    "text": "применять",
+    "answer": "use"
+  },
+  {
+    "text": "убедиться",
+    "answer": "make sure"
+  },
+  {
+    "text": "заменить",
+    "answer": "replace"
+  },
+  {
+    "text": "грязь",
+    "answer": "mud"
+  },
+  {
+    "text": "матч",
+    "answer": "match"
+  },
+  {
+    "text": "плод",
+    "answer": "fetus"
+  },
+  {
+    "text": "спрос",
+    "answer": "demand"
+  },
+  {
+    "text": "пассажир",
+    "answer": "passenger"
+  },
+  {
+    "text": "привлечь",
+    "answer": "attract"
+  },
+  {
+    "text": "стандарт",
+    "answer": "standard"
+  },
+  {
+    "text": "мотор",
+    "answer": "motor"
+  },
+  {
+    "text": "стадия",
+    "answer": "stage"
+  },
+  {
+    "text": "густой",
+    "answer": "thick"
+  },
+  {
+    "text": "звание",
+    "answer": "rank"
+  },
+  {
+    "text": "надежный",
+    "answer": "reliable"
+  },
+  {
+    "text": "критерий",
+    "answer": "criterion"
+  },
+  {
+    "text": "очевидный",
+    "answer": "evident"
+  },
+  {
+    "text": "пожилой",
+    "answer": "elderly"
+  },
+  {
+    "text": "везти",
+    "answer": "carry"
+  },
+  {
+    "text": "север",
+    "answer": "north"
+  },
+  {
+    "text": "убрать",
+    "answer": "remove"
+  },
+  {
+    "text": "борт",
+    "answer": "board"
+  },
+  {
+    "text": "раздел",
+    "answer": "section"
+  },
+  {
+    "text": "законный",
+    "answer": "law"
+  },
+  {
+    "text": "сектор",
+    "answer": "sector"
+  },
+  {
+    "text": "склад",
+    "answer": "storage"
+  },
+  {
+    "text": "таковой",
+    "answer": "such"
+  },
+  {
+    "text": "учение",
+    "answer": "learning"
+  },
+  {
+    "text": "карандаш",
+    "answer": "pencil"
+  },
+  {
+    "text": "летать",
+    "answer": "fly"
+  },
+  {
+    "text": "мотив",
+    "answer": "motive"
+  },
+  {
+    "text": "арест",
+    "answer": "arrest"
+  },
+  {
+    "text": "мэр",
+    "answer": "mayor"
+  },
+  {
+    "text": "остальные",
+    "answer": "rest"
+  },
+  {
+    "text": "символ",
+    "answer": "symbol"
+  },
+  {
+    "text": "повести",
+    "answer": "take out"
+  },
+  {
+    "text": "покрыть",
+    "answer": "cover by"
+  },
+  {
+    "text": "прислать",
+    "answer": "send"
+  },
+  {
+    "text": "близко",
+    "answer": "close"
+  },
+  {
+    "text": "решаться",
+    "answer": "decide"
+  },
+  {
+    "text": "исключить",
+    "answer": "exclude"
+  },
+  {
+    "text": "лечение",
+    "answer": "treatment"
+  },
+  {
+    "text": "мода",
+    "answer": "fashion"
+  },
+  {
+    "text": "особенный",
+    "answer": "special"
+  },
+  {
+    "text": "церковный",
+    "answer": "church"
+  },
+  {
+    "text": "громкий",
+    "answer": "loud"
+  },
+  {
+    "text": "поражение",
+    "answer": "defeat"
+  },
+  {
+    "text": "рубашка",
+    "answer": "shirt"
+  },
+  {
+    "text": "луна",
+    "answer": "moon"
+  },
+  {
+    "text": "нужда",
+    "answer": "need"
+  },
+  {
+    "text": "привет",
+    "answer": "regards"
+  },
+  {
+    "text": "собор",
+    "answer": "cathedral"
+  },
+  {
+    "text": "съемка",
+    "answer": "survey"
+  },
+  {
+    "text": "владеть",
+    "answer": "own"
+  },
+  {
+    "text": "груз",
+    "answer": "cargo"
+  },
+  {
+    "text": "трагедия",
+    "answer": "tragedy"
+  },
+  {
+    "text": "сзади",
+    "answer": "behind"
+  },
+  {
+    "text": "торчать",
+    "answer": "stick out"
+  },
+  {
+    "text": "луч",
+    "answer": "beam"
+  },
+  {
+    "text": "спасение",
+    "answer": "salvation"
+  },
+  {
+    "text": "экзамен",
+    "answer": "exam"
+  },
+  {
+    "text": "внизу",
+    "answer": "down"
+  },
+  {
+    "text": "пуля",
+    "answer": "bullet"
+  },
+  {
+    "text": "жест",
+    "answer": "gesture"
+  },
+  {
+    "text": "соединить",
+    "answer": "join"
+  },
+  {
+    "text": "убедить",
+    "answer": "urge"
+  },
+  {
+    "text": "задавать",
+    "answer": "set"
+  },
+  {
+    "text": "заложить",
+    "answer": "establish"
+  },
+  {
+    "text": "нервный",
+    "answer": "nervous"
+  },
+  {
+    "text": "отлично",
+    "answer": "perfectly"
+  },
+  {
+    "text": "салон",
+    "answer": "salon"
+  },
+  {
+    "text": "корова",
+    "answer": "cow"
+  },
+  {
+    "text": "молчание",
+    "answer": "silence"
+  },
+  {
+    "text": "отпуск",
+    "answer": "holiday"
+  },
+  {
+    "text": "питание",
+    "answer": "supply"
+  },
+  {
+    "text": "девчонка",
+    "answer": "chick"
+  },
+  {
+    "text": "капля",
+    "answer": "drop"
+  },
+  {
+    "text": "важнейший",
+    "answer": "paramount"
+  },
+  {
+    "text": "исполнять",
+    "answer": "perform"
+  },
+  {
+    "text": "общаться",
+    "answer": "deal"
+  },
+  {
+    "text": "одинокий",
+    "answer": "alone"
+  },
+  {
+    "text": "повернуть",
+    "answer": "turn"
+  },
+  {
+    "text": "бюджетный",
+    "answer": "budgetary"
+  },
+  {
+    "text": "дар",
+    "answer": "gift"
+  },
+  {
+    "text": "поставка",
+    "answer": "supply"
+  },
+  {
+    "text": "оркестр",
+    "answer": "orchestra"
+  },
+  {
+    "text": "совершать",
+    "answer": "make"
+  },
+  {
+    "text": "воевать",
+    "answer": "fight"
+  },
+  {
+    "text": "выдавать",
+    "answer": "issue"
+  },
+  {
+    "text": "задать",
+    "answer": "ask"
+  },
+  {
+    "text": "интервью",
+    "answer": "interview"
+  },
+  {
+    "text": "критика",
+    "answer": "criticism"
+  },
+  {
+    "text": "наступать",
+    "answer": "tread"
+  },
+  {
+    "text": "миллиард",
+    "answer": "billion"
+  },
+  {
+    "text": "спасибо",
+    "answer": "Thank you"
+  },
+  {
+    "text": "выявить",
+    "answer": "reveal"
+  },
+  {
+    "text": "пожар",
+    "answer": "fire"
+  },
+  {
+    "text": "рыночный",
+    "answer": "market"
+  },
+  {
+    "text": "набрать",
+    "answer": "dial"
+  },
+  {
+    "text": "холод",
+    "answer": "cold"
+  },
+  {
+    "text": "шар",
+    "answer": "ball"
+  },
+  {
+    "text": "компонент",
+    "answer": "component"
+  },
+  {
+    "text": "тетка",
+    "answer": "aunt"
+  },
+  {
+    "text": "цикл",
+    "answer": "cycle"
+  },
+  {
+    "text": "стыдно",
+    "answer": "ashamed"
+  },
+  {
+    "text": "эпизод",
+    "answer": "episode"
+  },
+  {
+    "text": "взрослый",
+    "answer": "grown-up"
+  },
+  {
+    "text": "крутой",
+    "answer": "steep"
+  },
+  {
+    "text": "обида",
+    "answer": "hurt"
+  },
+  {
+    "text": "потенциал",
+    "answer": "potential"
+  },
+  {
+    "text": "ненависть",
+    "answer": "hatred"
+  },
+  {
+    "text": "персонаж",
+    "answer": "character"
+  },
+  {
+    "text": "руль",
+    "answer": "rudder"
+  },
+  {
+    "text": "увеличить",
+    "answer": "increase"
+  },
+  {
+    "text": "религия",
+    "answer": "religion"
+  },
+  {
+    "text": "рыжий",
+    "answer": "red"
+  },
+  {
+    "text": "съесть",
+    "answer": "eat"
+  },
+  {
+    "text": "текущий",
+    "answer": "current"
+  },
+  {
+    "text": "молодость",
+    "answer": "youth"
+  },
+  {
+    "text": "упомянуть",
+    "answer": "mention"
+  },
+  {
+    "text": "ядерный",
+    "answer": "nuclear"
+  },
+  {
+    "text": "карьера",
+    "answer": "career"
+  },
+  {
+    "text": "кладбище",
+    "answer": "cemetery"
+  },
+  {
+    "text": "облако",
+    "answer": "cloud"
+  },
+  {
+    "text": "гонка",
+    "answer": "race"
+  },
+  {
+    "text": "отдыхать",
+    "answer": "rest"
+  },
+  {
+    "text": "отчего",
+    "answer": "why"
+  },
+  {
+    "text": "проверять",
+    "answer": "check"
+  },
+  {
+    "text": "рукав",
+    "answer": "sleeve"
+  },
+  {
+    "text": "туман",
+    "answer": "fog"
+  },
+  {
+    "text": "шофер",
+    "answer": "chauffeur"
+  },
+  {
+    "text": "бандит",
+    "answer": "bandit"
+  },
+  {
+    "text": "врать",
+    "answer": "fib"
+  },
+  {
+    "text": "подлинный",
+    "answer": "authentic"
+  },
+  {
+    "text": "чемодан",
+    "answer": "suitcase"
+  },
+  {
+    "text": "атака",
+    "answer": "attack"
+  },
+  {
+    "text": "роза",
+    "answer": "rose"
+  },
+  {
+    "text": "указ",
+    "answer": "decree"
+  },
+  {
+    "text": "грубый",
+    "answer": "rude"
+  },
+  {
+    "text": "игрок",
+    "answer": "player"
+  },
+  {
+    "text": "плыть",
+    "answer": "swim"
+  },
+  {
+    "text": "побывать",
+    "answer": "visit"
+  },
+  {
+    "text": "скандал",
+    "answer": "scandal"
+  },
+  {
+    "text": "труп",
+    "answer": "corpse"
+  },
+  {
+    "text": "кое-что",
+    "answer": "something"
+  },
+  {
+    "text": "тонна",
+    "answer": "ton"
+  },
+  {
+    "text": "гарантия",
+    "answer": "guarantee"
+  },
+  {
+    "text": "вождь",
+    "answer": "leader"
+  },
+  {
+    "text": "мина",
+    "answer": "mine"
+  },
+  {
+    "text": "орден",
+    "answer": "order"
+  },
+  {
+    "text": "пластинка",
+    "answer": "plate"
+  },
+  {
+    "text": "уважать",
+    "answer": "respect"
+  },
+  {
+    "text": "выскочить",
+    "answer": "jump out"
+  },
+  {
+    "text": "хранить",
+    "answer": "store"
+  },
+  {
+    "text": "юноша",
+    "answer": "youth"
+  },
+  {
+    "text": "бабка",
+    "answer": "head"
+  },
+  {
+    "text": "вызов",
+    "answer": "call"
+  },
+  {
+    "text": "полка",
+    "answer": "shelf"
+  },
+  {
+    "text": "шестой",
+    "answer": "sixth"
+  },
+  {
+    "text": "дитя",
+    "answer": "child"
+  },
+  {
+    "text": "необычный",
+    "answer": "unusual"
+  },
+  {
+    "text": "покупка",
+    "answer": "purchase"
+  },
+  {
+    "text": "ровно",
+    "answer": "smooth"
+  },
+  {
+    "text": "танцевать",
+    "answer": "dance"
+  },
+  {
+    "text": "бровь",
+    "answer": "eyebrow"
+  },
+  {
+    "text": "доверие",
+    "answer": "trust"
+  },
+  {
+    "text": "дождаться",
+    "answer": "wait"
+  },
+  {
+    "text": "избрать",
+    "answer": "elect"
+  },
+  {
+    "text": "колонна",
+    "answer": "column"
+  },
+  {
+    "text": "недавний",
+    "answer": "recent"
+  },
+  {
+    "text": "падение",
+    "answer": "drop"
+  },
+  {
+    "text": "стратегия",
+    "answer": "strategy"
+  },
+  {
+    "text": "боец",
+    "answer": "fighter"
+  },
+  {
+    "text": "завести",
+    "answer": "start"
+  },
+  {
+    "text": "захватить",
+    "answer": "grab"
+  },
+  {
+    "text": "описывать",
+    "answer": "describe"
+  },
+  {
+    "text": "сунуть",
+    "answer": "shove"
+  },
+  {
+    "text": "интернет",
+    "answer": "Internet"
+  },
+  {
+    "text": "исчезать",
+    "answer": "disappear"
+  },
+  {
+    "text": "разделить",
+    "answer": "share"
+  },
+  {
+    "text": "тарелка",
+    "answer": "plate"
+  },
+  {
+    "text": "удача",
+    "answer": "fortune"
+  },
+  {
+    "text": "деятель",
+    "answer": "doer"
+  },
+  {
+    "text": "иначе",
+    "answer": "else"
+  },
+  {
+    "text": "служебный",
+    "answer": "service"
+  },
+  {
+    "text": "выстрел",
+    "answer": "shot"
+  },
+  {
+    "text": "отражать",
+    "answer": "reflect"
+  },
+  {
+    "text": "полгода",
+    "answer": "half-year"
+  },
+  {
+    "text": "куртка",
+    "answer": "jacket"
+  },
+  {
+    "text": "флот",
+    "answer": "fleet"
+  },
+  {
+    "text": "бытие",
+    "answer": "being"
+  },
+  {
+    "text": "вступать",
+    "answer": "enter"
+  },
+  {
+    "text": "единство",
+    "answer": "unity"
+  },
+  {
+    "text": "надоесть",
+    "answer": "bother"
+  },
+  {
+    "text": "оператор",
+    "answer": "operator"
+  },
+  {
+    "text": "половой",
+    "answer": "sexual"
+  },
+  {
+    "text": "физика",
+    "answer": "physics"
+  },
+  {
+    "text": "мышление",
+    "answer": "thinking"
+  },
+  {
+    "text": "приход",
+    "answer": "coming"
+  },
+  {
+    "text": "раскрыть",
+    "answer": "disclose"
+  },
+  {
+    "text": "твердо",
+    "answer": "firmly"
+  },
+  {
+    "text": "шеф",
+    "answer": "chief"
+  },
+  {
+    "text": "глухой",
+    "answer": "deaf"
+  },
+  {
+    "text": "целовать",
+    "answer": "kiss"
+  },
+  {
+    "text": "чеченский",
+    "answer": "Chechen"
+  },
+  {
+    "text": "кой",
+    "answer": "Coy"
+  },
+  {
+    "text": "орать",
+    "answer": "scream"
+  },
+  {
+    "text": "отвести",
+    "answer": "withdraw"
+  },
+  {
+    "text": "тянуться",
+    "answer": "stretch"
+  },
+  {
+    "text": "шапка",
+    "answer": "cap"
+  },
+  {
+    "text": "достаться",
+    "answer": "get all"
+  },
+  {
+    "text": "ложка",
+    "answer": "spoon"
+  },
+  {
+    "text": "подпись",
+    "answer": "signature"
+  },
+  {
+    "text": "страховой",
+    "answer": "insurance"
+  },
+  {
+    "text": "актриса",
+    "answer": "actress"
+  },
+  {
+    "text": "внутри",
+    "answer": "inside"
+  },
+  {
+    "text": "всеобщий",
+    "answer": "general"
+  },
+  {
+    "text": "куча",
+    "answer": "heap"
+  },
+  {
+    "text": "прогноз",
+    "answer": "forecast"
+  },
+  {
+    "text": "сохранять",
+    "answer": "save"
+  },
+  {
+    "text": "белок",
+    "answer": "protein"
+  },
+  {
+    "text": "вернее",
+    "answer": "rather"
+  },
+  {
+    "text": "кот",
+    "answer": "cat"
+  },
+  {
+    "text": "остановка",
+    "answer": "stop"
+  },
+  {
+    "text": "платок",
+    "answer": "shawl"
+  },
+  {
+    "text": "радостно",
+    "answer": "joyfully"
+  },
+  {
+    "text": "ага",
+    "answer": "Aha!"
+  },
+  {
+    "text": "локоть",
+    "answer": "elbow"
+  },
+  {
+    "text": "махнуть",
+    "answer": "wave"
+  },
+  {
+    "text": "методика",
+    "answer": "methods"
+  },
+  {
+    "text": "мука",
+    "answer": "flour"
+  },
+  {
+    "text": "яйцо",
+    "answer": "egg"
+  },
+  {
+    "text": "голод",
+    "answer": "hunger"
+  },
+  {
+    "text": "душевный",
+    "answer": "soulful"
+  },
+  {
+    "text": "жалоба",
+    "answer": "complaint"
+  },
+  {
+    "text": "музыкант",
+    "answer": "musician"
+  },
+  {
+    "text": "нигде",
+    "answer": "nowhere"
+  },
+  {
+    "text": "охота",
+    "answer": "hunting"
+  },
+  {
+    "text": "сложить",
+    "answer": "fold"
+  },
+  {
+    "text": "вскочить",
+    "answer": "jump out"
+  },
+  {
+    "text": "выражать",
+    "answer": "express"
+  },
+  {
+    "text": "повесть",
+    "answer": "story"
+  },
+  {
+    "text": "глупость",
+    "answer": "stupidity"
+  },
+  {
+    "text": "картошка",
+    "answer": "potato"
+  },
+  {
+    "text": "переулок",
+    "answer": "lane"
+  },
+  {
+    "text": "печальный",
+    "answer": "sad"
+  },
+  {
+    "text": "поглядеть",
+    "answer": "look at"
+  },
+  {
+    "text": "сделаться",
+    "answer": "become"
+  },
+  {
+    "text": "домик",
+    "answer": "lodge"
+  },
+  {
+    "text": "замуж",
+    "answer": "marry"
+  },
+  {
+    "text": "страдание",
+    "answer": "suffering"
+  },
+  {
+    "text": "ветка",
+    "answer": "branch"
+  },
+  {
+    "text": "заказчик",
+    "answer": "customer"
+  },
+  {
+    "text": "лапа",
+    "answer": "paw"
+  },
+  {
+    "text": "священник",
+    "answer": "priest"
+  },
+  {
+    "text": "высказать",
+    "answer": "outspeak"
+  },
+  {
+    "text": "дважды",
+    "answer": "twice"
+  },
+  {
+    "text": "лекарство",
+    "answer": "drug"
+  },
+  {
+    "text": "мелочь",
+    "answer": "trifle"
+  },
+  {
+    "text": "пища",
+    "answer": "food"
+  },
+  {
+    "text": "свадьба",
+    "answer": "wedding"
+  },
+  {
+    "text": "ложиться",
+    "answer": "lie down"
+  },
+  {
+    "text": "подушка",
+    "answer": "pillow"
+  },
+  {
+    "text": "проявить",
+    "answer": "show"
+  },
+  {
+    "text": "справка",
+    "answer": "reference"
+  },
+  {
+    "text": "тьма",
+    "answer": "dark"
+  },
+  {
+    "text": "юг",
+    "answer": "south"
+  },
+  {
+    "text": "башня",
+    "answer": "tower"
+  },
+  {
+    "text": "влиять",
+    "answer": "influence"
+  },
+  {
+    "text": "довести",
+    "answer": "bring"
+  },
+  {
+    "text": "обвинение",
+    "answer": "charge"
+  },
+  {
+    "text": "соль",
+    "answer": "salt"
+  },
+  {
+    "text": "тариф",
+    "answer": "rate"
+  },
+  {
+    "text": "умение",
+    "answer": "skill"
+  },
+  {
+    "text": "агент",
+    "answer": "agent"
+  },
+  {
+    "text": "гений",
+    "answer": "genius"
+  },
+  {
+    "text": "иск",
+    "answer": "claim"
+  },
+  {
+    "text": "лекция",
+    "answer": "lecture"
+  },
+  {
+    "text": "моральный",
+    "answer": "moral"
+  },
+  {
+    "text": "нагрузка",
+    "answer": "load"
+  },
+  {
+    "text": "намерение",
+    "answer": "intention"
+  },
+  {
+    "text": "хранение",
+    "answer": "storage"
+  },
+  {
+    "text": "ботинок",
+    "answer": "boot"
+  },
+  {
+    "text": "защитить",
+    "answer": "protect"
+  },
+  {
+    "text": "исполнить",
+    "answer": "perform"
+  },
+  {
+    "text": "подвиг",
+    "answer": "feat"
+  },
+  {
+    "text": "заплатить",
+    "answer": "pay"
+  },
+  {
+    "text": "земельный",
+    "answer": "land"
+  },
+  {
+    "text": "управлять",
+    "answer": "control"
+  },
+  {
+    "text": "авиация",
+    "answer": "aviation"
+  },
+  {
+    "text": "дневник",
+    "answer": "diary"
+  },
+  {
+    "text": "летчик",
+    "answer": "pilot"
+  },
+  {
+    "text": "одеяло",
+    "answer": "blanket"
+  },
+  {
+    "text": "спрятать",
+    "answer": "hide"
+  },
+  {
+    "text": "приговор",
+    "answer": "sentence"
+  },
+  {
+    "text": "вечерний",
+    "answer": "evening"
+  },
+  {
+    "text": "внук",
+    "answer": "grandson"
+  },
+  {
+    "text": "идеальный",
+    "answer": "ideal"
+  },
+  {
+    "text": "баня",
+    "answer": "bath"
+  },
+  {
+    "text": "нанести",
+    "answer": "apply"
+  },
+  {
+    "text": "прыгать",
+    "answer": "jump"
+  },
+  {
+    "text": "вовремя",
+    "answer": "in time"
+  },
+  {
+    "text": "диалог",
+    "answer": "dialogue"
+  },
+  {
+    "text": "сладкий",
+    "answer": "sweet"
+  },
+  {
+    "text": "водный",
+    "answer": "water"
+  },
+  {
+    "text": "вынудить",
+    "answer": "force"
+  },
+  {
+    "text": "гриб",
+    "answer": "mushroom"
+  },
+  {
+    "text": "пояснить",
+    "answer": "explain"
+  },
+  {
+    "text": "доступный",
+    "answer": "available"
+  },
+  {
+    "text": "полиция",
+    "answer": "police"
+  },
+  {
+    "text": "строиться",
+    "answer": "align"
+  },
+  {
+    "text": "богатство",
+    "answer": "wealth"
+  },
+  {
+    "text": "отчаяние",
+    "answer": "despair"
+  },
+  {
+    "text": "пиджак",
+    "answer": "coat"
+  },
+  {
+    "text": "сахар",
+    "answer": "sugar"
+  },
+  {
+    "text": "столетие",
+    "answer": "century"
+  },
+  {
+    "text": "уважаемый",
+    "answer": "respected"
+  },
+  {
+    "text": "цирк",
+    "answer": "circus"
+  },
+  {
+    "text": "шутить",
+    "answer": "joke"
+  },
+  {
+    "text": "благо",
+    "answer": "good"
+  },
+  {
+    "text": "молиться",
+    "answer": "pray"
+  },
+  {
+    "text": "точность",
+    "answer": "accuracy"
+  },
+  {
+    "text": "манера",
+    "answer": "manner"
+  },
+  {
+    "text": "сперва",
+    "answer": "first"
+  },
+  {
+    "text": "цветной",
+    "answer": "color"
+  },
+  {
+    "text": "цех",
+    "answer": "shop"
+  },
+  {
+    "text": "вынуть",
+    "answer": "remove"
+  },
+  {
+    "text": "подъем",
+    "answer": "rise"
+  },
+  {
+    "text": "свидание",
+    "answer": "date"
+  },
+  {
+    "text": "смесь",
+    "answer": "mixture"
+  },
+  {
+    "text": "империя",
+    "answer": "empire"
+  },
+  {
+    "text": "красавица",
+    "answer": "beauty"
+  },
+  {
+    "text": "разум",
+    "answer": "mind"
+  },
+  {
+    "text": "тесный",
+    "answer": "close"
+  },
+  {
+    "text": "блестящий",
+    "answer": "brilliant"
+  },
+  {
+    "text": "гордость",
+    "answer": "pride"
+  },
+  {
+    "text": "динамика",
+    "answer": "dynamics"
+  },
+  {
+    "text": "дон",
+    "answer": "don"
+  },
+  {
+    "text": "жестокий",
+    "answer": "cruel"
+  },
+  {
+    "text": "плотный",
+    "answer": "dense"
+  },
+  {
+    "text": "рисовать",
+    "answer": "draw"
+  },
+  {
+    "text": "четкий",
+    "answer": "readable"
+  },
+  {
+    "text": "ох",
+    "answer": "Oh!"
+  },
+  {
+    "text": "подробно",
+    "answer": "in detail"
+  },
+  {
+    "text": "публичный",
+    "answer": "public"
+  },
+  {
+    "text": "седьмой",
+    "answer": "seventh"
+  },
+  {
+    "text": "студия",
+    "answer": "studio"
+  },
+  {
+    "text": "плита",
+    "answer": "plate"
+  },
+  {
+    "text": "пояс",
+    "answer": "belt"
+  },
+  {
+    "text": "суббота",
+    "answer": "Saturday"
+  },
+  {
+    "text": "аэропорт",
+    "answer": "airport"
+  },
+  {
+    "text": "брюки",
+    "answer": "trousers"
+  },
+  {
+    "text": "авторитет",
+    "answer": "authority"
+  },
+  {
+    "text": "граф",
+    "answer": "graph"
+  },
+  {
+    "text": "дорожка",
+    "answer": "track"
+  },
+  {
+    "text": "историк",
+    "answer": "historian"
+  },
+  {
+    "text": "исходный",
+    "answer": "original"
+  },
+  {
+    "text": "кафе",
+    "answer": "cafe"
+  },
+  {
+    "text": "придавать",
+    "answer": "attach"
+  },
+  {
+    "text": "тренер",
+    "answer": "coach"
+  },
+  {
+    "text": "глянуть",
+    "answer": "glance"
+  },
+  {
+    "text": "доставить",
+    "answer": "deliver"
+  },
+  {
+    "text": "замереть",
+    "answer": "freeze"
+  },
+  {
+    "text": "мышь",
+    "answer": "mouse"
+  },
+  {
+    "text": "оказать",
+    "answer": "turn up"
+  },
+  {
+    "text": "замечание",
+    "answer": "comment"
+  },
+  {
+    "text": "замысел",
+    "answer": "plan"
+  },
+  {
+    "text": "мышца",
+    "answer": "muscle"
+  },
+  {
+    "text": "продавец",
+    "answer": "seller"
+  },
+  {
+    "text": "ровный",
+    "answer": "smooth"
+  },
+  {
+    "text": "вечно",
+    "answer": "eternally"
+  },
+  {
+    "text": "карточка",
+    "answer": "card"
+  },
+  {
+    "text": "разбить",
+    "answer": "break up"
+  },
+  {
+    "text": "разойтись",
+    "answer": "break up"
+  },
+  {
+    "text": "священный",
+    "answer": "sacred"
+  },
+  {
+    "text": "фабрика",
+    "answer": "factory"
+  },
+  {
+    "text": "явный",
+    "answer": "explicit"
+  },
+  {
+    "text": "мимо",
+    "answer": "past"
+  },
+  {
+    "text": "перенести",
+    "answer": "survive"
+  },
+  {
+    "text": "поначалу",
+    "answer": "at first"
+  },
+  {
+    "text": "суровый",
+    "answer": "severe"
+  },
+  {
+    "text": "бледный",
+    "answer": "pale"
+  },
+  {
+    "text": "всерьез",
+    "answer": "seriously"
+  },
+  {
+    "text": "испытать",
+    "answer": "test"
+  },
+  {
+    "text": "пачка",
+    "answer": "pack"
+  },
+  {
+    "text": "ужин",
+    "answer": "dinner"
+  },
+  {
+    "text": "закрывать",
+    "answer": "close"
+  },
+  {
+    "text": "окончить",
+    "answer": "finish"
+  },
+  {
+    "text": "оценивать",
+    "answer": "evaluate"
+  },
+  {
+    "text": "шоссе",
+    "answer": "highway"
+  },
+  {
+    "text": "городок",
+    "answer": "town"
+  },
+  {
+    "text": "картинка",
+    "answer": "picture"
+  },
+  {
+    "text": "легенда",
+    "answer": "legend"
+  },
+  {
+    "text": "икона",
+    "answer": "icon"
+  },
+  {
+    "text": "коньяк",
+    "answer": "cognac"
+  },
+  {
+    "text": "волк",
+    "answer": "wolf"
+  },
+  {
+    "text": "срочно",
+    "answer": "urgently"
+  },
+  {
+    "text": "халат",
+    "answer": "bathrobe"
+  },
+  {
+    "text": "жанр",
+    "answer": "genre"
+  },
+  {
+    "text": "идеал",
+    "answer": "ideal"
+  },
+  {
+    "text": "ключевой",
+    "answer": "key"
+  },
+  {
+    "text": "неплохо",
+    "answer": "snugly"
+  },
+  {
+    "text": "поправка",
+    "answer": "amendment"
+  },
+  {
+    "text": "юность",
+    "answer": "youth"
+  },
+  {
+    "text": "лента",
+    "answer": "tape"
+  },
+  {
+    "text": "нарушить",
+    "answer": "upset the"
+  },
+  {
+    "text": "ощутить",
+    "answer": "feel"
+  },
+  {
+    "text": "частица",
+    "answer": "particle"
+  },
+  {
+    "text": "бомба",
+    "answer": "bomb"
+  },
+  {
+    "text": "крыльцо",
+    "answer": "porch"
+  },
+  {
+    "text": "научить",
+    "answer": "teach"
+  },
+  {
+    "text": "пациент",
+    "answer": "patient"
+  },
+  {
+    "text": "сок",
+    "answer": "juice"
+  },
+  {
+    "text": "тяжесть",
+    "answer": "gravity"
+  },
+  {
+    "text": "штамм",
+    "answer": "strain"
+  },
+  {
+    "text": "кусочек",
+    "answer": "bit"
+  },
+  {
+    "text": "намерен",
+    "answer": "I intend"
+  },
+  {
+    "text": "однако",
+    "answer": "however"
+  },
+  {
+    "text": "приезд",
+    "answer": "arrival"
+  },
+  {
+    "text": "пробовать",
+    "answer": "try"
+  },
+  {
+    "text": "стучать",
+    "answer": "knock"
+  },
+  {
+    "text": "аспект",
+    "answer": "aspect"
+  },
+  {
+    "text": "вчерашний",
+    "answer": "yester"
+  },
+  {
+    "text": "еле",
+    "answer": "hardly"
+  },
+  {
+    "text": "взаимный",
+    "answer": "mutual"
+  },
+  {
+    "text": "военный",
+    "answer": "soldier"
+  },
+  {
+    "text": "выставить",
+    "answer": "exhibit"
+  },
+  {
+    "text": "прикрыть",
+    "answer": "cover"
+  },
+  {
+    "text": "пускать",
+    "answer": "let"
+  },
+  {
+    "text": "развитой",
+    "answer": "developed"
+  },
+  {
+    "text": "сиять",
+    "answer": "shine"
+  },
+  {
+    "text": "строение",
+    "answer": "structure"
+  },
+  {
+    "text": "ущерб",
+    "answer": "damage"
+  },
+  {
+    "text": "делиться",
+    "answer": "share"
+  },
+  {
+    "text": "идеология",
+    "answer": "ideology"
+  },
+  {
+    "text": "подросток",
+    "answer": "teenager"
+  },
+  {
+    "text": "правление",
+    "answer": "rule"
+  },
+  {
+    "text": "проживать",
+    "answer": "reside"
+  },
+  {
+    "text": "чемпион",
+    "answer": "champion"
+  },
+  {
+    "text": "архив",
+    "answer": "archive"
+  },
+  {
+    "text": "вслух",
+    "answer": "aloud"
+  },
+  {
+    "text": "изучить",
+    "answer": "study"
+  },
+  {
+    "text": "мягко",
+    "answer": "soft"
+  },
+  {
+    "text": "немножко",
+    "answer": "a wee bit"
+  },
+  {
+    "text": "подвести",
+    "answer": "bring"
+  },
+  {
+    "text": "призвать",
+    "answer": "call"
+  },
+  {
+    "text": "достигать",
+    "answer": "reach"
+  },
+  {
+    "text": "копейка",
+    "answer": "kopek"
+  },
+  {
+    "text": "коротко",
+    "answer": "short"
+  },
+  {
+    "text": "допускать",
+    "answer": "admit"
+  },
+  {
+    "text": "нерв",
+    "answer": "nerve"
+  },
+  {
+    "text": "посылать",
+    "answer": "send"
+  },
+  {
+    "text": "приличный",
+    "answer": "decent"
+  },
+  {
+    "text": "раствор",
+    "answer": "solution"
+  },
+  {
+    "text": "туалет",
+    "answer": "toilet"
+  },
+  {
+    "text": "утратить",
+    "answer": "lose"
+  },
+  {
+    "text": "хор",
+    "answer": "choir"
+  },
+  {
+    "text": "анекдот",
+    "answer": "joke"
+  },
+  {
+    "text": "класть",
+    "answer": "put"
+  },
+  {
+    "text": "слышно",
+    "answer": "hear"
+  },
+  {
+    "text": "царский",
+    "answer": "royal"
+  },
+  {
+    "text": "штаны",
+    "answer": "pants"
+  },
+  {
+    "text": "возразить",
+    "answer": "object"
+  },
+  {
+    "text": "грозить",
+    "answer": "threaten"
+  },
+  {
+    "text": "изо",
+    "answer": "iso"
+  },
+  {
+    "text": "искренне",
+    "answer": "sincerely"
+  },
+  {
+    "text": "пленка",
+    "answer": "film"
+  },
+  {
+    "text": "подобрать",
+    "answer": "pick up"
+  },
+  {
+    "text": "репетиция",
+    "answer": "rehearsal"
+  },
+  {
+    "text": "проявлять",
+    "answer": "show"
+  },
+  {
+    "text": "экипаж",
+    "answer": "crew"
+  },
+  {
+    "text": "водить",
+    "answer": "conduct"
+  },
+  {
+    "text": "награда",
+    "answer": "reward"
+  },
+  {
+    "text": "непонятно",
+    "answer": "unclear"
+  },
+  {
+    "text": "поход",
+    "answer": "campaign"
+  },
+  {
+    "text": "сплошной",
+    "answer": "solid"
+  },
+  {
+    "text": "помолчать",
+    "answer": "be silent"
+  },
+  {
+    "text": "худой",
+    "answer": "thin"
+  },
+  {
+    "text": "газовый",
+    "answer": "gas"
+  },
+  {
+    "text": "морда",
+    "answer": "muzzle"
+  },
+  {
+    "text": "перо",
+    "answer": "pen"
+  },
+  {
+    "text": "претензия",
+    "answer": "claim"
+  },
+  {
+    "text": "россиянин",
+    "answer": "Russian"
+  },
+  {
+    "text": "постоять",
+    "answer": "stand"
+  },
+  {
+    "text": "проза",
+    "answer": "prose"
+  },
+  {
+    "text": "сдавать",
+    "answer": "hand over"
+  },
+  {
+    "text": "четверть",
+    "answer": "fourth"
+  },
+  {
+    "text": "маска",
+    "answer": "mask"
+  },
+  {
+    "text": "опера",
+    "answer": "opera"
+  },
+  {
+    "text": "госпиталь",
+    "answer": "hospital"
+  },
+  {
+    "text": "маршрут",
+    "answer": "route"
+  },
+  {
+    "text": "сержант",
+    "answer": "sergeant"
+  },
+  {
+    "text": "точно",
+    "answer": "exactly"
+  },
+  {
+    "text": "шляпа",
+    "answer": "hat"
+  },
+  {
+    "text": "экземпляр",
+    "answer": "copy"
+  },
+  {
+    "text": "белье",
+    "answer": "linen"
+  },
+  {
+    "text": "бродить",
+    "answer": "wander"
+  },
+  {
+    "text": "ведро",
+    "answer": "bucket"
+  },
+  {
+    "text": "невидимый",
+    "answer": "invisible"
+  },
+  {
+    "text": "офис",
+    "answer": "office"
+  },
+  {
+    "text": "седой",
+    "answer": "gray"
+  },
+  {
+    "text": "слабость",
+    "answer": "weakness"
+  },
+  {
+    "text": "ссылка",
+    "answer": "link"
+  },
+  {
+    "text": "холодно",
+    "answer": "coldly"
+  },
+  {
+    "text": "лампа",
+    "answer": "lamp"
+  },
+  {
+    "text": "опираться",
+    "answer": "lean"
+  },
+  {
+    "text": "толк",
+    "answer": "sense"
+  },
+  {
+    "text": "убийца",
+    "answer": "killer"
+  },
+  {
+    "text": "фантазия",
+    "answer": "fantasy"
+  },
+  {
+    "text": "вселенная",
+    "answer": "universe"
+  },
+  {
+    "text": "де",
+    "answer": "de"
+  },
+  {
+    "text": "задержать",
+    "answer": "delay"
+  },
+  {
+    "text": "любитель",
+    "answer": "amateur"
+  },
+  {
+    "text": "малыш",
+    "answer": "kid"
+  },
+  {
+    "text": "одеть",
+    "answer": "dress"
+  },
+  {
+    "text": "призыв",
+    "answer": "call"
+  },
+  {
+    "text": "заболеть",
+    "answer": "fall ill"
+  },
+  {
+    "text": "облик",
+    "answer": "guise"
+  },
+  {
+    "text": "сайт",
+    "answer": "site"
+  },
+  {
+    "text": "слева",
+    "answer": "left"
+  },
+  {
+    "text": "горизонт",
+    "answer": "horizon"
+  },
+  {
+    "text": "давний",
+    "answer": "old"
+  },
+  {
+    "text": "дивизия",
+    "answer": "division"
+  },
+  {
+    "text": "доверять",
+    "answer": "trust"
+  },
+  {
+    "text": "изба",
+    "answer": "cottage"
+  },
+  {
+    "text": "копия",
+    "answer": "copy"
+  },
+  {
+    "text": "налить",
+    "answer": "pour"
+  },
+  {
+    "text": "небесный",
+    "answer": "heavenly"
+  },
+  {
+    "text": "отдохнуть",
+    "answer": "unwind"
+  },
+  {
+    "text": "покачать",
+    "answer": "shake"
+  },
+  {
+    "text": "течь",
+    "answer": "flow"
+  },
+  {
+    "text": "гнать",
+    "answer": "drive"
+  },
+  {
+    "text": "натура",
+    "answer": "nature"
+  },
+  {
+    "text": "нефтяной",
+    "answer": "oil"
+  },
+  {
+    "text": "голодный",
+    "answer": "hungry"
+  },
+  {
+    "text": "доступ",
+    "answer": "access"
+  },
+  {
+    "text": "подвал",
+    "answer": "basement"
+  },
+  {
+    "text": "порт",
+    "answer": "port"
+  },
+  {
+    "text": "связывать",
+    "answer": "bind"
+  },
+  {
+    "text": "уголь",
+    "answer": "coal"
+  },
+  {
+    "text": "устав",
+    "answer": "charter"
+  },
+  {
+    "text": "бассейн",
+    "answer": "pool"
+  },
+  {
+    "text": "биться",
+    "answer": "beat"
+  },
+  {
+    "text": "двойной",
+    "answer": "double"
+  },
+  {
+    "text": "здорово",
+    "answer": "awesome"
+  },
+  {
+    "text": "инстанция",
+    "answer": "instance"
+  },
+  {
+    "text": "медведь",
+    "answer": "bear"
+  },
+  {
+    "text": "нынче",
+    "answer": "today"
+  },
+  {
+    "text": "отъезд",
+    "answer": "departure"
+  },
+  {
+    "text": "браться",
+    "answer": "undertake"
+  },
+  {
+    "text": "космос",
+    "answer": "space"
+  },
+  {
+    "text": "меч",
+    "answer": "sword"
+  },
+  {
+    "text": "судно",
+    "answer": "vessel"
+  },
+  {
+    "text": "тратить",
+    "answer": "spend"
+  },
+  {
+    "text": "чашка",
+    "answer": "cup"
+  },
+  {
+    "text": "разрушить",
+    "answer": "destroy"
+  },
+  {
+    "text": "волновать",
+    "answer": "excite"
+  },
+  {
+    "text": "квартал",
+    "answer": "quarter"
+  },
+  {
+    "text": "курица",
+    "answer": "chicken"
+  },
+  {
+    "text": "окружить",
+    "answer": "surround"
+  },
+  {
+    "text": "плавать",
+    "answer": "swim"
+  },
+  {
+    "text": "развивать",
+    "answer": "develop"
+  },
+  {
+    "text": "спасать",
+    "answer": "save"
+  },
+  {
+    "text": "топливо",
+    "answer": "fuel"
+  },
+  {
+    "text": "элита",
+    "answer": "elite"
+  },
+  {
+    "text": "ветвь",
+    "answer": "branch"
+  },
+  {
+    "text": "видеться",
+    "answer": "see"
+  },
+  {
+    "text": "девица",
+    "answer": "maiden"
+  },
+  {
+    "text": "инвестор",
+    "answer": "depositor"
+  },
+  {
+    "text": "кнопка",
+    "answer": "button"
+  },
+  {
+    "text": "обязать",
+    "answer": "oblige"
+  },
+  {
+    "text": "польский",
+    "answer": "Polish"
+  },
+  {
+    "text": "почта",
+    "answer": "mail"
+  },
+  {
+    "text": "юмор",
+    "answer": "humor"
+  },
+  {
+    "text": "вначале",
+    "answer": "initially"
+  },
+  {
+    "text": "гордиться",
+    "answer": "be proud"
+  },
+  {
+    "text": "палка",
+    "answer": "stick"
+  },
+  {
+    "text": "пустота",
+    "answer": "emptiness"
+  },
+  {
+    "text": "фонарь",
+    "answer": "lantern"
+  },
+  {
+    "text": "заказать",
+    "answer": "order"
+  },
+  {
+    "text": "наркотик",
+    "answer": "drug"
+  },
+  {
+    "text": "премьер",
+    "answer": "premier"
+  },
+  {
+    "text": "трогать",
+    "answer": "touch"
+  },
+  {
+    "text": "актив",
+    "answer": "assets"
+  },
+  {
+    "text": "завершить",
+    "answer": "complete"
+  },
+  {
+    "text": "посреди",
+    "answer": "midst"
+  },
+  {
+    "text": "столб",
+    "answer": "column"
+  },
+  {
+    "text": "француз",
+    "answer": "Frenchman"
+  },
+  {
+    "text": "холм",
+    "answer": "hill"
+  },
+  {
+    "text": "аккуратно",
+    "answer": "carefully"
+  },
+  {
+    "text": "большевик",
+    "answer": "Bolshevik"
+  },
+  {
+    "text": "вдвоем",
+    "answer": "double"
+  },
+  {
+    "text": "отменить",
+    "answer": "cancel"
+  },
+  {
+    "text": "печь",
+    "answer": "oven"
+  },
+  {
+    "text": "попасться",
+    "answer": "cop it"
+  },
+  {
+    "text": "пугать",
+    "answer": "frighten"
+  },
+  {
+    "text": "сиденье",
+    "answer": "seat"
+  },
+  {
+    "text": "выплата",
+    "answer": "pay"
+  },
+  {
+    "text": "избежать",
+    "answer": "avoid"
+  },
+  {
+    "text": "потрясти",
+    "answer": "stun"
+  },
+  {
+    "text": "словом",
+    "answer": "in short"
+  },
+  {
+    "text": "сорт",
+    "answer": "grade"
+  },
+  {
+    "text": "трасса",
+    "answer": "track"
+  },
+  {
+    "text": "ангел",
+    "answer": "angel"
+  },
+  {
+    "text": "атомный",
+    "answer": "atomic"
+  },
+  {
+    "text": "выбросить",
+    "answer": "turf"
+  },
+  {
+    "text": "лифт",
+    "answer": "elevator"
+  },
+  {
+    "text": "мрачный",
+    "answer": "gloomy"
+  },
+  {
+    "text": "скрыть",
+    "answer": "hide"
+  },
+  {
+    "text": "градус",
+    "answer": "degree"
+  },
+  {
+    "text": "запрос",
+    "answer": "request"
+  },
+  {
+    "text": "кабина",
+    "answer": "cabin"
+  },
+  {
+    "text": "отказать",
+    "answer": "refuse"
+  },
+  {
+    "text": "повесить",
+    "answer": "hang"
+  },
+  {
+    "text": "посетить",
+    "answer": "take in"
+  },
+  {
+    "text": "террорист",
+    "answer": "terrorist"
+  },
+  {
+    "text": "штраф",
+    "answer": "fine"
+  },
+  {
+    "text": "двинуться",
+    "answer": "advance"
+  },
+  {
+    "text": "медаль",
+    "answer": "medal"
+  },
+  {
+    "text": "окружать",
+    "answer": "surround"
+  },
+  {
+    "text": "пусть",
+    "answer": "let"
+  },
+  {
+    "text": "уголок",
+    "answer": "corner"
+  },
+  {
+    "text": "успевать",
+    "answer": "have time"
+  },
+  {
+    "text": "фото",
+    "answer": "photo"
+  },
+  {
+    "text": "головной",
+    "answer": "head"
+  },
+  {
+    "text": "обрести",
+    "answer": "find"
+  },
+  {
+    "text": "перерыв",
+    "answer": "break"
+  },
+  {
+    "text": "разрыв",
+    "answer": "gap"
+  },
+  {
+    "text": "угодно",
+    "answer": "anything"
+  },
+  {
+    "text": "бытовой",
+    "answer": "domestic"
+  },
+  {
+    "text": "горький",
+    "answer": "bitter"
+  },
+  {
+    "text": "орудие",
+    "answer": "gun"
+  },
+  {
+    "text": "отель",
+    "answer": "hotel"
+  },
+  {
+    "text": "полезть",
+    "answer": "thrust"
+  },
+  {
+    "text": "радостный",
+    "answer": "glad"
+  },
+  {
+    "text": "храниться",
+    "answer": "be kept"
+  },
+  {
+    "text": "эмоция",
+    "answer": "emotion"
+  },
+  {
+    "text": "аудитория",
+    "answer": "audience"
+  },
+  {
+    "text": "жидкость",
+    "answer": "liquid"
+  },
+  {
+    "text": "мышка",
+    "answer": "mousy"
+  },
+  {
+    "text": "ножка",
+    "answer": "leg"
+  },
+  {
+    "text": "спутник",
+    "answer": "satellite"
+  },
+  {
+    "text": "типичный",
+    "answer": "typical"
+  },
+  {
+    "text": "утренний",
+    "answer": "morning"
+  },
+  {
+    "text": "веревка",
+    "answer": "rope"
+  },
+  {
+    "text": "вырваться",
+    "answer": "break"
+  },
+  {
+    "text": "издать",
+    "answer": "produce"
+  },
+  {
+    "text": "помешать",
+    "answer": "intervene"
+  },
+  {
+    "text": "свободно",
+    "answer": "free"
+  },
+  {
+    "text": "старушка",
+    "answer": "old woman"
+  },
+  {
+    "text": "стать",
+    "answer": "build"
+  },
+  {
+    "text": "ступень",
+    "answer": "stage"
+  },
+  {
+    "text": "борода",
+    "answer": "beard"
+  },
+  {
+    "text": "невеста",
+    "answer": "bride"
+  },
+  {
+    "text": "сравнить",
+    "answer": "compare"
+  },
+  {
+    "text": "факультет",
+    "answer": "faculty"
+  },
+  {
+    "text": "дыра",
+    "answer": "hole"
+  },
+  {
+    "text": "император",
+    "answer": "emperor"
+  },
+  {
+    "text": "свеча",
+    "answer": "candle"
+  },
+  {
+    "text": "тащить",
+    "answer": "drag"
+  },
+  {
+    "text": "плюс",
+    "answer": "a plus"
+  },
+  {
+    "text": "совпадать",
+    "answer": "coincide"
+  },
+  {
+    "text": "вот-вот",
+    "answer": "exactly"
+  },
+  {
+    "text": "пообещать",
+    "answer": "promise"
+  },
+  {
+    "text": "чудесный",
+    "answer": "wonderful"
+  },
+  {
+    "text": "блюдо",
+    "answer": "dish"
+  },
+  {
+    "text": "грань",
+    "answer": "face"
+  },
+  {
+    "text": "критик",
+    "answer": "critic"
+  },
+  {
+    "text": "посадка",
+    "answer": "landing"
+  },
+  {
+    "text": "посуда",
+    "answer": "dishes"
+  },
+  {
+    "text": "противный",
+    "answer": "nasty"
+  },
+  {
+    "text": "себе",
+    "answer": "yourself"
+  },
+  {
+    "text": "царство",
+    "answer": "kingdom"
+  },
+  {
+    "text": "экспорт",
+    "answer": "export"
+  },
+  {
+    "text": "боевик",
+    "answer": "thriller"
+  },
+  {
+    "text": "вредный",
+    "answer": "harmful"
+  },
+  {
+    "text": "доставать",
+    "answer": "get"
+  },
+  {
+    "text": "книжный",
+    "answer": "book"
+  },
+  {
+    "text": "обмануть",
+    "answer": "deceive"
+  },
+  {
+    "text": "обнять",
+    "answer": "embrace"
+  },
+  {
+    "text": "опасаться",
+    "answer": "fear"
+  },
+  {
+    "text": "портфель",
+    "answer": "portfolio"
+  },
+  {
+    "text": "почетный",
+    "answer": "honorable"
+  },
+  {
+    "text": "сменить",
+    "answer": "follow"
+  },
+  {
+    "text": "воинский",
+    "answer": "military"
+  },
+  {
+    "text": "дурной",
+    "answer": "bad"
+  },
+  {
+    "text": "кожаный",
+    "answer": "leather"
+  },
+  {
+    "text": "сторонник",
+    "answer": "supporter"
+  },
+  {
+    "text": "супруг",
+    "answer": "spouse"
+  },
+  {
+    "text": "украсть",
+    "answer": "scrounge"
+  },
+  {
+    "text": "целиком",
+    "answer": "entirely"
+  },
+  {
+    "text": "вообще-то",
+    "answer": "actually"
+  },
+  {
+    "text": "заявлять",
+    "answer": "declare"
+  },
+  {
+    "text": "ошибиться",
+    "answer": "slip up"
+  },
+  {
+    "text": "персонал",
+    "answer": "staff"
+  },
+  {
+    "text": "повысить",
+    "answer": "increase"
+  },
+  {
+    "text": "поручить",
+    "answer": "charge"
+  },
+  {
+    "text": "послание",
+    "answer": "message"
+  },
+  {
+    "text": "профиль",
+    "answer": "profile"
+  },
+  {
+    "text": "учебник",
+    "answer": "textbook"
+  },
+  {
+    "text": "ближний",
+    "answer": "near"
+  },
+  {
+    "text": "заполнить",
+    "answer": "write in"
+  },
+  {
+    "text": "игрушка",
+    "answer": "toy"
+  },
+  {
+    "text": "крышка",
+    "answer": "cap"
+  },
+  {
+    "text": "развести",
+    "answer": "divorce"
+  },
+  {
+    "text": "заслужить",
+    "answer": "merit"
+  },
+  {
+    "text": "премьера",
+    "answer": "premiere"
+  },
+  {
+    "text": "трудиться",
+    "answer": "work"
+  },
+  {
+    "text": "эх",
+    "answer": "oh"
+  },
+  {
+    "text": "пес",
+    "answer": "dog"
+  },
+  {
+    "text": "подряд",
+    "answer": "in a row"
+  },
+  {
+    "text": "пожалеть",
+    "answer": "take pity"
+  },
+  {
+    "text": "скала",
+    "answer": "rock"
+  },
+  {
+    "text": "ложь",
+    "answer": "lie"
+  },
+  {
+    "text": "грузовик",
+    "answer": "truck"
+  },
+  {
+    "text": "грустный",
+    "answer": "sad"
+  },
+  {
+    "text": "лечить",
+    "answer": "treat"
+  },
+  {
+    "text": "неплохой",
+    "answer": "fair"
+  },
+  {
+    "text": "перечень",
+    "answer": "scroll"
+  },
+  {
+    "text": "ритм",
+    "answer": "rhythm"
+  },
+  {
+    "text": "такси",
+    "answer": "taxi"
+  },
+  {
+    "text": "валяться",
+    "answer": "wallow"
+  },
+  {
+    "text": "воин",
+    "answer": "warrior"
+  },
+  {
+    "text": "жара",
+    "answer": "heat"
+  },
+  {
+    "text": "олигарх",
+    "answer": "oligarch"
+  },
+  {
+    "text": "охватить",
+    "answer": "cover"
+  },
+  {
+    "text": "строчка",
+    "answer": "line"
+  },
+  {
+    "text": "фрагмент",
+    "answer": "fragment"
+  },
+  {
+    "text": "бюро",
+    "answer": "bureau"
+  },
+  {
+    "text": "доходить",
+    "answer": "reach"
+  },
+  {
+    "text": "жалкий",
+    "answer": "pitiful"
+  },
+  {
+    "text": "обидеть",
+    "answer": "injure"
+  },
+  {
+    "text": "сборная",
+    "answer": "team"
+  },
+  {
+    "text": "сломать",
+    "answer": "break"
+  },
+  {
+    "text": "тогдашний",
+    "answer": "then"
+  },
+  {
+    "text": "вытянуть",
+    "answer": "pull"
+  },
+  {
+    "text": "зерно",
+    "answer": "corn"
+  },
+  {
+    "text": "ледяной",
+    "answer": "ice"
+  },
+  {
+    "text": "платеж",
+    "answer": "payment"
+  },
+  {
+    "text": "прощать",
+    "answer": "forgive"
+  },
+  {
+    "text": "рухнуть",
+    "answer": "collapse"
+  },
+  {
+    "text": "свернуть",
+    "answer": "turn"
+  },
+  {
+    "text": "возражать",
+    "answer": "mind"
+  },
+  {
+    "text": "вред",
+    "answer": "harm"
+  },
+  {
+    "text": "кафедра",
+    "answer": "chair"
+  },
+  {
+    "text": "напиток",
+    "answer": "drink"
+  },
+  {
+    "text": "осветить",
+    "answer": "lighten"
+  },
+  {
+    "text": "яма",
+    "answer": "pit"
+  },
+  {
+    "text": "длиться",
+    "answer": "last"
+  },
+  {
+    "text": "занятый",
+    "answer": "busy"
+  },
+  {
+    "text": "изложить",
+    "answer": "outline"
+  },
+  {
+    "text": "кругом",
+    "answer": "round"
+  },
+  {
+    "text": "лицензия",
+    "answer": "license"
+  },
+  {
+    "text": "полюбить",
+    "answer": "cotton"
+  },
+  {
+    "text": "пот",
+    "answer": "sweat"
+  },
+  {
+    "text": "проиграть",
+    "answer": "lose"
+  },
+  {
+    "text": "пятница",
+    "answer": "Friday"
+  },
+  {
+    "text": "рота",
+    "answer": "company"
+  },
+  {
+    "text": "семейство",
+    "answer": "family"
+  },
+  {
+    "text": "сосна",
+    "answer": "pine"
+  },
+  {
+    "text": "форум",
+    "answer": "forum"
+  },
+  {
+    "text": "могучий",
+    "answer": "powerful"
+  },
+  {
+    "text": "оттенок",
+    "answer": "shade"
+  },
+  {
+    "text": "провожать",
+    "answer": "see off"
+  },
+  {
+    "text": "рисковать",
+    "answer": "risk"
+  },
+  {
+    "text": "громадный",
+    "answer": "enormous"
+  },
+  {
+    "text": "подобно",
+    "answer": "like"
+  },
+  {
+    "text": "пустыня",
+    "answer": "desert"
+  },
+  {
+    "text": "сборник",
+    "answer": "digest"
+  },
+  {
+    "text": "словно",
+    "answer": "like"
+  },
+  {
+    "text": "кончить",
+    "answer": "come"
+  },
+  {
+    "text": "поза",
+    "answer": "pose"
+  },
+  {
+    "text": "блеск",
+    "answer": "shine"
+  },
+  {
+    "text": "папка",
+    "answer": "folder"
+  },
+  {
+    "text": "регулярно",
+    "answer": "regularly"
+  },
+  {
+    "text": "свести",
+    "answer": "bring"
+  },
+  {
+    "text": "смешно",
+    "answer": "amusingly"
+  },
+  {
+    "text": "авария",
+    "answer": "accident"
+  },
+  {
+    "text": "прогулка",
+    "answer": "stroll"
+  },
+  {
+    "text": "секс",
+    "answer": "sex"
+  },
+  {
+    "text": "славный",
+    "answer": "glorious"
+  },
+  {
+    "text": "среднее",
+    "answer": "mean"
+  },
+  {
+    "text": "степь",
+    "answer": "steppe"
+  },
+  {
+    "text": "дура",
+    "answer": "fool"
+  },
+  {
+    "text": "ковер",
+    "answer": "carpet"
+  },
+  {
+    "text": "кончаться",
+    "answer": "finish"
+  },
+  {
+    "text": "кредитный",
+    "answer": "credit"
+  },
+  {
+    "text": "нарушать",
+    "answer": "violate"
+  },
+  {
+    "text": "пламя",
+    "answer": "flame"
+  },
+  {
+    "text": "старость",
+    "answer": "old age"
+  },
+  {
+    "text": "стрельба",
+    "answer": "shooting"
+  },
+  {
+    "text": "верх",
+    "answer": "top"
+  },
+  {
+    "text": "выпасть",
+    "answer": "drop"
+  },
+  {
+    "text": "прервать",
+    "answer": "interrupt"
+  },
+  {
+    "text": "районный",
+    "answer": "district"
+  },
+  {
+    "text": "рана",
+    "answer": "wound"
+  },
+  {
+    "text": "счесть",
+    "answer": "consider"
+  },
+  {
+    "text": "треть",
+    "answer": "third"
+  },
+  {
+    "text": "ус",
+    "answer": "mustache"
+  },
+  {
+    "text": "флаг",
+    "answer": "flag"
+  },
+  {
+    "text": "чистота",
+    "answer": "purity"
+  },
+  {
+    "text": "варить",
+    "answer": "cook"
+  },
+  {
+    "text": "крепость",
+    "answer": "fortress"
+  },
+  {
+    "text": "некоторые",
+    "answer": "some"
+  },
+  {
+    "text": "полететь",
+    "answer": "fly"
+  },
+  {
+    "text": "призывать",
+    "answer": "call"
+  },
+  {
+    "text": "фаза",
+    "answer": "phase"
+  },
+  {
+    "text": "выбраться",
+    "answer": "out"
+  },
+  {
+    "text": "выделять",
+    "answer": "emit"
+  },
+  {
+    "text": "намного",
+    "answer": "far"
+  },
+  {
+    "text": "недалеко",
+    "answer": "near"
+  },
+  {
+    "text": "охотно",
+    "answer": "willingly"
+  },
+  {
+    "text": "совместно",
+    "answer": "jointly"
+  },
+  {
+    "text": "асфальт",
+    "answer": "asphalt"
+  },
+  {
+    "text": "валюта",
+    "answer": "currency"
+  },
+  {
+    "text": "палатка",
+    "answer": "tent"
+  },
+  {
+    "text": "перевозка",
+    "answer": "shipping"
+  },
+  {
+    "text": "плоский",
+    "answer": "flat"
+  },
+  {
+    "text": "стойка",
+    "answer": "rack"
+  },
+  {
+    "text": "успокоить",
+    "answer": "calm down"
+  },
+  {
+    "text": "ветеран",
+    "answer": "veteran"
+  },
+  {
+    "text": "вор",
+    "answer": "thief"
+  },
+  {
+    "text": "выделение",
+    "answer": "discharge"
+  },
+  {
+    "text": "листок",
+    "answer": "sheet"
+  },
+  {
+    "text": "предок",
+    "answer": "ancestor"
+  },
+  {
+    "text": "решетка",
+    "answer": "lattice"
+  },
+  {
+    "text": "сибирский",
+    "answer": "Siberian"
+  },
+  {
+    "text": "скамейка",
+    "answer": "bench"
+  },
+  {
+    "text": "слабо",
+    "answer": "weakly"
+  },
+  {
+    "text": "торжество",
+    "answer": "triumph"
+  },
+  {
+    "text": "боковой",
+    "answer": "side"
+  },
+  {
+    "text": "дорожный",
+    "answer": "road"
+  },
+  {
+    "text": "миф",
+    "answer": "myth"
+  },
+  {
+    "text": "ступенька",
+    "answer": "step"
+  },
+  {
+    "text": "щель",
+    "answer": "gap"
+  },
+  {
+    "text": "гнев",
+    "answer": "anger"
+  },
+  {
+    "text": "льгота",
+    "answer": "exemption"
+  },
+  {
+    "text": "менеджер",
+    "answer": "manager"
+  },
+  {
+    "text": "мыть",
+    "answer": "wash"
+  },
+  {
+    "text": "немного",
+    "answer": "little"
+  },
+  {
+    "text": "отобрать",
+    "answer": "select"
+  },
+  {
+    "text": "хохотать",
+    "answer": "laugh"
+  },
+  {
+    "text": "батарея",
+    "answer": "battery"
+  },
+  {
+    "text": "контекст",
+    "answer": "context"
+  },
+  {
+    "text": "познание",
+    "answer": "cognition"
+  },
+  {
+    "text": "скрыться",
+    "answer": "escape"
+  },
+  {
+    "text": "видать",
+    "answer": "see"
+  },
+  {
+    "text": "выжить",
+    "answer": "survive"
+  },
+  {
+    "text": "выносить",
+    "answer": "take out"
+  },
+  {
+    "text": "железо",
+    "answer": "iron"
+  },
+  {
+    "text": "некуда",
+    "answer": "nowhere"
+  },
+  {
+    "text": "перебить",
+    "answer": "slaughter"
+  },
+  {
+    "text": "рейтинг",
+    "answer": "rating"
+  },
+  {
+    "text": "самарский",
+    "answer": "Samara"
+  },
+  {
+    "text": "скважина",
+    "answer": "well"
+  },
+  {
+    "text": "тронуть",
+    "answer": "touch"
+  },
+  {
+    "text": "аргумент",
+    "answer": "argument"
+  },
+  {
+    "text": "дверца",
+    "answer": "door"
+  },
+  {
+    "text": "огонек",
+    "answer": "twinkle"
+  },
+  {
+    "text": "прогресс",
+    "answer": "progress"
+  },
+  {
+    "text": "строитель",
+    "answer": "builder"
+  },
+  {
+    "text": "угодно",
+    "answer": "anything"
+  },
+  {
+    "text": "базовый",
+    "answer": "base"
+  },
+  {
+    "text": "ген",
+    "answer": "gene"
+  },
+  {
+    "text": "певец",
+    "answer": "singer"
+  },
+  {
+    "text": "прятаться",
+    "answer": "hide"
+  },
+  {
+    "text": "ремень",
+    "answer": "belt"
+  },
+  {
+    "text": "соперник",
+    "answer": "rival"
+  },
+  {
+    "text": "соседка",
+    "answer": "neighbor"
+  },
+  {
+    "text": "завтрак",
+    "answer": "breakfast"
+  },
+  {
+    "text": "отчасти",
+    "answer": "partly"
+  },
+  {
+    "text": "проклятый",
+    "answer": "cursed"
+  },
+  {
+    "text": "ружье",
+    "answer": "gun"
+  },
+  {
+    "text": "следом",
+    "answer": "after"
+  },
+  {
+    "text": "балкон",
+    "answer": "balcony"
+  },
+  {
+    "text": "волшебный",
+    "answer": "magic"
+  },
+  {
+    "text": "заслуга",
+    "answer": "merit"
+  },
+  {
+    "text": "зачастую",
+    "answer": "often"
+  },
+  {
+    "text": "контора",
+    "answer": "office"
+  },
+  {
+    "text": "ломать",
+    "answer": "break"
+  },
+  {
+    "text": "огород",
+    "answer": "garden"
+  },
+  {
+    "text": "рваться",
+    "answer": "tear"
+  },
+  {
+    "text": "социализм",
+    "answer": "socialism"
+  },
+  {
+    "text": "сырой",
+    "answer": "raw"
+  },
+  {
+    "text": "терроризм",
+    "answer": "terrorism"
+  },
+  {
+    "text": "эра",
+    "answer": "era"
+  },
+  {
+    "text": "оформить",
+    "answer": "issue"
+  },
+  {
+    "text": "первичный",
+    "answer": "primary"
+  },
+  {
+    "text": "трамвай",
+    "answer": "tram"
+  },
+  {
+    "text": "финал",
+    "answer": "finale"
+  },
+  {
+    "text": "шептать",
+    "answer": "whisper"
+  },
+  {
+    "text": "восьмой",
+    "answer": "eighth"
+  },
+  {
+    "text": "галстук",
+    "answer": "tie"
+  },
+  {
+    "text": "колбаса",
+    "answer": "sausage"
+  },
+  {
+    "text": "миновать",
+    "answer": "pass"
+  },
+  {
+    "text": "нелепый",
+    "answer": "absurd"
+  },
+  {
+    "text": "патриарх",
+    "answer": "patriarch"
+  },
+  {
+    "text": "разделять",
+    "answer": "divide"
+  },
+  {
+    "text": "наполнить",
+    "answer": "fill"
+  },
+  {
+    "text": "недра",
+    "answer": "bosom"
+  },
+  {
+    "text": "покидать",
+    "answer": "leave"
+  },
+  {
+    "text": "баланс",
+    "answer": "balance"
+  },
+  {
+    "text": "блестеть",
+    "answer": "shine"
+  },
+  {
+    "text": "вносить",
+    "answer": "introduce"
+  },
+  {
+    "text": "девка",
+    "answer": "wench"
+  },
+  {
+    "text": "знамя",
+    "answer": "banner"
+  },
+  {
+    "text": "коснуться",
+    "answer": "touch"
+  },
+  {
+    "text": "медицина",
+    "answer": "medicine"
+  },
+  {
+    "text": "осенний",
+    "answer": "autumn"
+  },
+  {
+    "text": "ужасно",
+    "answer": "terribly"
+  },
+  {
+    "text": "вложить",
+    "answer": "put in"
+  },
+  {
+    "text": "греческий",
+    "answer": "Greek"
+  },
+  {
+    "text": "задумчиво",
+    "answer": "wistfully"
+  },
+  {
+    "text": "кирпич",
+    "answer": "brick"
+  },
+  {
+    "text": "плащ",
+    "answer": "cloak"
+  },
+  {
+    "text": "понести",
+    "answer": "bolt"
+  },
+  {
+    "text": "похороны",
+    "answer": "funeral"
+  },
+  {
+    "text": "рюмка",
+    "answer": "glass"
+  },
+  {
+    "text": "солидный",
+    "answer": "solid"
+  },
+  {
+    "text": "творить",
+    "answer": "create"
+  },
+  {
+    "text": "ярко",
+    "answer": "bright"
+  },
+  {
+    "text": "всемирный",
+    "answer": "world"
+  },
+  {
+    "text": "исход",
+    "answer": "Exodus"
+  },
+  {
+    "text": "оболочка",
+    "answer": "shell"
+  },
+  {
+    "text": "общее",
+    "answer": "common"
+  },
+  {
+    "text": "усталость",
+    "answer": "fatigue"
+  },
+  {
+    "text": "уступать",
+    "answer": "give"
+  },
+  {
+    "text": "школьник",
+    "answer": "schoolboy"
+  },
+  {
+    "text": "аренда",
+    "answer": "lease"
+  },
+  {
+    "text": "ежедневно",
+    "answer": "daily"
+  },
+  {
+    "text": "комбинат",
+    "answer": "combine"
+  },
+  {
+    "text": "малейший",
+    "answer": "least"
+  },
+  {
+    "text": "местность",
+    "answer": "terrain"
+  },
+  {
+    "text": "нападение",
+    "answer": "attack"
+  },
+  {
+    "text": "обсудить",
+    "answer": "discuss"
+  },
+  {
+    "text": "оторвать",
+    "answer": "tear off"
+  },
+  {
+    "text": "убежать",
+    "answer": "escape"
+  },
+  {
+    "text": "биография",
+    "answer": "biography"
+  },
+  {
+    "text": "бурный",
+    "answer": "stormy"
+  },
+  {
+    "text": "добавлять",
+    "answer": "add"
+  },
+  {
+    "text": "звено",
+    "answer": "element"
+  },
+  {
+    "text": "футбол",
+    "answer": "football"
+  },
+  {
+    "text": "весенний",
+    "answer": "spring"
+  },
+  {
+    "text": "выслушать",
+    "answer": "hear out"
+  },
+  {
+    "text": "грипп",
+    "answer": "flu"
+  },
+  {
+    "text": "набирать",
+    "answer": "gain"
+  },
+  {
+    "text": "отрезать",
+    "answer": "cut off"
+  },
+  {
+    "text": "роскошный",
+    "answer": "luxurious"
+  },
+  {
+    "text": "удобно",
+    "answer": "easy"
+  },
+  {
+    "text": "запрет",
+    "answer": "ban"
+  },
+  {
+    "text": "почитать",
+    "answer": "esteem"
+  },
+  {
+    "text": "протест",
+    "answer": "protest"
+  },
+  {
+    "text": "суп",
+    "answer": "soup"
+  },
+  {
+    "text": "авторский",
+    "answer": "author's"
+  },
+  {
+    "text": "вводить",
+    "answer": "enter"
+  },
+  {
+    "text": "каша",
+    "answer": "porridge"
+  },
+  {
+    "text": "муха",
+    "answer": "fly"
+  },
+  {
+    "text": "педагог",
+    "answer": "educator"
+  },
+  {
+    "text": "пожелать",
+    "answer": "want"
+  },
+  {
+    "text": "посещать",
+    "answer": "visit"
+  },
+  {
+    "text": "потянуть",
+    "answer": "pull"
+  },
+  {
+    "text": "походить",
+    "answer": "feature"
+  },
+  {
+    "text": "прижать",
+    "answer": "snuggle"
+  },
+  {
+    "text": "торговать",
+    "answer": "trade"
+  },
+  {
+    "text": "видение",
+    "answer": "vision"
+  },
+  {
+    "text": "общежитие",
+    "answer": "hostel"
+  },
+  {
+    "text": "печка",
+    "answer": "stove"
+  },
+  {
+    "text": "рождаться",
+    "answer": "hatch"
+  },
+  {
+    "text": "семинар",
+    "answer": "seminar"
+  },
+  {
+    "text": "спектр",
+    "answer": "spectrum"
+  },
+  {
+    "text": "турист",
+    "answer": "tourist"
+  },
+  {
+    "text": "шепот",
+    "answer": "whisper"
+  },
+  {
+    "text": "возрасти",
+    "answer": "increase"
+  },
+  {
+    "text": "молния",
+    "answer": "lightning"
+  },
+  {
+    "text": "охотник",
+    "answer": "hunter"
+  },
+  {
+    "text": "пилот",
+    "answer": "pilot"
+  },
+  {
+    "text": "плоть",
+    "answer": "flesh"
+  },
+  {
+    "text": "прятать",
+    "answer": "hide"
+  },
+  {
+    "text": "семя",
+    "answer": "seed"
+  },
+  {
+    "text": "краткий",
+    "answer": "brief"
+  },
+  {
+    "text": "крутить",
+    "answer": "twist"
+  },
+  {
+    "text": "нежели",
+    "answer": "than"
+  },
+  {
+    "text": "нормально",
+    "answer": "normally"
+  },
+  {
+    "text": "ранить",
+    "answer": "injure"
+  },
+  {
+    "text": "самец",
+    "answer": "male"
+  },
+  {
+    "text": "фракция",
+    "answer": "fraction"
+  },
+  {
+    "text": "череп",
+    "answer": "skull"
+  },
+  {
+    "text": "подача",
+    "answer": "innings"
+  },
+  {
+    "text": "бочка",
+    "answer": "barrel"
+  },
+  {
+    "text": "гараж",
+    "answer": "garage"
+  },
+  {
+    "text": "закурить",
+    "answer": "smoke"
+  },
+  {
+    "text": "коммунизм",
+    "answer": "communism"
+  },
+  {
+    "text": "носитель",
+    "answer": "carrier"
+  },
+  {
+    "text": "алгоритм",
+    "answer": "algorithm"
+  },
+  {
+    "text": "глазок",
+    "answer": "eye"
+  },
+  {
+    "text": "кивать",
+    "answer": "beckon"
+  },
+  {
+    "text": "насилие",
+    "answer": "violence"
+  },
+  {
+    "text": "президиум",
+    "answer": "presidium"
+  },
+  {
+    "text": "провод",
+    "answer": "wire"
+  },
+  {
+    "text": "сбросить",
+    "answer": "discard"
+  },
+  {
+    "text": "близость",
+    "answer": "proximity"
+  },
+  {
+    "text": "кружка",
+    "answer": "mug"
+  },
+  {
+    "text": "мяч",
+    "answer": "ball"
+  },
+  {
+    "text": "сниться",
+    "answer": "dream"
+  },
+  {
+    "text": "сосуд",
+    "answer": "vessel"
+  },
+  {
+    "text": "спальня",
+    "answer": "bedroom"
+  },
+  {
+    "text": "бормотать",
+    "answer": "mumble"
+  },
+  {
+    "text": "диск",
+    "answer": "disk"
+  },
+  {
+    "text": "мудрый",
+    "answer": "wise"
+  },
+  {
+    "text": "переехать",
+    "answer": "run over"
+  },
+  {
+    "text": "поэма",
+    "answer": "poem"
+  },
+  {
+    "text": "расширить",
+    "answer": "expand"
+  },
+  {
+    "text": "силовой",
+    "answer": "power"
+  },
+  {
+    "text": "склон",
+    "answer": "slope"
+  },
+  {
+    "text": "уточнить",
+    "answer": "clarify"
+  },
+  {
+    "text": "юбка",
+    "answer": "skirt"
+  },
+  {
+    "text": "акцент",
+    "answer": "emphasis"
+  },
+  {
+    "text": "ванная",
+    "answer": "bathroom"
+  },
+  {
+    "text": "вкусный",
+    "answer": "tasty"
+  },
+  {
+    "text": "инвалид",
+    "answer": "disabled"
+  },
+  {
+    "text": "лавка",
+    "answer": "shop"
+  },
+  {
+    "text": "мучить",
+    "answer": "torment"
+  },
+  {
+    "text": "пар",
+    "answer": "steam"
+  },
+  {
+    "text": "платформа",
+    "answer": "platform"
+  },
+  {
+    "text": "уверять",
+    "answer": "assure"
+  },
+  {
+    "text": "финансы",
+    "answer": "finance"
+  },
+  {
+    "text": "цепочка",
+    "answer": "chain"
+  },
+  {
+    "text": "бокал",
+    "answer": "goblet"
+  },
+  {
+    "text": "бросаться",
+    "answer": "rush"
+  },
+  {
+    "text": "грустно",
+    "answer": "sadly"
+  },
+  {
+    "text": "дескать",
+    "answer": "they say"
+  },
+  {
+    "text": "жуткий",
+    "answer": "eerie"
+  },
+  {
+    "text": "кисть",
+    "answer": "brush"
+  },
+  {
+    "text": "отложить",
+    "answer": "set aside"
+  },
+  {
+    "text": "разбудить",
+    "answer": "wake"
+  },
+  {
+    "text": "бар",
+    "answer": "bar"
+  },
+  {
+    "text": "идиот",
+    "answer": "idiot"
+  },
+  {
+    "text": "инфекция",
+    "answer": "infection"
+  },
+  {
+    "text": "килограмм",
+    "answer": "kilogram"
+  },
+  {
+    "text": "койка",
+    "answer": "bunk"
+  },
+  {
+    "text": "рай",
+    "answer": "paradise"
+  },
+  {
+    "text": "смелый",
+    "answer": "bold"
+  },
+  {
+    "text": "трибуна",
+    "answer": "tribune"
+  },
+  {
+    "text": "тяжкий",
+    "answer": "sore"
+  },
+  {
+    "text": "жаркий",
+    "answer": "hot"
+  },
+  {
+    "text": "заявка",
+    "answer": "bid"
+  },
+  {
+    "text": "медленный",
+    "answer": "slow"
+  },
+  {
+    "text": "обычай",
+    "answer": "custom"
+  },
+  {
+    "text": "резерв",
+    "answer": "reserve"
+  },
+  {
+    "text": "сократить",
+    "answer": "cut"
+  },
+  {
+    "text": "тесно",
+    "answer": "closely"
+  },
+  {
+    "text": "точно",
+    "answer": "exactly"
+  },
+  {
+    "text": "тур",
+    "answer": "tour"
+  },
+  {
+    "text": "якорь",
+    "answer": "anchor"
+  },
+  {
+    "text": "диплом",
+    "answer": "diploma"
+  },
+  {
+    "text": "дрова",
+    "answer": "firewood"
+  },
+  {
+    "text": "живопись",
+    "answer": "painting"
+  },
+  {
+    "text": "ошибаться",
+    "answer": "err"
+  },
+  {
+    "text": "ядро",
+    "answer": "core"
+  },
+  {
+    "text": "ворот",
+    "answer": "winch"
+  },
+  {
+    "text": "годовой",
+    "answer": "annual"
+  },
+  {
+    "text": "загадка",
+    "answer": "puzzle"
+  },
+  {
+    "text": "заметка",
+    "answer": "note"
+  },
+  {
+    "text": "недолго",
+    "answer": "not long"
+  },
+  {
+    "text": "окошко",
+    "answer": "window"
+  },
+  {
+    "text": "опора",
+    "answer": "support"
+  },
+  {
+    "text": "сметь",
+    "answer": "dare"
+  },
+  {
+    "text": "сорвать",
+    "answer": "rip"
+  },
+  {
+    "text": "учеба",
+    "answer": "studies"
+  },
+  {
+    "text": "христов",
+    "answer": "dominical"
+  },
+  {
+    "text": "шинель",
+    "answer": "greatcoat"
+  },
+  {
+    "text": "запереть",
+    "answer": "lock"
+  },
+  {
+    "text": "исключать",
+    "answer": "exclude"
+  },
+  {
+    "text": "личной",
+    "answer": "private"
+  },
+  {
+    "text": "наметить",
+    "answer": "outline"
+  },
+  {
+    "text": "ноготь",
+    "answer": "nail"
+  },
+  {
+    "text": "приложить",
+    "answer": "affix"
+  },
+  {
+    "text": "выехать",
+    "answer": "set out"
+  },
+  {
+    "text": "годиться",
+    "answer": "suit"
+  },
+  {
+    "text": "залить",
+    "answer": "pour"
+  },
+  {
+    "text": "кровавый",
+    "answer": "bloody"
+  },
+  {
+    "text": "наивный",
+    "answer": "naive"
+  },
+  {
+    "text": "топор",
+    "answer": "ax"
+  },
+  {
+    "text": "физик",
+    "answer": "physicist"
+  },
+  {
+    "text": "филиал",
+    "answer": "branch"
+  },
+  {
+    "text": "барон",
+    "answer": "baron"
+  },
+  {
+    "text": "владыка",
+    "answer": "lord"
+  },
+  {
+    "text": "диаметр",
+    "answer": "diameter"
+  },
+  {
+    "text": "жирный",
+    "answer": "fatty"
+  },
+  {
+    "text": "застать",
+    "answer": "catch"
+  },
+  {
+    "text": "конверт",
+    "answer": "envelope"
+  },
+  {
+    "text": "одобрить",
+    "answer": "approve"
+  },
+  {
+    "text": "осознать",
+    "answer": "grasp"
+  },
+  {
+    "text": "пляж",
+    "answer": "beach"
+  },
+  {
+    "text": "покрытие",
+    "answer": "coating"
+  },
+  {
+    "text": "светиться",
+    "answer": "shine"
+  },
+  {
+    "text": "снежный",
+    "answer": "snow"
+  },
+  {
+    "text": "спортсмен",
+    "answer": "athlete"
+  },
+  {
+    "text": "тест",
+    "answer": "test"
+  },
+  {
+    "text": "усесться",
+    "answer": "perch"
+  },
+  {
+    "text": "барак",
+    "answer": "barrack"
+  },
+  {
+    "text": "болото",
+    "answer": "swamp"
+  },
+  {
+    "text": "девятый",
+    "answer": "ninth"
+  },
+  {
+    "text": "десятый",
+    "answer": "tenth"
+  },
+  {
+    "text": "евангелие",
+    "answer": "gospel"
+  },
+  {
+    "text": "искренний",
+    "answer": "sincere"
+  },
+  {
+    "text": "кукла",
+    "answer": "doll"
+  },
+  {
+    "text": "отпускать",
+    "answer": "let go"
+  },
+  {
+    "text": "поправить",
+    "answer": "touch up"
+  },
+  {
+    "text": "семьдесят",
+    "answer": "seventy"
+  },
+  {
+    "text": "эволюция",
+    "answer": "evolution"
+  },
+  {
+    "text": "выводить",
+    "answer": "deduce"
+  },
+  {
+    "text": "жених",
+    "answer": "groom"
+  },
+  {
+    "text": "задумать",
+    "answer": "plan"
+  },
+  {
+    "text": "лозунг",
+    "answer": "slogan"
+  },
+  {
+    "text": "носок",
+    "answer": "sock"
+  },
+  {
+    "text": "охранять",
+    "answer": "guard"
+  },
+  {
+    "text": "патрон",
+    "answer": "cartridge"
+  },
+  {
+    "text": "сыворотка",
+    "answer": "serum"
+  },
+  {
+    "text": "медный",
+    "answer": "copper"
+  },
+  {
+    "text": "неудача",
+    "answer": "failure"
+  },
+  {
+    "text": "отнять",
+    "answer": "rob"
+  },
+  {
+    "text": "пермский",
+    "answer": "Permian"
+  },
+  {
+    "text": "послужить",
+    "answer": "serve"
+  },
+  {
+    "text": "рассвет",
+    "answer": "dawn"
+  },
+  {
+    "text": "сволочь",
+    "answer": "scum"
+  },
+  {
+    "text": "эфир",
+    "answer": "ether"
+  },
+  {
+    "text": "мелодия",
+    "answer": "melody"
+  },
+  {
+    "text": "обувь",
+    "answer": "footwear"
+  },
+  {
+    "text": "римский",
+    "answer": "Roman"
+  },
+  {
+    "text": "секретный",
+    "answer": "secret"
+  },
+  {
+    "text": "ширина",
+    "answer": "width"
+  },
+  {
+    "text": "гастроли",
+    "answer": "tour"
+  },
+  {
+    "text": "ежегодно",
+    "answer": "annually"
+  },
+  {
+    "text": "заново",
+    "answer": "newly"
+  },
+  {
+    "text": "намек",
+    "answer": "hint"
+  },
+  {
+    "text": "поместить",
+    "answer": "put"
+  },
+  {
+    "text": "раб",
+    "answer": "slave"
+  },
+  {
+    "text": "раненый",
+    "answer": "wounded"
+  },
+  {
+    "text": "запустить",
+    "answer": "run"
+  },
+  {
+    "text": "котел",
+    "answer": "boiler"
+  },
+  {
+    "text": "освоение",
+    "answer": "mastering"
+  },
+  {
+    "text": "принц",
+    "answer": "prince"
+  },
+  {
+    "text": "присущий",
+    "answer": "inherent"
+  },
+  {
+    "text": "пруд",
+    "answer": "pond"
+  },
+  {
+    "text": "стальной",
+    "answer": "steel"
+  },
+  {
+    "text": "ловко",
+    "answer": "slick"
+  },
+  {
+    "text": "рядовой",
+    "answer": "private"
+  },
+  {
+    "text": "снаряд",
+    "answer": "shell"
+  },
+  {
+    "text": "давить",
+    "answer": "press"
+  },
+  {
+    "text": "зелень",
+    "answer": "green"
+  },
+  {
+    "text": "лук",
+    "answer": "bow"
+  },
+  {
+    "text": "некогда",
+    "answer": "once"
+  },
+  {
+    "text": "печатать",
+    "answer": "print"
+  },
+  {
+    "text": "поражать",
+    "answer": "hit"
+  },
+  {
+    "text": "применить",
+    "answer": "apply"
+  },
+  {
+    "text": "пушка",
+    "answer": "gun"
+  },
+  {
+    "text": "свое",
+    "answer": "their"
+  },
+  {
+    "text": "скрытый",
+    "answer": "hidden"
+  },
+  {
+    "text": "ток",
+    "answer": "current"
+  },
+  {
+    "text": "угу",
+    "answer": "Yeah"
+  },
+  {
+    "text": "безумный",
+    "answer": "insane"
+  },
+  {
+    "text": "вылезти",
+    "answer": "get out"
+  },
+  {
+    "text": "закрепить",
+    "answer": "fasten"
+  },
+  {
+    "text": "крем",
+    "answer": "cream"
+  },
+  {
+    "text": "одинаково",
+    "answer": "equally"
+  },
+  {
+    "text": "пароход",
+    "answer": "steamer"
+  },
+  {
+    "text": "сверкать",
+    "answer": "sparkle"
+  },
+  {
+    "text": "забить",
+    "answer": "Score"
+  },
+  {
+    "text": "звон",
+    "answer": "ringing"
+  },
+  {
+    "text": "обещание",
+    "answer": "promise"
+  },
+  {
+    "text": "придать",
+    "answer": "give"
+  },
+  {
+    "text": "прилететь",
+    "answer": "arrive"
+  },
+  {
+    "text": "слушатель",
+    "answer": "listener"
+  },
+  {
+    "text": "супруга",
+    "answer": "spouse"
+  },
+  {
+    "text": "уложить",
+    "answer": "lay"
+  },
+  {
+    "text": "бедро",
+    "answer": "hip"
+  },
+  {
+    "text": "иллюзия",
+    "answer": "illusion"
+  },
+  {
+    "text": "накрыть",
+    "answer": "cover"
+  },
+  {
+    "text": "обожать",
+    "answer": "adore"
+  },
+  {
+    "text": "пейзаж",
+    "answer": "landscape"
+  },
+  {
+    "text": "передо",
+    "answer": "before"
+  },
+  {
+    "text": "поделать",
+    "answer": "help"
+  },
+  {
+    "text": "гвоздь",
+    "answer": "nail"
+  },
+  {
+    "text": "гордый",
+    "answer": "proud"
+  },
+  {
+    "text": "обширный",
+    "answer": "extensive"
+  },
+  {
+    "text": "отыскать",
+    "answer": "hunt out"
+  },
+  {
+    "text": "свыше",
+    "answer": "over"
+  },
+  {
+    "text": "частично",
+    "answer": "partially"
+  },
+  {
+    "text": "эй",
+    "answer": "Hey!"
+  },
+  {
+    "text": "выдвинуть",
+    "answer": "move out"
+  },
+  {
+    "text": "ласковый",
+    "answer": "gentle"
+  },
+  {
+    "text": "одетый",
+    "answer": "dressed"
+  },
+  {
+    "text": "порыв",
+    "answer": "impulse"
+  },
+  {
+    "text": "пребывать",
+    "answer": "dwell"
+  },
+  {
+    "text": "сетка",
+    "answer": "grid"
+  },
+  {
+    "text": "союзник",
+    "answer": "ally"
+  },
+  {
+    "text": "вольный",
+    "answer": "free"
+  },
+  {
+    "text": "мобильный",
+    "answer": "mobile"
+  },
+  {
+    "text": "невысокий",
+    "answer": "low"
+  },
+  {
+    "text": "поставщик",
+    "answer": "provider"
+  },
+  {
+    "text": "проход",
+    "answer": "pass"
+  },
+  {
+    "text": "советник",
+    "answer": "adviser"
+  },
+  {
+    "text": "что-либо",
+    "answer": "something"
+  },
+  {
+    "text": "влажный",
+    "answer": "wet"
+  },
+  {
+    "text": "вручить",
+    "answer": "hand"
+  },
+  {
+    "text": "гладкий",
+    "answer": "smooth"
+  },
+  {
+    "text": "дурацкий",
+    "answer": "stupid"
+  },
+  {
+    "text": "колодец",
+    "answer": "well"
+  },
+  {
+    "text": "пенсионер",
+    "answer": "pensioner"
+  },
+  {
+    "text": "прочный",
+    "answer": "lasting"
+  },
+  {
+    "text": "реплика",
+    "answer": "replica"
+  },
+  {
+    "text": "сарай",
+    "answer": "barn"
+  },
+  {
+    "text": "туча",
+    "answer": "cloud"
+  },
+  {
+    "text": "возить",
+    "answer": "carry"
+  },
+  {
+    "text": "мудрость",
+    "answer": "wisdom"
+  },
+  {
+    "text": "попросту",
+    "answer": "simply"
+  },
+  {
+    "text": "провинция",
+    "answer": "provinces"
+  },
+  {
+    "text": "простор",
+    "answer": "scope"
+  },
+  {
+    "text": "прочь",
+    "answer": "away"
+  },
+  {
+    "text": "слон",
+    "answer": "elephant"
+  },
+  {
+    "text": "чин",
+    "answer": "rank"
+  },
+  {
+    "text": "ад",
+    "answer": "hell"
+  },
+  {
+    "text": "альбом",
+    "answer": "album"
+  },
+  {
+    "text": "вена",
+    "answer": "vein"
+  },
+  {
+    "text": "святой",
+    "answer": "saint"
+  },
+  {
+    "text": "старт",
+    "answer": "start"
+  },
+  {
+    "text": "тепло",
+    "answer": "warmly"
+  },
+  {
+    "text": "шкура",
+    "answer": "skin"
+  },
+  {
+    "text": "антитело",
+    "answer": "antibody"
+  },
+  {
+    "text": "бесплатно",
+    "answer": "free"
+  },
+  {
+    "text": "близкие",
+    "answer": "folks"
+  },
+  {
+    "text": "вспышка",
+    "answer": "flash"
+  },
+  {
+    "text": "драка",
+    "answer": "fight"
+  },
+  {
+    "text": "младенец",
+    "answer": "baby"
+  },
+  {
+    "text": "нажать",
+    "answer": "press"
+  },
+  {
+    "text": "нестись",
+    "answer": "rush"
+  },
+  {
+    "text": "нота",
+    "answer": "note"
+  },
+  {
+    "text": "пособие",
+    "answer": "benefit"
+  },
+  {
+    "text": "сводить",
+    "answer": "reduce"
+  },
+  {
+    "text": "торопливо",
+    "answer": "hastily"
+  },
+  {
+    "text": "украсить",
+    "answer": "decorate"
+  },
+  {
+    "text": "взор",
+    "answer": "gaze"
+  },
+  {
+    "text": "вставить",
+    "answer": "insert"
+  },
+  {
+    "text": "жалость",
+    "answer": "pity"
+  },
+  {
+    "text": "защитник",
+    "answer": "defender"
+  },
+  {
+    "text": "посещение",
+    "answer": "visit"
+  },
+  {
+    "text": "постройка",
+    "answer": "building"
+  },
+  {
+    "text": "проба",
+    "answer": "try"
+  },
+  {
+    "text": "решающий",
+    "answer": "decisive"
+  },
+  {
+    "text": "снимок",
+    "answer": "snapshot"
+  },
+  {
+    "text": "стук",
+    "answer": "knock"
+  },
+  {
+    "text": "тетрадь",
+    "answer": "notebook"
+  },
+  {
+    "text": "японец",
+    "answer": "Japanese"
+  },
+  {
+    "text": "беречь",
+    "answer": "protect"
+  },
+  {
+    "text": "казак",
+    "answer": "Cossack"
+  },
+  {
+    "text": "кислота",
+    "answer": "acid"
+  },
+  {
+    "text": "мусор",
+    "answer": "litter"
+  },
+  {
+    "text": "мыслить",
+    "answer": "think"
+  },
+  {
+    "text": "отверстие",
+    "answer": "hole"
+  },
+  {
+    "text": "плотно",
+    "answer": "tightly"
+  },
+  {
+    "text": "скучно",
+    "answer": "drearily"
+  },
+  {
+    "text": "хитрый",
+    "answer": "cunning"
+  },
+  {
+    "text": "армейский",
+    "answer": "army"
+  },
+  {
+    "text": "влечь",
+    "answer": "attract"
+  },
+  {
+    "text": "дефицит",
+    "answer": "deficit"
+  },
+  {
+    "text": "застынуть",
+    "answer": "freeze"
+  },
+  {
+    "text": "кран",
+    "answer": "crane"
+  },
+  {
+    "text": "ложный",
+    "answer": "false"
+  },
+  {
+    "text": "проехать",
+    "answer": "travel"
+  },
+  {
+    "text": "смертный",
+    "answer": "mortal"
+  },
+  {
+    "text": "спасибо",
+    "answer": "Thank you"
+  },
+  {
+    "text": "удержать",
+    "answer": "hold"
+  },
+  {
+    "text": "вылететь",
+    "answer": "set out"
+  },
+  {
+    "text": "галерея",
+    "answer": "gallery"
+  },
+  {
+    "text": "держава",
+    "answer": "power"
+  },
+  {
+    "text": "жилищный",
+    "answer": "housing"
+  },
+  {
+    "text": "зависть",
+    "answer": "envy"
+  },
+  {
+    "text": "моряк",
+    "answer": "sailor"
+  },
+  {
+    "text": "напротив",
+    "answer": "opposite"
+  },
+  {
+    "text": "повышать",
+    "answer": "raise"
+  },
+  {
+    "text": "прохожий",
+    "answer": "passer"
+  },
+  {
+    "text": "рог",
+    "answer": "horn"
+  },
+  {
+    "text": "ругать",
+    "answer": "swear"
+  },
+  {
+    "text": "самка",
+    "answer": "female"
+  },
+  {
+    "text": "туфля",
+    "answer": "shoe"
+  },
+  {
+    "text": "угадать",
+    "answer": "guess"
+  },
+  {
+    "text": "химия",
+    "answer": "chemistry"
+  },
+  {
+    "text": "шагать",
+    "answer": "step"
+  },
+  {
+    "text": "велосипед",
+    "answer": "bicycle"
+  },
+  {
+    "text": "вечность",
+    "answer": "eternity"
+  },
+  {
+    "text": "внезапный",
+    "answer": "sudden"
+  },
+  {
+    "text": "деться",
+    "answer": "escape"
+  },
+  {
+    "text": "ерунда",
+    "answer": "nonsense"
+  },
+  {
+    "text": "инспектор",
+    "answer": "inspector"
+  },
+  {
+    "text": "кататься",
+    "answer": "ride"
+  },
+  {
+    "text": "мадам",
+    "answer": "madam"
+  },
+  {
+    "text": "племя",
+    "answer": "tribe"
+  },
+  {
+    "text": "свинья",
+    "answer": "pig"
+  },
+  {
+    "text": "тротуар",
+    "answer": "sidewalk"
+  },
+  {
+    "text": "тупой",
+    "answer": "blunt"
+  },
+  {
+    "text": "хлопнуть",
+    "answer": "pop"
+  },
+  {
+    "text": "четверо",
+    "answer": "four"
+  },
+  {
+    "text": "батальон",
+    "answer": "battalion"
+  },
+  {
+    "text": "жидкий",
+    "answer": "liquid"
+  },
+  {
+    "text": "кубок",
+    "answer": "cup"
+  },
+  {
+    "text": "покойный",
+    "answer": "late"
+  },
+  {
+    "text": "полно",
+    "answer": "a lot of"
+  },
+  {
+    "text": "привязать",
+    "answer": "tie"
+  },
+  {
+    "text": "резать",
+    "answer": "cut"
+  },
+  {
+    "text": "родные",
+    "answer": "people"
+  },
+  {
+    "text": "стрелка",
+    "answer": "arrow"
+  },
+  {
+    "text": "усталый",
+    "answer": "tired"
+  },
+  {
+    "text": "аромат",
+    "answer": "aroma"
+  },
+  {
+    "text": "возбудить",
+    "answer": "excite"
+  },
+  {
+    "text": "коренной",
+    "answer": "root"
+  },
+  {
+    "text": "мясной",
+    "answer": "meaty"
+  },
+  {
+    "text": "напрасно",
+    "answer": "in vain"
+  },
+  {
+    "text": "подавлять",
+    "answer": "suppress"
+  },
+  {
+    "text": "поклонник",
+    "answer": "fan"
+  },
+  {
+    "text": "потратить",
+    "answer": "to spend"
+  },
+  {
+    "text": "сорваться",
+    "answer": "break"
+  },
+  {
+    "text": "трактор",
+    "answer": "tractor"
+  },
+  {
+    "text": "усиление",
+    "answer": "gain"
+  },
+  {
+    "text": "ягода",
+    "answer": "berry"
+  },
+  {
+    "text": "актерский",
+    "answer": "dramatic"
+  },
+  {
+    "text": "битва",
+    "answer": "battle"
+  },
+  {
+    "text": "головка",
+    "answer": "head"
+  },
+  {
+    "text": "зрелище",
+    "answer": "spectacle"
+  },
+  {
+    "text": "монах",
+    "answer": "monk"
+  },
+  {
+    "text": "наружу",
+    "answer": "out"
+  },
+  {
+    "text": "открыто",
+    "answer": "openly"
+  },
+  {
+    "text": "отходить",
+    "answer": "retreat"
+  },
+  {
+    "text": "приоритет",
+    "answer": "priority"
+  },
+  {
+    "text": "скучный",
+    "answer": "boring"
+  },
+  {
+    "text": "тряпка",
+    "answer": "rag"
+  },
+  {
+    "text": "выгнать",
+    "answer": "expel"
+  },
+  {
+    "text": "грамм",
+    "answer": "gram"
+  },
+  {
+    "text": "дырка",
+    "answer": "hole"
+  },
+  {
+    "text": "заорать",
+    "answer": "scream"
+  },
+  {
+    "text": "ил",
+    "answer": "sludge"
+  },
+  {
+    "text": "комедия",
+    "answer": "comedy"
+  },
+  {
+    "text": "минувший",
+    "answer": "past"
+  }
+]

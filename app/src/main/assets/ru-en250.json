@@ -1,0 +1,1002 @@
+[
+{
+    "text": "и",
+    "answer": "and"
+  },
+  {
+    "text": "в",
+    "answer": "in"
+  },
+  {
+    "text": "не",
+    "answer": "not"
+  },
+  {
+    "text": "на",
+    "answer": "on"
+  },
+  {
+    "text": "я",
+    "answer": "I"
+  },
+  {
+    "text": "быть",
+    "answer": "be"
+  },
+  {
+    "text": "он",
+    "answer": "he"
+  },
+  {
+    "text": "с",
+    "answer": "with"
+  },
+  {
+    "text": "что",
+    "answer": "what"
+  },
+  {
+    "text": "а",
+    "answer": "and"
+  },
+  {
+    "text": "по",
+    "answer": "on"
+  },
+  {
+    "text": "это",
+    "answer": "it"
+  },
+  {
+    "text": "она",
+    "answer": "she"
+  },
+  {
+    "text": "этот",
+    "answer": "this"
+  },
+  {
+    "text": "к",
+    "answer": "to"
+  },
+  {
+    "text": "но",
+    "answer": "but"
+  },
+  {
+    "text": "они",
+    "answer": "they"
+  },
+  {
+    "text": "мы",
+    "answer": "we"
+  },
+  {
+    "text": "как",
+    "answer": "as"
+  },
+  {
+    "text": "из",
+    "answer": "of"
+  },
+  {
+    "text": "у",
+    "answer": "in"
+  },
+  {
+    "text": "который",
+    "answer": "which"
+  },
+  {
+    "text": "то",
+    "answer": "that"
+  },
+  {
+    "text": "за",
+    "answer": "for"
+  },
+  {
+    "text": "свой",
+    "answer": "its"
+  },
+  {
+    "text": "что",
+    "answer": "what"
+  },
+  {
+    "text": "весь",
+    "answer": "all"
+  },
+  {
+    "text": "год",
+    "answer": "year"
+  },
+  {
+    "text": "от",
+    "answer": "from"
+  },
+  {
+    "text": "так",
+    "answer": "so"
+  },
+  {
+    "text": "о",
+    "answer": "about"
+  },
+  {
+    "text": "для",
+    "answer": "for"
+  },
+  {
+    "text": "ты",
+    "answer": "you"
+  },
+  {
+    "text": "все",
+    "answer": "all"
+  },
+  {
+    "text": "тот",
+    "answer": "that"
+  },
+  {
+    "text": "вы",
+    "answer": "you"
+  },
+  {
+    "text": "человек",
+    "answer": "man"
+  },
+  {
+    "text": "такой",
+    "answer": "such"
+  },
+  {
+    "text": "его",
+    "answer": "his"
+  },
+  {
+    "text": "сказать",
+    "answer": "say"
+  },
+  {
+    "text": "или",
+    "answer": "or"
+  },
+  {
+    "text": "еще",
+    "answer": "still"
+  },
+  {
+    "text": "себя",
+    "answer": "himself"
+  },
+  {
+    "text": "один",
+    "answer": "single"
+  },
+  {
+    "text": "как",
+    "answer": "as"
+  },
+  {
+    "text": "уже",
+    "answer": "already"
+  },
+  {
+    "text": "до",
+    "answer": "to"
+  },
+  {
+    "text": "время",
+    "answer": "time"
+  },
+  {
+    "text": "если",
+    "answer": "if"
+  },
+  {
+    "text": "сам",
+    "answer": "himself"
+  },
+  {
+    "text": "когда",
+    "answer": "when"
+  },
+  {
+    "text": "другой",
+    "answer": "other"
+  },
+  {
+    "text": "говорить",
+    "answer": "say"
+  },
+  {
+    "text": "наш",
+    "answer": "our"
+  },
+  {
+    "text": "мой",
+    "answer": "my"
+  },
+  {
+    "text": "знать",
+    "answer": "know"
+  },
+  {
+    "text": "при",
+    "answer": "at"
+  },
+  {
+    "text": "чтобы",
+    "answer": "that"
+  },
+  {
+    "text": "дело",
+    "answer": "case"
+  },
+  {
+    "text": "жизнь",
+    "answer": "life"
+  },
+  {
+    "text": "кто",
+    "answer": "who"
+  },
+  {
+    "text": "первый",
+    "answer": "first"
+  },
+  {
+    "text": "очень",
+    "answer": "very"
+  },
+  {
+    "text": "два",
+    "answer": "two"
+  },
+  {
+    "text": "день",
+    "answer": "day"
+  },
+  {
+    "text": "ее",
+    "answer": "its"
+  },
+  {
+    "text": "новый",
+    "answer": "new"
+  },
+  {
+    "text": "рука",
+    "answer": "hand"
+  },
+  {
+    "text": "даже",
+    "answer": "even"
+  },
+  {
+    "text": "во",
+    "answer": "in"
+  },
+  {
+    "text": "со",
+    "answer": "with"
+  },
+  {
+    "text": "раз",
+    "answer": "time"
+  },
+  {
+    "text": "где",
+    "answer": "where"
+  },
+  {
+    "text": "там",
+    "answer": "there"
+  },
+  {
+    "text": "под",
+    "answer": "under"
+  },
+  {
+    "text": "какой",
+    "answer": "what"
+  },
+  {
+    "text": "после",
+    "answer": "after"
+  },
+  {
+    "text": "их",
+    "answer": "their"
+  },
+  {
+    "text": "работа",
+    "answer": "working"
+  },
+  {
+    "text": "без",
+    "answer": "without"
+  },
+  {
+    "text": "самый",
+    "answer": "very"
+  },
+  {
+    "text": "потом",
+    "answer": "then"
+  },
+  {
+    "text": "хотеть",
+    "answer": "want"
+  },
+  {
+    "text": "слово",
+    "answer": "word"
+  },
+  {
+    "text": "идти",
+    "answer": "go"
+  },
+  {
+    "text": "большой",
+    "answer": "large"
+  },
+  {
+    "text": "должен",
+    "answer": "should"
+  },
+  {
+    "text": "место",
+    "answer": "place"
+  },
+  {
+    "text": "иметь",
+    "answer": "have"
+  },
+  {
+    "text": "ничто",
+    "answer": "nothing"
+  },
+  {
+    "text": "то",
+    "answer": "then"
+  },
+  {
+    "text": "сейчас",
+    "answer": "now"
+  },
+  {
+    "text": "тут",
+    "answer": "here"
+  },
+  {
+    "text": "лицо",
+    "answer": "face"
+  },
+  {
+    "text": "каждый",
+    "answer": "each"
+  },
+  {
+    "text": "друг",
+    "answer": "friend"
+  },
+  {
+    "text": "не-а",
+    "answer": "nope"
+  },
+  {
+    "text": "теперь",
+    "answer": "now"
+  },
+  {
+    "text": "ни",
+    "answer": "not"
+  },
+  {
+    "text": "глаз",
+    "answer": "eye"
+  },
+  {
+    "text": "тоже",
+    "answer": "also"
+  },
+  {
+    "text": "тогда",
+    "answer": "then"
+  },
+  {
+    "text": "видеть",
+    "answer": "see"
+  },
+  {
+    "text": "вопрос",
+    "answer": "question"
+  },
+  {
+    "text": "через",
+    "answer": "through"
+  },
+  {
+    "text": "да",
+    "answer": "and, but"
+  },
+  {
+    "text": "здесь",
+    "answer": "here"
+  },
+  {
+    "text": "дом",
+    "answer": "house"
+  },
+  {
+    "text": "да",
+    "answer": "yes"
+  },
+  {
+    "text": "потому",
+    "answer": "therefore"
+  },
+  {
+    "text": "сторона",
+    "answer": "side"
+  },
+  {
+    "text": "какой-то",
+    "answer": "one"
+  },
+  {
+    "text": "думать",
+    "answer": "think"
+  },
+  {
+    "text": "сделать",
+    "answer": "do"
+  },
+  {
+    "text": "страна",
+    "answer": "country"
+  },
+  {
+    "text": "жить",
+    "answer": "live"
+  },
+  {
+    "text": "чем",
+    "answer": "than"
+  },
+  {
+    "text": "мир",
+    "answer": "world"
+  },
+  {
+    "text": "об",
+    "answer": "about"
+  },
+  {
+    "text": "последний",
+    "answer": "last"
+  },
+  {
+    "text": "случай",
+    "answer": "happening"
+  },
+  {
+    "text": "голова",
+    "answer": "head"
+  },
+  {
+    "text": "более",
+    "answer": "more"
+  },
+  {
+    "text": "делать",
+    "answer": "do"
+  },
+  {
+    "text": "что-то",
+    "answer": "something"
+  },
+  {
+    "text": "смотреть",
+    "answer": "look"
+  },
+  {
+    "text": "ребенок",
+    "answer": "child"
+  },
+  {
+    "text": "просто",
+    "answer": "just"
+  },
+  {
+    "text": "конечно",
+    "answer": "of course"
+  },
+  {
+    "text": "сила",
+    "answer": "force"
+  },
+  {
+    "text": "конец",
+    "answer": "end"
+  },
+  {
+    "text": "перед",
+    "answer": "before"
+  },
+  {
+    "text": "вид",
+    "answer": "view"
+  },
+  {
+    "text": "система",
+    "answer": "system"
+  },
+  {
+    "text": "всегда",
+    "answer": "always"
+  },
+  {
+    "text": "работать",
+    "answer": "work"
+  },
+  {
+    "text": "между",
+    "answer": "between"
+  },
+  {
+    "text": "три",
+    "answer": "three"
+  },
+  {
+    "text": "нет",
+    "answer": "no"
+  },
+  {
+    "text": "пойти",
+    "answer": "go"
+  },
+  {
+    "text": "часть",
+    "answer": "part"
+  },
+  {
+    "text": "спросить",
+    "answer": "ask"
+  },
+  {
+    "text": "город",
+    "answer": "city"
+  },
+  {
+    "text": "дать",
+    "answer": "give"
+  },
+  {
+    "text": "также",
+    "answer": "also"
+  },
+  {
+    "text": "никто",
+    "answer": "no one"
+  },
+  {
+    "text": "получить",
+    "answer": "get"
+  },
+  {
+    "text": "отношение",
+    "answer": "ratio"
+  },
+  {
+    "text": "второй",
+    "answer": "second"
+  },
+  {
+    "text": "ваш",
+    "answer": "your"
+  },
+  {
+    "text": "хотя",
+    "answer": "although"
+  },
+  {
+    "text": "ни",
+    "answer": "nor"
+  },
+  {
+    "text": "сидеть",
+    "answer": "sit"
+  },
+  {
+    "text": "над",
+    "answer": "over"
+  },
+  {
+    "text": "женщина",
+    "answer": "woman"
+  },
+  {
+    "text": "оказаться",
+    "answer": "turn up"
+  },
+  {
+    "text": "русский",
+    "answer": "Russian"
+  },
+  {
+    "text": "один",
+    "answer": "one"
+  },
+  {
+    "text": "взять",
+    "answer": "take"
+  },
+  {
+    "text": "прийти",
+    "answer": "come"
+  },
+  {
+    "text": "являться",
+    "answer": "appear"
+  },
+  {
+    "text": "деньги",
+    "answer": "money"
+  },
+  {
+    "text": "почему",
+    "answer": "why"
+  },
+  {
+    "text": "вдруг",
+    "answer": "suddenly"
+  },
+  {
+    "text": "любить",
+    "answer": "love"
+  },
+  {
+    "text": "стоить",
+    "answer": "cost"
+  },
+  {
+    "text": "почти",
+    "answer": "almost"
+  },
+  {
+    "text": "земля",
+    "answer": "earth"
+  },
+  {
+    "text": "общий",
+    "answer": "general"
+  },
+  {
+    "text": "ведь",
+    "answer": "after all"
+  },
+  {
+    "text": "машина",
+    "answer": "machine"
+  },
+  {
+    "text": "однако",
+    "answer": "but"
+  },
+  {
+    "text": "сразу",
+    "answer": "at once"
+  },
+  {
+    "text": "хорошо",
+    "answer": "good"
+  },
+  {
+    "text": "вода",
+    "answer": "water"
+  },
+  {
+    "text": "отец",
+    "answer": "father"
+  },
+  {
+    "text": "высокий",
+    "answer": "high"
+  },
+  {
+    "text": "остаться",
+    "answer": "stay"
+  },
+  {
+    "text": "много",
+    "answer": "many"
+  },
+  {
+    "text": "проблема",
+    "answer": "problem"
+  },
+  {
+    "text": "начать",
+    "answer": "start off"
+  },
+  {
+    "text": "хороший",
+    "answer": "good"
+  },
+  {
+    "text": "час",
+    "answer": "hour"
+  },
+  {
+    "text": "это",
+    "answer": "it"
+  },
+  {
+    "text": "сегодня",
+    "answer": "today"
+  },
+  {
+    "text": "право",
+    "answer": "right"
+  },
+  {
+    "text": "совсем",
+    "answer": "quite"
+  },
+  {
+    "text": "нога",
+    "answer": "leg"
+  },
+  {
+    "text": "считать",
+    "answer": "think"
+  },
+  {
+    "text": "главный",
+    "answer": "main"
+  },
+  {
+    "text": "решение",
+    "answer": "decision"
+  },
+  {
+    "text": "увидеть",
+    "answer": "see"
+  },
+  {
+    "text": "дверь",
+    "answer": "door"
+  },
+  {
+    "text": "казаться",
+    "answer": "seem"
+  },
+  {
+    "text": "образ",
+    "answer": "form"
+  },
+  {
+    "text": "писать",
+    "answer": "write"
+  },
+  {
+    "text": "история",
+    "answer": "history"
+  },
+  {
+    "text": "лучший",
+    "answer": "best"
+  },
+  {
+    "text": "власть",
+    "answer": "power"
+  },
+  {
+    "text": "закон",
+    "answer": "law"
+  },
+  {
+    "text": "все",
+    "answer": "all"
+  },
+  {
+    "text": "война",
+    "answer": "war"
+  },
+  {
+    "text": "бог",
+    "answer": "god"
+  },
+  {
+    "text": "голос",
+    "answer": "vote"
+  },
+  {
+    "text": "найти",
+    "answer": "to find"
+  },
+  {
+    "text": "поэтому",
+    "answer": "therefore"
+  },
+  {
+    "text": "стоять",
+    "answer": "stand"
+  },
+  {
+    "text": "тысяча",
+    "answer": "thousand"
+  },
+  {
+    "text": "больше",
+    "answer": "more"
+  },
+  {
+    "text": "вместе",
+    "answer": "together"
+  },
+  {
+    "text": "маленький",
+    "answer": "small"
+  },
+  {
+    "text": "книга",
+    "answer": "book"
+  },
+  {
+    "text": "некоторый",
+    "answer": "some"
+  },
+  {
+    "text": "решить",
+    "answer": "decide"
+  },
+  {
+    "text": "любой",
+    "answer": "either"
+  },
+  {
+    "text": "результат",
+    "answer": "result"
+  },
+  {
+    "text": "ночь",
+    "answer": "night"
+  },
+  {
+    "text": "стол",
+    "answer": "table"
+  },
+  {
+    "text": "никогда",
+    "answer": "never"
+  },
+  {
+    "text": "имя",
+    "answer": "name"
+  },
+  {
+    "text": "область",
+    "answer": "region"
+  },
+  {
+    "text": "молодой",
+    "answer": "young"
+  },
+  {
+    "text": "пройти",
+    "answer": "pass the"
+  },
+  {
+    "text": "статья",
+    "answer": "article"
+  },
+  {
+    "text": "оно",
+    "answer": "it"
+  },
+  {
+    "text": "число",
+    "answer": "number"
+  },
+  {
+    "text": "компания",
+    "answer": "company"
+  },
+  {
+    "text": "про",
+    "answer": "against"
+  },
+  {
+    "text": "полный",
+    "answer": "full"
+  },
+  {
+    "text": "принять",
+    "answer": "accept"
+  },
+  {
+    "text": "народ",
+    "answer": "people"
+  },
+  {
+    "text": "никакой",
+    "answer": "no"
+  },
+  {
+    "text": "советский",
+    "answer": "Soviet"
+  },
+  {
+    "text": "жена",
+    "answer": "wife"
+  },
+  {
+    "text": "настоящий",
+    "answer": "present"
+  },
+  {
+    "text": "всякий",
+    "answer": "any"
+  },
+  {
+    "text": "группа",
+    "answer": "group"
+  },
+  {
+    "text": "процесс",
+    "answer": "process"
+  },
+  {
+    "text": "суд",
+    "answer": "court"
+  },
+  {
+    "text": "давать",
+    "answer": "give"
+  },
+  {
+    "text": "ответить",
+    "answer": "answer"
+  },
+  {
+    "text": "старый",
+    "answer": "old"
+  },
+  {
+    "text": "условие",
+    "answer": "condition"
+  },
+  {
+    "text": "твой",
+    "answer": "your"
+  },
+  {
+    "text": "пока",
+    "answer": "while"
+  },
+  {
+    "text": "средство",
+    "answer": "means"
+  },
+  {
+    "text": "помнить",
+    "answer": "remember"
+  },
+  {
+    "text": "начало",
+    "answer": "start"
+  },
+  {
+    "text": "ждать",
+    "answer": "wait"
+  },
+  {
+    "text": "свет",
+    "answer": "shine"
+  }
+]
