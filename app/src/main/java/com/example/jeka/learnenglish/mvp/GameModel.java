@@ -15,14 +15,32 @@ class GameModel {
 
     private List<Word> data;
     private JSONHelper jsonHelper;
+    private int fileNum = 0;
+    //private List<Doublet> doublets;
+    public int getFileNum() {
+        return fileNum;
+    }
+
+    public void setFileNum(int fileNum) {
+        this.fileNum = fileNum;
+    }
+
 
 
     private int amountItems = 15;
 
     GameModel(JSONHelper jsonHelper) {
         this.jsonHelper = jsonHelper;
+        //this.doublets = jsonHelper.importFromJSON();
     }
 
+    public void setAmountItems(int amountItems) {
+        this.amountItems = amountItems;
+    }
+
+    public int getAmountItems() {
+        return amountItems;
+    }
 
     private void setData(List<Word> data) {
         this.data = data;
@@ -40,6 +58,7 @@ class GameModel {
         } else {
             return false;
         }
+
     }
 
     private void shuffle(List<Word> words){
@@ -55,7 +74,7 @@ class GameModel {
 
         private final LoadWordCallback callback;
 
-        public LoadWordsTask(LoadWordCallback callback) {
+        LoadWordsTask(LoadWordCallback callback) {
             this.callback = callback;
         }
 
@@ -69,7 +88,7 @@ class GameModel {
         @Override
         protected List<Word> doInBackground(Void... voids) {
             List<Word> words = new LinkedList<>();
-            List<Doublet> doublets = jsonHelper.importFromJSON();
+            List<Doublet> doublets = jsonHelper.importFromJSON(fileNum);
             for (int i = 0; i < amountItems; i++){
                 int randId = new Random().nextInt(250);
                 int randColor = new Random().nextInt(3);
