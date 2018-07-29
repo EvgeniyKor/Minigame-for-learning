@@ -16,12 +16,20 @@ import com.example.jeka.learnenglish.MyRecyclerViewAdapter;
 import com.example.jeka.learnenglish.R;
 import com.example.jeka.learnenglish.data.Word;
 
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+
+import stfalcon.universalpickerdialog.UniversalPickerDialog;
 
 public class GameActivity extends AppCompatActivity implements MyRecyclerViewAdapter.ItemClickListener {
 
     private GamePresenter presenter;
     MyRecyclerViewAdapter adapter;
+
+    private static ArrayList<String> LIST_OF_WORDS = new ArrayList<>(
+            Arrays.asList("1 - 250", "251 - 500", "501 - 750", "751 - 1000"));
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,7 +49,10 @@ public class GameActivity extends AppCompatActivity implements MyRecyclerViewAda
         presenter = new GamePresenter(gameModel);
         presenter.attachView(this);
 
+
+
         loadData();
+
         //ButterKnife.bind(this);
     }
 
@@ -54,11 +65,30 @@ public class GameActivity extends AppCompatActivity implements MyRecyclerViewAda
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        if (item.getItemId() == R.id.menu_refresh){
-            presenter.loadWords();
-            presenter.loadWords();
+        switch (item.getItemId()){
+            case R.id.menu_refresh:
+                presenter.loadWords();
+                presenter.loadWords();
+                break;
+            case R.id.menu_settings:
+                showSettingsDialog();
+                break;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    private void showSettingsDialog() {
+        new UniversalPickerDialog.Builder(this)
+                .setTitle(R.string.dialog_title)
+                .setContentTextSize(16)
+                .setListener(new UniversalPickerDialog.OnPickListener() {
+                    @Override
+                    public void onPick(int[] selectedValues, int key) {
+                        presenter.changedRangeWords(selectedValues[0]);
+                    }
+                })
+                .setInputs(new UniversalPickerDialog.Input(0, LIST_OF_WORDS))
+                .show();
     }
 
     @Override

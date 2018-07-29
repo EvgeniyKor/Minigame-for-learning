@@ -10,7 +10,7 @@ public class GamePresenter {
     private GameActivity gameView;
 
 
-    public GamePresenter(GameModel model) {
+    GamePresenter(GameModel model) {
         this.gameModel = model;
     }
 
@@ -52,4 +52,8 @@ public class GamePresenter {
         }
     }
 
+    public void changedRangeWords(int value) {
+        gameModel.setFileNum(value);
+        loadWords();
+    }
 }
