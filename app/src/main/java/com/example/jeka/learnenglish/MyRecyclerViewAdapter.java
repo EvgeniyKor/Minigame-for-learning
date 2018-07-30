@@ -16,6 +16,7 @@ import com.github.florent37.shapeofview.shapes.RoundRectView;
 
 import org.w3c.dom.Text;
 
+import java.util.LinkedList;
 import java.util.List;
 
 import butterknife.BindView;
@@ -24,7 +25,7 @@ import butterknife.ButterKnife;
 public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAdapter.ViewHolder> {
 
     private ItemClickListener mClickListener;
-    private List<Word> mData;
+    private List<Word> mData = new LinkedList<>();
 
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
@@ -36,20 +37,7 @@ public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAd
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
         holder.mTextView.setText(mData.get(position).getText());
-        switch (mData.get(position).getColorId()) {
-            case 0:
-                holder.imageView.setImageResource(R.color.color0);
-                break;
-            case 1:
-                holder.imageView.setImageResource(R.color.color1);
-                break;
-            case 2:
-                holder.imageView.setImageResource(R.color.color2);
-                break;
-            default:
-                holder.imageView.setImageResource(R.color.colorPrimaryDark);
-                break;
-        }
+        holder.imageView.setImageResource(mData.get(position).getColorId());
         if (mData.get(position).isTarget())
             holder.roundRectView.setBorderWidthPx(20);
         if (mData.get(position).isConceal()){

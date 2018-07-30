@@ -6,13 +6,18 @@ public class Word {
     private String text;
     private boolean target;
     private boolean conceal;
-    private int colorId;
+    private Integer colorId;
 
-    public int getColorId() {
+    public Word() {
+        this.target = false;
+        this.conceal = false;
+    }
+
+    public Integer getColorId() {
         return colorId;
     }
 
-    public void setColorId(int colorId) {
+    public void setColorId(Integer colorId) {
         this.colorId = colorId;
     }
 

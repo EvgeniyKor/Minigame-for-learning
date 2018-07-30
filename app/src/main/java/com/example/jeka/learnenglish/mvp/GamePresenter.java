@@ -1,6 +1,5 @@
 package com.example.jeka.learnenglish.mvp;
 
-import com.example.jeka.learnenglish.mvp.GameModel;
 import com.example.jeka.learnenglish.data.Word;
 
 import java.util.List;
@@ -54,6 +53,13 @@ public class GamePresenter {
 
     public void changedRangeWords(int value) {
         gameModel.setFileNum(value);
+        loadWords();
+        loadWords();
+    }
+
+    public void changedColorPalette(List<Integer> colorList) {
+        gameModel.setColorPalette(colorList);
+        loadWords();
         loadWords();
     }
 }
